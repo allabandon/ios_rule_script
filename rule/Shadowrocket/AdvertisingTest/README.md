@@ -18,15 +18,15 @@
 
 ## 规则统计
 
-总计规则：90495 条。
+总计规则：90572 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN-KEYWORD | 79 |
-| DOMAIN-SUFFIX | 75536 |
-| DOMAIN | 14324 |
+| DOMAIN-SUFFIX | 75614 |
+| DOMAIN | 14323 |
 | IP-CIDR | 253 |
 | IP-CIDR6 | 1 |
 | URL-REGEX | 302 |
