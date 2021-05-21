@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-21 02:26:09
+# UPDATED: 2021-05-22 02:28:16
 # DOMAIN: 43
-# DOMAIN-SUFFIX: 30863
+# DOMAIN-SUFFIX: 30946
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 31026
+# TOTAL: 31109
 payload:
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,1drv

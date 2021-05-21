@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-21 02:26:09
+# UPDATED: 2021-05-22 02:28:15
 # DOMAIN-KEYWORD: 79
-# DOMAIN-SUFFIX: 46909
-# DOMAIN: 20672
+# DOMAIN-SUFFIX: 46918
+# DOMAIN: 20671
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 67914
+# TOTAL: 67922
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1217,6 +1217,7 @@ payload:
   - DOMAIN,adimg.mp3.com
   - DOMAIN,adimg.ngfiles.com
   - DOMAIN,adin.bigpoint.com
+  - DOMAIN,adincube.com
   - DOMAIN,adinjector.net
   - DOMAIN,adinsight.eu
   - DOMAIN,adjourne.com
@@ -2593,7 +2594,6 @@ payload:
   - DOMAIN,algocashmaster.net
   - DOMAIN,alhamddevelopers.com
   - DOMAIN,alhayah-spine.com
-  - DOMAIN,alheraschool.com
   - DOMAIN,ali.cityads.com
   - DOMAIN,alialibaba.bugs3.com
   - DOMAIN,alibaba.svstyle.com
@@ -2688,6 +2688,7 @@ payload:
   - DOMAIN,alsurdelplaneta.com
   - DOMAIN,alta.eqmob.com
   - DOMAIN,altakwafood.com
+  - DOMAIN,altereart.com
   - DOMAIN,alternativestreams.org
   - DOMAIN,altezz.000webhostapp.com
   - DOMAIN,altmedia101.com
@@ -5646,7 +5647,6 @@ payload:
   - DOMAIN,cocfreegems.net
   - DOMAIN,cocgemtool.com
   - DOMAIN,cochinconsulting.com
-  - DOMAIN,codblackops2hacks.net
   - DOMAIN,code-gratuit.org
   - DOMAIN,code.adsales.snidigital.com
   - DOMAIN,code.ionicframework.com
@@ -5710,6 +5710,7 @@ payload:
   - DOMAIN,collector.savvyads.com
   - DOMAIN,collector.xhamster.com
   - DOMAIN,collector1.xhamster.com
+  - DOMAIN,collectorsway.com
   - DOMAIN,colleenoakley.com
   - DOMAIN,collinsportal.com
   - DOMAIN,colombiaonline.com
@@ -6664,7 +6665,6 @@ payload:
   - DOMAIN,digitallyours.com
   - DOMAIN,digitalmediaventures.com
   - DOMAIN,digitalmerkat.com
-  - DOMAIN,digitalmuladi.com
   - DOMAIN,digitalnahrvatska.org
   - DOMAIN,digitrendsafrica.com
   - DOMAIN,digivoyage.com
@@ -6997,6 +6997,7 @@ payload:
   - DOMAIN,drda5yf9kgz5p.cloudfront.net
   - DOMAIN,drdudeck.com
   - DOMAIN,drealvog.ddns.net
+  - DOMAIN,dream-file.com
   - DOMAIN,dream1well.com
   - DOMAIN,dreambigprintbig.com
   - DOMAIN,dreamdesignworkshop.com
@@ -7567,6 +7568,7 @@ payload:
   - DOMAIN,events.api.bosecm.com
   - DOMAIN,events.artirix.com
   - DOMAIN,events.blis.com
+  - DOMAIN,events.data.microsoft.com
   - DOMAIN,events.evie.com
   - DOMAIN,events.iap.unity3d.com
   - DOMAIN,events.lbesecapi.com
@@ -7889,6 +7891,7 @@ payload:
   - DOMAIN,fetish-art.net
   - DOMAIN,fetishfitnessbabes.com
   - DOMAIN,fetishlocator.com
+  - DOMAIN,ffa-hosting.com
   - DOMAIN,ffbook.cc
   - DOMAIN,ffxitrack.com
   - DOMAIN,fg.softguy.com
@@ -9550,6 +9553,7 @@ payload:
   - DOMAIN,hdmoviespot.com
   - DOMAIN,hdporium.com
   - DOMAIN,hdyj168.com.cn
+  - DOMAIN,headless.ebkfwd.com
   - DOMAIN,healgastro.com
   - DOMAIN,health-partner.net
   - DOMAIN,healthbeautyncs.com
@@ -10538,7 +10542,6 @@ payload:
   - DOMAIN,j.bayctrk.com
   - DOMAIN,j.hnhanjie.com
   - DOMAIN,j.jiuyue699.com
-  - DOMAIN,j.neemzksw.com
   - DOMAIN,j.qtjthk.com
   - DOMAIN,j0c5je5flc.bbpsldh.org
   - DOMAIN,j1ti2.5255235.com
@@ -10599,6 +10602,7 @@ payload:
   - DOMAIN,javaterm.com
   - DOMAIN,javbox111.com
   - DOMAIN,javbox666.com
+  - DOMAIN,javbox777.com
   - DOMAIN,javbox888.com
   - DOMAIN,javcoast.com
   - DOMAIN,jawi55v.000webhostapp.com
@@ -10824,7 +10828,6 @@ payload:
   - DOMAIN,junior.apk.net
   - DOMAIN,junjiezyc.com
   - DOMAIN,junsunlighting.com
-  - DOMAIN,juntohru.com
   - DOMAIN,jurassicpark.newzgames.com
   - DOMAIN,juridicoee.sslblindado.com
   - DOMAIN,juruiklan.com
@@ -11154,7 +11157,6 @@ payload:
   - DOMAIN,laexotic.com
   - DOMAIN,laforetgardens.com
   - DOMAIN,lagilapar.com
-  - DOMAIN,laglobetravel.com
   - DOMAIN,laiqukeji.com
   - DOMAIN,lakeecogroup.com
   - DOMAIN,lakefrontvacationsuites.com
@@ -13372,6 +13374,7 @@ payload:
   - DOMAIN,nugrowth4.actonsoftware.com
   - DOMAIN,nuit-artisanale.com
   - DOMAIN,nulledshare.com
+  - DOMAIN,nulledstore.com
   - DOMAIN,numarapaneli.com
   - DOMAIN,number.vxshopping.com
   - DOMAIN,numberhacker.com
@@ -14210,7 +14213,6 @@ payload:
   - DOMAIN,pipeschannels.com
   - DOMAIN,piquantpigs.com
   - DOMAIN,piranhacheats.com
-  - DOMAIN,piratagelogiciels.com
   - DOMAIN,piratepc.net
   - DOMAIN,pirater-compte.com
   - DOMAIN,piratercomptefb.com
@@ -15843,6 +15845,7 @@ payload:
   - DOMAIN,sdc.windowsmarketplace.com
   - DOMAIN,sdcurepge.000webhostapp.com
   - DOMAIN,sdk.accountkit.com
+  - DOMAIN,sdk.adincube.com
   - DOMAIN,sdk.apptimize.com
   - DOMAIN,sdk.eqmob.com
   - DOMAIN,sdk.native123.com
@@ -15905,7 +15908,6 @@ payload:
   - DOMAIN,secondchancecoaching.com
   - DOMAIN,secondome.com
   - DOMAIN,secretarea.net
-  - DOMAIN,secretfilez.com
   - DOMAIN,secrethotgames.com
   - DOMAIN,secretivecub.com
   - DOMAIN,secretosarevelar.com
@@ -16161,7 +16163,6 @@ payload:
   - DOMAIN,sh.younetmedia.com
   - DOMAIN,sha2008.com
   - DOMAIN,sha2013.com
-  - DOMAIN,sha2021.com
   - DOMAIN,sha2024.com
   - DOMAIN,shadesandblinds.com
   - DOMAIN,shafayat.com
@@ -17243,7 +17244,6 @@ payload:
   - DOMAIN,studiotitus.com
   - DOMAIN,study-by.com
   - DOMAIN,stuff-nzwhistleout.s3.amazonaws.com
-  - DOMAIN,stun.services.mozilla.com
   - DOMAIN,stuntoffer.com
   - DOMAIN,sturdeephotography.com
   - DOMAIN,stwchicago.org
@@ -17455,7 +17455,6 @@ payload:
   - DOMAIN,szczesliwydzien.com
   - DOMAIN,szdamuzhi.com
   - DOMAIN,szemlelo.com
-  - DOMAIN,szftlaser.com
   - DOMAIN,szinhaz.hu
   - DOMAIN,sznm.com.cn
   - DOMAIN,sznxdqqvjgam.com
@@ -17596,6 +17595,7 @@ payload:
   - DOMAIN,taximtravel.com
   - DOMAIN,tazatarin.com
   - DOMAIN,tbaludhiana.com
+  - DOMAIN,tbhomeinspection.com
   - DOMAIN,tbk-app.com
   - DOMAIN,tbs.imtt.qq.com
   - DOMAIN,tc-imp.inq.com
@@ -19663,7 +19663,6 @@ payload:
   - DOMAIN,wife.goldspring.net
   - DOMAIN,wifi-hacker.org
   - DOMAIN,wifihacked.com
-  - DOMAIN,wifihackfree.com
   - DOMAIN,wifihackpassword.com
   - DOMAIN,wifipasser.com
   - DOMAIN,wifipasswordhacker.com
@@ -21158,6 +21157,7 @@ payload:
   - DOMAIN-SUFFIX,188api.com
   - DOMAIN-SUFFIX,188server.com
   - DOMAIN-SUFFIX,188xiaoba.net
+  - DOMAIN-SUFFIX,189key.com
   - DOMAIN-SUFFIX,189zj.cn
   - DOMAIN-SUFFIX,18av.mm-cg.co
   - DOMAIN-SUFFIX,18clicks.com
@@ -28795,6 +28795,7 @@ payload:
   - DOMAIN-SUFFIX,blablablaaa.xyz
   - DOMAIN-SUFFIX,black6adv.com
   - DOMAIN-SUFFIX,blackforce.club
+  - DOMAIN-SUFFIX,blackhole.m.jd.com
   - DOMAIN-SUFFIX,blackname.biz
   - DOMAIN-SUFFIX,blacknessversiondan.com
   - DOMAIN-SUFFIX,blackpics.net
@@ -36297,7 +36298,6 @@ payload:
   - DOMAIN-SUFFIX,events.avantisvideo.com
   - DOMAIN-SUFFIX,events.brightline.tv
   - DOMAIN-SUFFIX,events.chaordicsystems.com
-  - DOMAIN-SUFFIX,events.data.microsoft.com
   - DOMAIN-SUFFIX,events.demoup.com
   - DOMAIN-SUFFIX,events.gfe.nvidia.com
   - DOMAIN-SUFFIX,events.godaddy.com
@@ -37115,6 +37115,7 @@ payload:
   - DOMAIN-SUFFIX,firefeeder.com
   - DOMAIN-SUFFIX,fireflyengagement.com
   - DOMAIN-SUFFIX,firescorrelationprodigy.com
+  - DOMAIN-SUFFIX,firevent.jd.com
   - DOMAIN-SUFFIX,firewoodnativewoodlands.com
   - DOMAIN-SUFFIX,fireworkssetstill.com
   - DOMAIN-SUFFIX,firingair.com
@@ -49919,6 +49920,7 @@ payload:
   - DOMAIN-SUFFIX,nvwqqlroj.com
   - DOMAIN-SUFFIX,nvysyzemuvac.com
   - DOMAIN-SUFFIX,nw-rail-03.com
+  - DOMAIN-SUFFIX,nw-umwatson.events.data.microsoft.com
   - DOMAIN-SUFFIX,nwejs.alcryp.com
   - DOMAIN-SUFFIX,nwejs.myzcoffice.com
   - DOMAIN-SUFFIX,nwfhalifax.com
@@ -60258,8 +60260,13 @@ payload:
   - DOMAIN-SUFFIX,tel-tel-fie.com
   - DOMAIN-SUFFIX,tele.trafficmanager.net
   - DOMAIN-SUFFIX,telecommand.telemetry.microsoft.com.nsatc.net
+  - DOMAIN-SUFFIX,telegram-cn.org
+  - DOMAIN-SUFFIX,telegram-vip.com
+  - DOMAIN-SUFFIX,telegramcn.org
   - DOMAIN-SUFFIX,telegramspun.com
+  - DOMAIN-SUFFIX,telegramsvip.com
   - DOMAIN-SUFFIX,telegraph.api.hbo.com
+  - DOMAIN-SUFFIX,telegrcn.org
   - DOMAIN-SUFFIX,telemetric.dk
   - DOMAIN-SUFFIX,telemetrics.klaviyo.com
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
@@ -62756,6 +62763,7 @@ payload:
   - DOMAIN-SUFFIX,umtrack2.com
   - DOMAIN-SUFFIX,umv0.com
   - DOMAIN-SUFFIX,umv5.com
+  - DOMAIN-SUFFIX,umwatsonc.events.data.microsoft.com
   - DOMAIN-SUFFIX,umwvvq.rentals.com
   - DOMAIN-SUFFIX,umwyfqgsg.com
   - DOMAIN-SUFFIX,umxwew.hellobello.com

@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-21 02:26:09
+# UPDATED: 2021-05-22 02:28:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 79
-# DOMAIN-SUFFIX: 46909
-# DOMAIN: 20672
+# DOMAIN-SUFFIX: 46918
+# DOMAIN: 20671
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 68216
+# TOTAL: 68224
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -1218,6 +1218,7 @@ adimg.com.com
 adimg.mp3.com
 adimg.ngfiles.com
 adin.bigpoint.com
+adincube.com
 adinjector.net
 adinsight.eu
 adjourne.com
@@ -2594,7 +2595,6 @@ algocashmaster.com
 algocashmaster.net
 alhamddevelopers.com
 alhayah-spine.com
-alheraschool.com
 ali.cityads.com
 alialibaba.bugs3.com
 alibaba.svstyle.com
@@ -2689,6 +2689,7 @@ alsultanah.com
 alsurdelplaneta.com
 alta.eqmob.com
 altakwafood.com
+altereart.com
 alternativestreams.org
 altezz.000webhostapp.com
 altmedia101.com
@@ -5647,7 +5648,6 @@ coc.validcheats.com
 cocfreegems.net
 cocgemtool.com
 cochinconsulting.com
-codblackops2hacks.net
 code-gratuit.org
 code.adsales.snidigital.com
 code.ionicframework.com
@@ -5711,6 +5711,7 @@ collector.puhutv.com
 collector.savvyads.com
 collector.xhamster.com
 collector1.xhamster.com
+collectorsway.com
 colleenoakley.com
 collinsportal.com
 colombiaonline.com
@@ -6665,7 +6666,6 @@ digitallyinspiredmedia.com
 digitallyours.com
 digitalmediaventures.com
 digitalmerkat.com
-digitalmuladi.com
 digitalnahrvatska.org
 digitrendsafrica.com
 digivoyage.com
@@ -6998,6 +6998,7 @@ drchx.000webhostapp.com
 drda5yf9kgz5p.cloudfront.net
 drdudeck.com
 drealvog.ddns.net
+dream-file.com
 dream1well.com
 dreambigprintbig.com
 dreamdesignworkshop.com
@@ -7568,6 +7569,7 @@ events.amarujala.com
 events.api.bosecm.com
 events.artirix.com
 events.blis.com
+events.data.microsoft.com
 events.evie.com
 events.iap.unity3d.com
 events.lbesecapi.com
@@ -7890,6 +7892,7 @@ fervortracer.com
 fetish-art.net
 fetishfitnessbabes.com
 fetishlocator.com
+ffa-hosting.com
 ffbook.cc
 ffxitrack.com
 fg.softguy.com
@@ -9551,6 +9554,7 @@ hdmovieon.com
 hdmoviespot.com
 hdporium.com
 hdyj168.com.cn
+headless.ebkfwd.com
 healgastro.com
 health-partner.net
 healthbeautyncs.com
@@ -10539,7 +10543,6 @@ izzyfish.com
 j.bayctrk.com
 j.hnhanjie.com
 j.jiuyue699.com
-j.neemzksw.com
 j.qtjthk.com
 j0c5je5flc.bbpsldh.org
 j1ti2.5255235.com
@@ -10600,6 +10603,7 @@ javascriptobfuscator.com
 javaterm.com
 javbox111.com
 javbox666.com
+javbox777.com
 javbox888.com
 javcoast.com
 jawi55v.000webhostapp.com
@@ -10825,7 +10829,6 @@ jungtaesook.com
 junior.apk.net
 junjiezyc.com
 junsunlighting.com
-juntohru.com
 jurassicpark.newzgames.com
 juridicoee.sslblindado.com
 juruiklan.com
@@ -11155,7 +11158,6 @@ ladon.wshareit.com
 laexotic.com
 laforetgardens.com
 lagilapar.com
-laglobetravel.com
 laiqukeji.com
 lakeecogroup.com
 lakefrontvacationsuites.com
@@ -13373,6 +13375,7 @@ nug.jozmovie.xyz
 nugrowth4.actonsoftware.com
 nuit-artisanale.com
 nulledshare.com
+nulledstore.com
 numarapaneli.com
 number.vxshopping.com
 numberhacker.com
@@ -14211,7 +14214,6 @@ pipermuseum.com
 pipeschannels.com
 piquantpigs.com
 piranhacheats.com
-piratagelogiciels.com
 piratepc.net
 pirater-compte.com
 piratercomptefb.com
@@ -15844,6 +15846,7 @@ sdc.vml.com
 sdc.windowsmarketplace.com
 sdcurepge.000webhostapp.com
 sdk.accountkit.com
+sdk.adincube.com
 sdk.apptimize.com
 sdk.eqmob.com
 sdk.native123.com
@@ -15906,7 +15909,6 @@ secbird.com
 secondchancecoaching.com
 secondome.com
 secretarea.net
-secretfilez.com
 secrethotgames.com
 secretivecub.com
 secretosarevelar.com
@@ -16162,7 +16164,6 @@ sh.creativcdn.net
 sh.younetmedia.com
 sha2008.com
 sha2013.com
-sha2021.com
 sha2024.com
 shadesandblinds.com
 shafayat.com
@@ -17244,7 +17245,6 @@ studiolegaleabbruzzese.com
 studiotitus.com
 study-by.com
 stuff-nzwhistleout.s3.amazonaws.com
-stun.services.mozilla.com
 stuntoffer.com
 sturdeephotography.com
 stwchicago.org
@@ -17456,7 +17456,6 @@ szbangjie.cn
 szczesliwydzien.com
 szdamuzhi.com
 szemlelo.com
-szftlaser.com
 szinhaz.hu
 sznm.com.cn
 sznxdqqvjgam.com
@@ -17597,6 +17596,7 @@ tavuks.com
 taximtravel.com
 tazatarin.com
 tbaludhiana.com
+tbhomeinspection.com
 tbk-app.com
 tbs.imtt.qq.com
 tc-imp.inq.com
@@ -19664,7 +19664,6 @@ wielkanagroda.com
 wife.goldspring.net
 wifi-hacker.org
 wifihacked.com
-wifihackfree.com
 wifihackpassword.com
 wifipasser.com
 wifipasswordhacker.com
@@ -21159,6 +21158,7 @@ zzz.clickbank.net
 .188api.com
 .188server.com
 .188xiaoba.net
+.189key.com
 .189zj.cn
 .18av.mm-cg.co
 .18clicks.com
@@ -28796,6 +28796,7 @@ zzz.clickbank.net
 .blablablaaa.xyz
 .black6adv.com
 .blackforce.club
+.blackhole.m.jd.com
 .blackname.biz
 .blacknessversiondan.com
 .blackpics.net
@@ -36298,7 +36299,6 @@ zzz.clickbank.net
 .events.avantisvideo.com
 .events.brightline.tv
 .events.chaordicsystems.com
-.events.data.microsoft.com
 .events.demoup.com
 .events.gfe.nvidia.com
 .events.godaddy.com
@@ -37116,6 +37116,7 @@ zzz.clickbank.net
 .firefeeder.com
 .fireflyengagement.com
 .firescorrelationprodigy.com
+.firevent.jd.com
 .firewoodnativewoodlands.com
 .fireworkssetstill.com
 .firingair.com
@@ -49920,6 +49921,7 @@ zzz.clickbank.net
 .nvwqqlroj.com
 .nvysyzemuvac.com
 .nw-rail-03.com
+.nw-umwatson.events.data.microsoft.com
 .nwejs.alcryp.com
 .nwejs.myzcoffice.com
 .nwfhalifax.com
@@ -60259,8 +60261,13 @@ zzz.clickbank.net
 .tel-tel-fie.com
 .tele.trafficmanager.net
 .telecommand.telemetry.microsoft.com.nsatc.net
+.telegram-cn.org
+.telegram-vip.com
+.telegramcn.org
 .telegramspun.com
+.telegramsvip.com
 .telegraph.api.hbo.com
+.telegrcn.org
 .telemetric.dk
 .telemetrics.klaviyo.com
 .telemetry.api.wmcdp.io
@@ -62757,6 +62764,7 @@ zzz.clickbank.net
 .umtrack2.com
 .umv0.com
 .umv5.com
+.umwatsonc.events.data.microsoft.com
 .umwvvq.rentals.com
 .umwyfqgsg.com
 .umxwew.hellobello.com
