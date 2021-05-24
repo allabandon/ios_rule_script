@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-24 02:24:11
-# DOMAIN-SUFFIX: 69883
+# UPDATED: 2021-05-25 02:30:29
+# DOMAIN-SUFFIX: 69886
 # DOMAIN: 76
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70030
+# TOTAL: 70033
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -13485,6 +13485,7 @@ payload:
   - DOMAIN-SUFFIX,byshr.com
   - DOMAIN-SUFFIX,bysj999.com
   - DOMAIN-SUFFIX,bysocket.com
+  - DOMAIN-SUFFIX,bystack.com
   - DOMAIN-SUFFIX,bysxfz.com
   - DOMAIN-SUFFIX,byte.online
   - DOMAIN-SUFFIX,bytebye.com
@@ -40753,6 +40754,8 @@ payload:
   - DOMAIN-SUFFIX,matongxue.com
   - DOMAIN-SUFFIX,matools.com
   - DOMAIN-SUFFIX,matouwang.com
+  - DOMAIN-SUFFIX,matpool.com
+  - DOMAIN-SUFFIX,matpool.net
   - DOMAIN-SUFFIX,matt33.com
   - DOMAIN-SUFFIX,mattge.com
   - DOMAIN-SUFFIX,matthewsery.com
