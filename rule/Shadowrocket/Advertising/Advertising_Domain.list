@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-26 02:36:44
+# UPDATED: 2021-05-27 02:48:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 80
-# DOMAIN-SUFFIX: 47055
-# DOMAIN: 20642
+# DOMAIN-SUFFIX: 47053
+# DOMAIN: 20653
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 68333
+# TOTAL: 68342
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -817,7 +817,6 @@ abcdespanol.com
 abckj123.com
 abclauncher.com
 abctoppictures.net
-abdcbuae.com
 abdel.wpdevcloud.com
 abdicted.com
 abdlphone.com
@@ -1741,6 +1740,7 @@ ads.persgroep.net
 ads.phillyburbs.com
 ads.phonearena.com
 ads.phpclasses.org
+ads.pickmeup-ltd.com
 ads.pimdesign.org
 ads.pinger.com
 ads.pitchforkmedia.com
@@ -3370,6 +3370,7 @@ assampant.club
 asset.cdn.auditude.com
 assets-jpcust.jwpsrv.com
 assets.adobedtm.com
+assets.ckjr001.com
 assets.icubeswire.com
 assets.igapi.com
 assets.kromtech.net
@@ -4076,6 +4077,7 @@ biznettvigator.com
 bizzibeans.net
 bj-fengshi.com
 bjano.owncube.com
+bjdingyedianli.com
 bjjingda.com
 bjjmywcb.com
 bkkwedding.com
@@ -5112,6 +5114,7 @@ chatty-imaginativelady.com
 chattysnaps.com
 chaturbate.epickeys.com
 chaturbatetokenhack.org
+chaussuressoldesnb.com
 chautcho.com
 chazdean.inq.com
 chazdean.touchcommerce.com
@@ -6874,7 +6877,6 @@ down.rising.net.cn
 down.sandai.net
 down.touming5.com
 down.tututool.com
-down.unadnet.com.cn
 down.upantool.com
 down.whphonesoft.com
 down.xiazai2.net
@@ -6992,7 +6994,6 @@ drchx.000webhostapp.com
 drda5yf9kgz5p.cloudfront.net
 drdudeck.com
 drealvog.ddns.net
-dream-file.com
 dream1well.com
 dreambigprintbig.com
 dreamdesignworkshop.com
@@ -9482,12 +9483,12 @@ handyfield.com
 handymend.com
 hangibolum.com
 hangzhourugby.com
-hanksbest.com
 hansrane.000webhostapp.com
 hanulsms.com
 hanys.actonsoftware.com
 hanys2.actonsoftware.com
 hanzele.wpdevcloud.com
+hao.6955000.com
 hao.rising.cn
 hao.xiaomi.com
 happyfathersdaydaddy.com
@@ -11081,6 +11082,7 @@ kozhasobak.com
 kozhniebolezni.com
 kozszolgalat.com
 kpremium.com
+kpstaticbj.wx.ckjr001.com
 kqmjmrzjhmdn.com
 kqyemarketplace.com
 krakragames.com
@@ -13357,7 +13359,6 @@ number.vxshopping.com
 numberhacker.com
 numericable.inq.com
 nummlock.000webhostapp.com
-nuptialimages.com
 nutabuse.com
 nutriagrosrl.com
 nutritionistinthekitch.com
@@ -13634,6 +13635,7 @@ openoverflow.com
 opensoftwareupdate.com
 opensoftwareupdater.com
 opentag-stats.qubit.com
+openunder.net
 openwidedentalmarketing.com
 openx-cm.p.veruta.com
 openx.4shared.com
@@ -14386,7 +14388,6 @@ popunder.com
 popunder.fpctraffic.com
 popunder.net
 popunder.paypopup.com
-popunder.popcde.com
 popup-traffic.com
 popup.oxcash.com
 popup.softreklam.com
@@ -15625,6 +15626,7 @@ safe.earnethnow.com
 safe.hyperpaysys.com
 safebrowse.com
 safehackz.com
+safeken.com
 safelinking.net
 safemobilelink.com
 safepccleaner.com
@@ -16128,7 +16130,10 @@ sh-sunq.com
 sh-yuan.com
 sh.creativcdn.net
 sh.younetmedia.com
+sha2008.com
 sha2013.com
+sha2021.com
+sha2024.com
 shadesandblinds.com
 shafayat.com
 shagarat.com
@@ -16392,6 +16397,7 @@ skinfloat.com
 skingang.com
 skinjars.com
 skins-club.com
+skins-trader.com
 skins-trading.com
 skinsbaron.com
 skinsbit.com
@@ -16442,6 +16448,7 @@ slickaffiliate.com
 slickjump.net
 slicktext.com
 slightlyoffcenter.net
+slimming21cn.com
 slipperysack.com
 slontube.net
 slopeac.com
@@ -16669,6 +16676,7 @@ source-hack.com
 sourcelemon.com
 sourcengo.com
 sourmath.com
+soushop.net
 southernchampion.com
 southstreetim.com
 souvenirua.com
@@ -17423,6 +17431,7 @@ szbangjie.cn
 szczesliwydzien.com
 szdamuzhi.com
 szemlelo.com
+szftlaser.com
 szinhaz.hu
 sznm.com.cn
 sznxdqqvjgam.com
@@ -18387,6 +18396,7 @@ trade.acuityads.com
 tradeadsexchange.com
 trademetallica.com
 trademob.com
+trader.erosdlz.com
 traderockets.com
 tradersbrokers.com
 tradingcsgo.com
@@ -18498,7 +18508,6 @@ trewqas.hostvietnam.xyz
 triangle.dealsaver.com
 triangleservicesltd.com
 tribalfusion.speedera.net
-tribblenews.com
 trichecode.com
 tricheurhq.com
 tricikli.com
@@ -18646,6 +18655,7 @@ twodemo.com
 twoj-voucher.com
 twoja-wygrana.com
 twojszczesliwydzien.com
+twqiqiang.com
 twskype.com
 twthack.com
 txn.ingest.crittercism.com
@@ -20351,6 +20361,7 @@ yinyuanhotel.net
 yiqisese.com
 yiren02.com
 yisouxinxi.com
+yixingim.com
 ymail-activate1.bugs3.com
 ymetrica.com
 yngxtgj.com
@@ -27182,7 +27193,6 @@ zzz.clickbank.net
 .assembledscout.com
 .assetize.com
 .assets.2343sdxs.com
-.assets.ckjr001.com
 .assets.garron.blog
 .assets.garron.me
 .assets.servedby-buysellads.com
@@ -43801,7 +43811,6 @@ zzz.clickbank.net
 .kpirog.com
 .kpr2exp21.com
 .kpshx.douguo.com
-.kpstaticbj.wx.ckjr001.com
 .kpxbctywsa.com
 .kqaasz.instreet.com.tr
 .kqchxa.denizbutik.com
@@ -53759,7 +53768,6 @@ zzz.clickbank.net
 .qualityassura.biz
 .qualityofeve.biz
 .qualitypageviews.com
-.qualtrics.com
 .quan7.cc
 .quanbailing.com
 .quancee.top
@@ -56864,6 +56872,7 @@ zzz.clickbank.net
 .siteimproveanalytics.io
 .siteinfo.libero.it
 .siteintercept.allegiancetech.com
+.siteintercept.qualtrics.com
 .sitelabweb.com
 .sitelife.ehow.com
 .sitelinktrack.com

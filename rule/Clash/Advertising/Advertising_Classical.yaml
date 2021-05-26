@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-26 02:36:44
+# UPDATED: 2021-05-27 02:48:49
 # DOMAIN-KEYWORD: 80
-# DOMAIN-SUFFIX: 47055
-# DOMAIN: 20642
+# DOMAIN-SUFFIX: 47053
+# DOMAIN: 20653
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68031
+# TOTAL: 68040
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -816,7 +816,6 @@ payload:
   - DOMAIN,abckj123.com
   - DOMAIN,abclauncher.com
   - DOMAIN,abctoppictures.net
-  - DOMAIN,abdcbuae.com
   - DOMAIN,abdel.wpdevcloud.com
   - DOMAIN,abdicted.com
   - DOMAIN,abdlphone.com
@@ -1740,6 +1739,7 @@ payload:
   - DOMAIN,ads.phillyburbs.com
   - DOMAIN,ads.phonearena.com
   - DOMAIN,ads.phpclasses.org
+  - DOMAIN,ads.pickmeup-ltd.com
   - DOMAIN,ads.pimdesign.org
   - DOMAIN,ads.pinger.com
   - DOMAIN,ads.pitchforkmedia.com
@@ -3369,6 +3369,7 @@ payload:
   - DOMAIN,asset.cdn.auditude.com
   - DOMAIN,assets-jpcust.jwpsrv.com
   - DOMAIN,assets.adobedtm.com
+  - DOMAIN,assets.ckjr001.com
   - DOMAIN,assets.icubeswire.com
   - DOMAIN,assets.igapi.com
   - DOMAIN,assets.kromtech.net
@@ -4075,6 +4076,7 @@ payload:
   - DOMAIN,bizzibeans.net
   - DOMAIN,bj-fengshi.com
   - DOMAIN,bjano.owncube.com
+  - DOMAIN,bjdingyedianli.com
   - DOMAIN,bjjingda.com
   - DOMAIN,bjjmywcb.com
   - DOMAIN,bkkwedding.com
@@ -5111,6 +5113,7 @@ payload:
   - DOMAIN,chattysnaps.com
   - DOMAIN,chaturbate.epickeys.com
   - DOMAIN,chaturbatetokenhack.org
+  - DOMAIN,chaussuressoldesnb.com
   - DOMAIN,chautcho.com
   - DOMAIN,chazdean.inq.com
   - DOMAIN,chazdean.touchcommerce.com
@@ -6873,7 +6876,6 @@ payload:
   - DOMAIN,down.sandai.net
   - DOMAIN,down.touming5.com
   - DOMAIN,down.tututool.com
-  - DOMAIN,down.unadnet.com.cn
   - DOMAIN,down.upantool.com
   - DOMAIN,down.whphonesoft.com
   - DOMAIN,down.xiazai2.net
@@ -6991,7 +6993,6 @@ payload:
   - DOMAIN,drda5yf9kgz5p.cloudfront.net
   - DOMAIN,drdudeck.com
   - DOMAIN,drealvog.ddns.net
-  - DOMAIN,dream-file.com
   - DOMAIN,dream1well.com
   - DOMAIN,dreambigprintbig.com
   - DOMAIN,dreamdesignworkshop.com
@@ -9481,12 +9482,12 @@ payload:
   - DOMAIN,handymend.com
   - DOMAIN,hangibolum.com
   - DOMAIN,hangzhourugby.com
-  - DOMAIN,hanksbest.com
   - DOMAIN,hansrane.000webhostapp.com
   - DOMAIN,hanulsms.com
   - DOMAIN,hanys.actonsoftware.com
   - DOMAIN,hanys2.actonsoftware.com
   - DOMAIN,hanzele.wpdevcloud.com
+  - DOMAIN,hao.6955000.com
   - DOMAIN,hao.rising.cn
   - DOMAIN,hao.xiaomi.com
   - DOMAIN,happyfathersdaydaddy.com
@@ -11080,6 +11081,7 @@ payload:
   - DOMAIN,kozhniebolezni.com
   - DOMAIN,kozszolgalat.com
   - DOMAIN,kpremium.com
+  - DOMAIN,kpstaticbj.wx.ckjr001.com
   - DOMAIN,kqmjmrzjhmdn.com
   - DOMAIN,kqyemarketplace.com
   - DOMAIN,krakragames.com
@@ -13356,7 +13358,6 @@ payload:
   - DOMAIN,numberhacker.com
   - DOMAIN,numericable.inq.com
   - DOMAIN,nummlock.000webhostapp.com
-  - DOMAIN,nuptialimages.com
   - DOMAIN,nutabuse.com
   - DOMAIN,nutriagrosrl.com
   - DOMAIN,nutritionistinthekitch.com
@@ -13633,6 +13634,7 @@ payload:
   - DOMAIN,opensoftwareupdate.com
   - DOMAIN,opensoftwareupdater.com
   - DOMAIN,opentag-stats.qubit.com
+  - DOMAIN,openunder.net
   - DOMAIN,openwidedentalmarketing.com
   - DOMAIN,openx-cm.p.veruta.com
   - DOMAIN,openx.4shared.com
@@ -14385,7 +14387,6 @@ payload:
   - DOMAIN,popunder.fpctraffic.com
   - DOMAIN,popunder.net
   - DOMAIN,popunder.paypopup.com
-  - DOMAIN,popunder.popcde.com
   - DOMAIN,popup-traffic.com
   - DOMAIN,popup.oxcash.com
   - DOMAIN,popup.softreklam.com
@@ -15624,6 +15625,7 @@ payload:
   - DOMAIN,safe.hyperpaysys.com
   - DOMAIN,safebrowse.com
   - DOMAIN,safehackz.com
+  - DOMAIN,safeken.com
   - DOMAIN,safelinking.net
   - DOMAIN,safemobilelink.com
   - DOMAIN,safepccleaner.com
@@ -16127,7 +16129,10 @@ payload:
   - DOMAIN,sh-yuan.com
   - DOMAIN,sh.creativcdn.net
   - DOMAIN,sh.younetmedia.com
+  - DOMAIN,sha2008.com
   - DOMAIN,sha2013.com
+  - DOMAIN,sha2021.com
+  - DOMAIN,sha2024.com
   - DOMAIN,shadesandblinds.com
   - DOMAIN,shafayat.com
   - DOMAIN,shagarat.com
@@ -16391,6 +16396,7 @@ payload:
   - DOMAIN,skingang.com
   - DOMAIN,skinjars.com
   - DOMAIN,skins-club.com
+  - DOMAIN,skins-trader.com
   - DOMAIN,skins-trading.com
   - DOMAIN,skinsbaron.com
   - DOMAIN,skinsbit.com
@@ -16441,6 +16447,7 @@ payload:
   - DOMAIN,slickjump.net
   - DOMAIN,slicktext.com
   - DOMAIN,slightlyoffcenter.net
+  - DOMAIN,slimming21cn.com
   - DOMAIN,slipperysack.com
   - DOMAIN,slontube.net
   - DOMAIN,slopeac.com
@@ -16668,6 +16675,7 @@ payload:
   - DOMAIN,sourcelemon.com
   - DOMAIN,sourcengo.com
   - DOMAIN,sourmath.com
+  - DOMAIN,soushop.net
   - DOMAIN,southernchampion.com
   - DOMAIN,southstreetim.com
   - DOMAIN,souvenirua.com
@@ -17422,6 +17430,7 @@ payload:
   - DOMAIN,szczesliwydzien.com
   - DOMAIN,szdamuzhi.com
   - DOMAIN,szemlelo.com
+  - DOMAIN,szftlaser.com
   - DOMAIN,szinhaz.hu
   - DOMAIN,sznm.com.cn
   - DOMAIN,sznxdqqvjgam.com
@@ -18386,6 +18395,7 @@ payload:
   - DOMAIN,tradeadsexchange.com
   - DOMAIN,trademetallica.com
   - DOMAIN,trademob.com
+  - DOMAIN,trader.erosdlz.com
   - DOMAIN,traderockets.com
   - DOMAIN,tradersbrokers.com
   - DOMAIN,tradingcsgo.com
@@ -18497,7 +18507,6 @@ payload:
   - DOMAIN,triangle.dealsaver.com
   - DOMAIN,triangleservicesltd.com
   - DOMAIN,tribalfusion.speedera.net
-  - DOMAIN,tribblenews.com
   - DOMAIN,trichecode.com
   - DOMAIN,tricheurhq.com
   - DOMAIN,tricikli.com
@@ -18645,6 +18654,7 @@ payload:
   - DOMAIN,twoj-voucher.com
   - DOMAIN,twoja-wygrana.com
   - DOMAIN,twojszczesliwydzien.com
+  - DOMAIN,twqiqiang.com
   - DOMAIN,twskype.com
   - DOMAIN,twthack.com
   - DOMAIN,txn.ingest.crittercism.com
@@ -20350,6 +20360,7 @@ payload:
   - DOMAIN,yiqisese.com
   - DOMAIN,yiren02.com
   - DOMAIN,yisouxinxi.com
+  - DOMAIN,yixingim.com
   - DOMAIN,ymail-activate1.bugs3.com
   - DOMAIN,ymetrica.com
   - DOMAIN,yngxtgj.com
@@ -27181,7 +27192,6 @@ payload:
   - DOMAIN-SUFFIX,assembledscout.com
   - DOMAIN-SUFFIX,assetize.com
   - DOMAIN-SUFFIX,assets.2343sdxs.com
-  - DOMAIN-SUFFIX,assets.ckjr001.com
   - DOMAIN-SUFFIX,assets.garron.blog
   - DOMAIN-SUFFIX,assets.garron.me
   - DOMAIN-SUFFIX,assets.servedby-buysellads.com
@@ -43800,7 +43810,6 @@ payload:
   - DOMAIN-SUFFIX,kpirog.com
   - DOMAIN-SUFFIX,kpr2exp21.com
   - DOMAIN-SUFFIX,kpshx.douguo.com
-  - DOMAIN-SUFFIX,kpstaticbj.wx.ckjr001.com
   - DOMAIN-SUFFIX,kpxbctywsa.com
   - DOMAIN-SUFFIX,kqaasz.instreet.com.tr
   - DOMAIN-SUFFIX,kqchxa.denizbutik.com
@@ -53758,7 +53767,6 @@ payload:
   - DOMAIN-SUFFIX,qualityassura.biz
   - DOMAIN-SUFFIX,qualityofeve.biz
   - DOMAIN-SUFFIX,qualitypageviews.com
-  - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN-SUFFIX,quan7.cc
   - DOMAIN-SUFFIX,quanbailing.com
   - DOMAIN-SUFFIX,quancee.top
@@ -56863,6 +56871,7 @@ payload:
   - DOMAIN-SUFFIX,siteimproveanalytics.io
   - DOMAIN-SUFFIX,siteinfo.libero.it
   - DOMAIN-SUFFIX,siteintercept.allegiancetech.com
+  - DOMAIN-SUFFIX,siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,sitelabweb.com
   - DOMAIN-SUFFIX,sitelife.ehow.com
   - DOMAIN-SUFFIX,sitelinktrack.com
