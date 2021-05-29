@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-29 03:03:51
-# DOMAIN-SUFFIX: 69810
+# UPDATED: 2021-05-30 03:12:19
+# DOMAIN-SUFFIX: 69798
 # DOMAIN: 77
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69958
+# TOTAL: 69946
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -890,7 +890,6 @@ payload:
   - DOMAIN-SUFFIX,10000tc.com
   - DOMAIN-SUFFIX,10000yao.com
   - DOMAIN-SUFFIX,10001wan.com
-  - DOMAIN-SUFFIX,100024.xyz
   - DOMAIN-SUFFIX,10006.info
   - DOMAIN-SUFFIX,1000ci.net
   - DOMAIN-SUFFIX,1000eb.net
@@ -2062,7 +2061,6 @@ payload:
   - DOMAIN-SUFFIX,18daxue.com
   - DOMAIN-SUFFIX,18dx.com
   - DOMAIN-SUFFIX,18guanjia.com
-  - DOMAIN-SUFFIX,18heat.com
   - DOMAIN-SUFFIX,18kf.net
   - DOMAIN-SUFFIX,18ladys.com
   - DOMAIN-SUFFIX,18link.com
@@ -7386,7 +7384,6 @@ payload:
   - DOMAIN-SUFFIX,91kami.com
   - DOMAIN-SUFFIX,91keman.com
   - DOMAIN-SUFFIX,91keto.com
-  - DOMAIN-SUFFIX,91ks.cc
   - DOMAIN-SUFFIX,91kuzhan.com
   - DOMAIN-SUFFIX,91laihama.com
   - DOMAIN-SUFFIX,91ld.com
@@ -7979,7 +7976,6 @@ payload:
   - DOMAIN-SUFFIX,99zzw.com
   - DOMAIN-SUFFIX,9ailai.com
   - DOMAIN-SUFFIX,9aimai.com
-  - DOMAIN-SUFFIX,9aiot.com
   - DOMAIN-SUFFIX,9air.com
   - DOMAIN-SUFFIX,9aoduo.com
   - DOMAIN-SUFFIX,9aola.com
@@ -12824,7 +12820,6 @@ payload:
   - DOMAIN-SUFFIX,bobidc.com
   - DOMAIN-SUFFIX,boblog.com
   - DOMAIN-SUFFIX,bobo.com
-  - DOMAIN-SUFFIX,bobobd.com
   - DOMAIN-SUFFIX,bobopic.com
   - DOMAIN-SUFFIX,bobopos.com
   - DOMAIN-SUFFIX,bobosays.com
@@ -21569,7 +21564,6 @@ payload:
   - DOMAIN-SUFFIX,dylc.com
   - DOMAIN-SUFFIX,dylxx.net
   - DOMAIN-SUFFIX,dyly.com
-  - DOMAIN-SUFFIX,dymi.cc
   - DOMAIN-SUFFIX,dyonr.com
   - DOMAIN-SUFFIX,dypai.com
   - DOMAIN-SUFFIX,dyqc.com
@@ -26544,6 +26538,7 @@ payload:
   - DOMAIN-SUFFIX,gsqx.com
   - DOMAIN-SUFFIX,gsrecv.com
   - DOMAIN-SUFFIX,gss-sh.org
+  - DOMAIN-SUFFIX,gssdlv.com
   - DOMAIN-SUFFIX,gssdsj.com
   - DOMAIN-SUFFIX,gssfgk.com
   - DOMAIN-SUFFIX,gsstaf.com
@@ -29966,7 +29961,6 @@ payload:
   - DOMAIN-SUFFIX,htsc.com
   - DOMAIN-SUFFIX,htsec.com
   - DOMAIN-SUFFIX,htsgh5.com
-  - DOMAIN-SUFFIX,htsh.cc
   - DOMAIN-SUFFIX,htstzm.com
   - DOMAIN-SUFFIX,htt5.com
   - DOMAIN-SUFFIX,httingshu.com
@@ -38197,7 +38191,6 @@ payload:
   - DOMAIN-SUFFIX,letmeneembibvnf.hk
   - DOMAIN-SUFFIX,letoom.com
   - DOMAIN-SUFFIX,letou8.com
-  - DOMAIN-SUFFIX,letouqp.com
   - DOMAIN-SUFFIX,lets-study.com
   - DOMAIN-SUFFIX,letsebuy.com
   - DOMAIN-SUFFIX,letsfilm.org
@@ -42546,7 +42539,6 @@ payload:
   - DOMAIN-SUFFIX,mtkan.net
   - DOMAIN-SUFFIX,mtkdy.com
   - DOMAIN-SUFFIX,mtketang.com
-  - DOMAIN-SUFFIX,mtkg.cc
   - DOMAIN-SUFFIX,mtksj.com
   - DOMAIN-SUFFIX,mtktk.com
   - DOMAIN-SUFFIX,mtm.mo
@@ -49605,7 +49597,6 @@ payload:
   - DOMAIN-SUFFIX,sanjiasoft.com
   - DOMAIN-SUFFIX,sanjieke.com
   - DOMAIN-SUFFIX,sanjinjiake.com
-  - DOMAIN-SUFFIX,sanjueyaluosi.com
   - DOMAIN-SUFFIX,sanjun.com
   - DOMAIN-SUFFIX,sankaijian.com
   - DOMAIN-SUFFIX,sankgo.com
@@ -53081,7 +53072,6 @@ payload:
   - DOMAIN-SUFFIX,storyboardworld.com
   - DOMAIN-SUFFIX,storyday.com
   - DOMAIN-SUFFIX,storyren.com
-  - DOMAIN-SUFFIX,storysec.com
   - DOMAIN-SUFFIX,stourweb.com
   - DOMAIN-SUFFIX,stovol.club
   - DOMAIN-SUFFIX,stoyard.com
@@ -61978,6 +61968,7 @@ payload:
   - DOMAIN-SUFFIX,xiaohongchun.com
   - DOMAIN-SUFFIX,xiaohongdian.wang
   - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,xiaohongshulvyou.com
   - DOMAIN-SUFFIX,xiaohuabaichu.com
   - DOMAIN-SUFFIX,xiaohuabuluo.com
   - DOMAIN-SUFFIX,xiaohuai.com
@@ -63490,7 +63481,6 @@ payload:
   - DOMAIN-SUFFIX,xueche8.com
   - DOMAIN-SUFFIX,xuechebu.com
   - DOMAIN-SUFFIX,xuechela.com
-  - DOMAIN-SUFFIX,xuechenlei.com
   - DOMAIN-SUFFIX,xueda.com
   - DOMAIN-SUFFIX,xuedi.com
   - DOMAIN-SUFFIX,xuedong97.com
@@ -66963,7 +66953,6 @@ payload:
   - DOMAIN-SUFFIX,yzs.com
   - DOMAIN-SUFFIX,yzspdq.com
   - DOMAIN-SUFFIX,yzsqxx.com
-  - DOMAIN-SUFFIX,yzssc.net
   - DOMAIN-SUFFIX,yzt-tools.com
   - DOMAIN-SUFFIX,yztcdn.com
   - DOMAIN-SUFFIX,yztown.club
@@ -66998,7 +66987,6 @@ payload:
   - DOMAIN-SUFFIX,z7ys.com
   - DOMAIN-SUFFIX,z8g.ltd
   - DOMAIN-SUFFIX,z8q.cc
-  - DOMAIN-SUFFIX,za-ad.cc
   - DOMAIN-SUFFIX,zablog.me
   - DOMAIN-SUFFIX,zac1993.com
   - DOMAIN-SUFFIX,zackku.com
