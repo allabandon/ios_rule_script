@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-31 03:08:34
+# UPDATED: 2021-06-01 03:29:46
 # HOST-KEYWORD: 86
 # HOST-SUFFIX: 47160
-# HOST: 20800
+# HOST: 20797
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 68300
+# TOTAL: 68297
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -2458,7 +2458,6 @@ HOST,affimg.pop6.com,Advertising
 HOST,affntwklnk.com,Advertising
 HOST,affpartners.com,Advertising
 HOST,affrh2019.com,Advertising
-HOST,affrh2020.com,Advertising
 HOST,affrh2022.com,Advertising
 HOST,affsnetwork.com,Advertising
 HOST,afftrack001.com,Advertising
@@ -3342,7 +3341,6 @@ HOST,asanroque.com,Advertising
 HOST,ascentive.com,Advertising
 HOST,asd.arorazphotoworld.com,Advertising
 HOST,asd.bbpsldh.org,Advertising
-HOST,asd.ironutensils.com,Advertising
 HOST,asd.kisanhealthfoods.com,Advertising
 HOST,asd5211.f3322.net,Advertising
 HOST,asdegypt.com,Advertising
@@ -3415,7 +3413,6 @@ HOST,athena-ads.wikia.com,Advertising
 HOST,athenscollisionctr.com,Advertising
 HOST,ati-host.net,Advertising
 HOST,atianqi.com,Advertising
-HOST,ativacaoapp.com,Advertising
 HOST,atkins.vo.llnwd.net,Advertising
 HOST,atkitchenware.com,Advertising
 HOST,atl.xmlsearch.miva.com,Advertising
@@ -3532,6 +3529,7 @@ HOST,azbukafree.com,Advertising
 HOST,azcentra.app.ur.gcion.com,Advertising
 HOST,azcodegenerator.com,Advertising
 HOST,azlawassociates.com,Advertising
+HOST,aztbeszelik.com,Advertising
 HOST,azz.badazz.org,Advertising
 HOST,b-graph.accountkit.com,Advertising
 HOST,b-triple-t.com,Advertising
@@ -3859,6 +3857,7 @@ HOST,beemerbenz.com,Advertising
 HOST,beenaenterprises.com,Advertising
 HOST,beespace.com.ua,Advertising
 HOST,beethoventshirts.com,Advertising
+HOST,befade.com,Advertising
 HOST,befenchy.com,Advertising
 HOST,begin.tzarmedia.com,Advertising
 HOST,behance.vo.llnwd.net,Advertising
@@ -4311,6 +4310,7 @@ HOST,breakthroughtrend.com,Advertising
 HOST,breezybath.com,Advertising
 HOST,brejo.websiteseguro.com,Advertising
 HOST,brentnikolaus.com,Advertising
+HOST,bretaverett.com,Advertising
 HOST,brevardmusic.com,Advertising
 HOST,brian-fitzgerald.com,Advertising
 HOST,brianmcivor.com,Advertising
@@ -10810,7 +10810,6 @@ HOST,jpay.aliapp.com,Advertising
 HOST,jpbrewier.000webhostapp.com,Advertising
 HOST,jpdyechem.com,Advertising
 HOST,jqueryscript.net,Advertising
-HOST,jrkuzeyfiztvos.com,Advertising
 HOST,jrmccain.com,Advertising
 HOST,jrpfekf.angelfire.com,Advertising
 HOST,js-ad.a.yximgs.com,Advertising
@@ -10851,6 +10850,7 @@ HOST,json4.ringrevenue.com,Advertising
 HOST,jsso.indiatimes.com,Advertising
 HOST,jssocdn.indiatimes.com,Advertising
 HOST,jstatic.top,Advertising
+HOST,jsth8899.com,Advertising
 HOST,jstzpcty.com,Advertising
 HOST,jt.india.com,Advertising
 HOST,jtoutfitters.com,Advertising
@@ -12086,6 +12086,7 @@ HOST,maviapartments.com,Advertising
 HOST,max.ad.xiaomi.com,Advertising
 HOST,maxads.ruralpress.com,Advertising
 HOST,maxcrack.com,Advertising
+HOST,maxdezignz.com,Advertising
 HOST,maxdome.inq.com,Advertising
 HOST,maxdome.touchcommerce.com,Advertising
 HOST,maxforta.com,Advertising
@@ -12268,6 +12269,7 @@ HOST,megacloudz.net,Advertising
 HOST,megadirtyfiles.com,Advertising
 HOST,megadown.net,Advertising
 HOST,megadownloder.com,Advertising
+HOST,megaexecutive.com,Advertising
 HOST,megafingroup.com,Advertising
 HOST,megamakmur.com,Advertising
 HOST,megamaxturkiye.com,Advertising
@@ -13163,7 +13165,6 @@ HOST,networkads.net,Advertising
 HOST,networkmedical.com.hk,Advertising
 HOST,neuciclaje.com,Advertising
 HOST,neumashop.cl,Advertising
-HOST,never2date.com,Advertising
 HOST,nevergreen.net,Advertising
 HOST,new-ebooks.com,Advertising
 HOST,new-wpstage.adelphic.com,Advertising
@@ -15112,7 +15113,6 @@ HOST,ranksonic.org,Advertising
 HOST,raovat4u.com,Advertising
 HOST,rapidgameshacks.com,Advertising
 HOST,rapidkittens.com,Advertising
-HOST,rapidoinfotech.com,Advertising
 HOST,raquelalves.com,Advertising
 HOST,rarbgunblocked.org,Advertising
 HOST,rarekeygencentral.com,Advertising
@@ -16056,7 +16056,6 @@ HOST,sendglobe.com,Advertising
 HOST,sendhack.com,Advertising
 HOST,sendmepixel.com,Advertising
 HOST,sendori.com,Advertising
-HOST,sendshort.com,Advertising
 HOST,sendukfile.com,Advertising
 HOST,seniorshare.net,Advertising
 HOST,sensa.inq.com,Advertising
@@ -17915,7 +17914,6 @@ HOST,thegifited.com,Advertising
 HOST,thegira.net,Advertising
 HOST,thegratitudeguru.com,Advertising
 HOST,thegreenshoppingchannel.com,Advertising
-HOST,thegridsolution.com,Advertising
 HOST,theguardlan.com,Advertising
 HOST,thehackonline.com,Advertising
 HOST,thehackspot.com,Advertising
@@ -20163,7 +20161,6 @@ HOST,www3.counter.bloke.com,Advertising
 HOST,www3.haberturk.com,Advertising
 HOST,www3.macys.com,Advertising
 HOST,www3.nationalgeographic.com,Advertising
-HOST,www3.oyunstar.com,Advertising
 HOST,www3.webhostingtalk.com,Advertising
 HOST,www30.glam.com,Advertising
 HOST,www30a1-orig.glam.com,Advertising

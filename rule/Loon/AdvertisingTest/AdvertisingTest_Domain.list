@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-31 10:04:24
+# UPDATED: 2021-06-01 03:29:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 76447
-# DOMAIN: 14381
+# DOMAIN: 14380
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 91470
+# TOTAL: 91469
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1730,7 +1730,6 @@ asanroque.com
 ascentive.com
 asd.arorazphotoworld.com
 asd.bbpsldh.org
-asd.ironutensils.com
 asd.kisanhealthfoods.com
 asd5211.f3322.net
 asdegypt.com
@@ -1777,7 +1776,6 @@ atendimen-online5.uni5.net
 aterroppop.com
 athenscollisionctr.com
 atianqi.com
-ativacaoapp.com
 atkitchenware.com
 atlas-mountain-treks.com
 atlasdmt.com
@@ -2413,6 +2411,7 @@ breakingleaks.com
 breezybath.com
 brejo.websiteseguro.com
 brentnikolaus.com
+bretaverett.com
 brevardmusic.com
 brian-fitzgerald.com
 brianmcivor.com
@@ -7259,6 +7258,7 @@ json4.ringrevenue.com
 jsso.indiatimes.com
 jssocdn.indiatimes.com
 jstatic.top
+jsth8899.com
 jstzpcty.com
 jt.india.com
 jtoutfitters.com
@@ -8186,6 +8186,7 @@ maven.apptimize.com
 maviapartments.com
 max.ad.xiaomi.com
 maxcrack.com
+maxdezignz.com
 maxdome.inq.com
 maxdome.touchcommerce.com
 maximafitness.com
@@ -8298,6 +8299,7 @@ megacloudz.net
 megadirtyfiles.com
 megadown.net
 megadownloder.com
+megaexecutive.com
 megamakmur.com
 megamaxturkiye.com
 meganiusy.com
@@ -10322,7 +10324,6 @@ ranks.boardtracker.com
 ranksonic.org
 raovat4u.com
 rapidgameshacks.com
-rapidoinfotech.com
 raquelalves.com
 rarbgunblocked.org
 rarekeygencentral.com
@@ -10991,7 +10992,6 @@ sendfwd.com
 sendglobe.com
 sendhack.com
 sendori.com
-sendshort.com
 sendukfile.com
 seniorshare.net
 sensa.inq.com
@@ -12339,7 +12339,6 @@ thegifited.com
 thegira.net
 thegratitudeguru.com
 thegreenshoppingchannel.com
-thegridsolution.com
 theguardlan.com
 thehackonline.com
 thehackspot.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-31 10:04:23
+# UPDATED: 2021-06-01 03:29:46
 # HOST-KEYWORD: 86
 # HOST-SUFFIX: 76447
-# HOST: 14381
+# HOST: 14380
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 91168
+# TOTAL: 91167
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -1728,7 +1728,6 @@ HOST,asanroque.com,AdvertisingTest
 HOST,ascentive.com,AdvertisingTest
 HOST,asd.arorazphotoworld.com,AdvertisingTest
 HOST,asd.bbpsldh.org,AdvertisingTest
-HOST,asd.ironutensils.com,AdvertisingTest
 HOST,asd.kisanhealthfoods.com,AdvertisingTest
 HOST,asd5211.f3322.net,AdvertisingTest
 HOST,asdegypt.com,AdvertisingTest
@@ -1775,7 +1774,6 @@ HOST,atendimen-online5.uni5.net,AdvertisingTest
 HOST,aterroppop.com,AdvertisingTest
 HOST,athenscollisionctr.com,AdvertisingTest
 HOST,atianqi.com,AdvertisingTest
-HOST,ativacaoapp.com,AdvertisingTest
 HOST,atkitchenware.com,AdvertisingTest
 HOST,atlas-mountain-treks.com,AdvertisingTest
 HOST,atlasdmt.com,AdvertisingTest
@@ -2411,6 +2409,7 @@ HOST,breakingleaks.com,AdvertisingTest
 HOST,breezybath.com,AdvertisingTest
 HOST,brejo.websiteseguro.com,AdvertisingTest
 HOST,brentnikolaus.com,AdvertisingTest
+HOST,bretaverett.com,AdvertisingTest
 HOST,brevardmusic.com,AdvertisingTest
 HOST,brian-fitzgerald.com,AdvertisingTest
 HOST,brianmcivor.com,AdvertisingTest
@@ -7257,6 +7256,7 @@ HOST,json4.ringrevenue.com,AdvertisingTest
 HOST,jsso.indiatimes.com,AdvertisingTest
 HOST,jssocdn.indiatimes.com,AdvertisingTest
 HOST,jstatic.top,AdvertisingTest
+HOST,jsth8899.com,AdvertisingTest
 HOST,jstzpcty.com,AdvertisingTest
 HOST,jt.india.com,AdvertisingTest
 HOST,jtoutfitters.com,AdvertisingTest
@@ -8184,6 +8184,7 @@ HOST,maven.apptimize.com,AdvertisingTest
 HOST,maviapartments.com,AdvertisingTest
 HOST,max.ad.xiaomi.com,AdvertisingTest
 HOST,maxcrack.com,AdvertisingTest
+HOST,maxdezignz.com,AdvertisingTest
 HOST,maxdome.inq.com,AdvertisingTest
 HOST,maxdome.touchcommerce.com,AdvertisingTest
 HOST,maximafitness.com,AdvertisingTest
@@ -8296,6 +8297,7 @@ HOST,megacloudz.net,AdvertisingTest
 HOST,megadirtyfiles.com,AdvertisingTest
 HOST,megadown.net,AdvertisingTest
 HOST,megadownloder.com,AdvertisingTest
+HOST,megaexecutive.com,AdvertisingTest
 HOST,megamakmur.com,AdvertisingTest
 HOST,megamaxturkiye.com,AdvertisingTest
 HOST,meganiusy.com,AdvertisingTest
@@ -10320,7 +10322,6 @@ HOST,ranks.boardtracker.com,AdvertisingTest
 HOST,ranksonic.org,AdvertisingTest
 HOST,raovat4u.com,AdvertisingTest
 HOST,rapidgameshacks.com,AdvertisingTest
-HOST,rapidoinfotech.com,AdvertisingTest
 HOST,raquelalves.com,AdvertisingTest
 HOST,rarbgunblocked.org,AdvertisingTest
 HOST,rarekeygencentral.com,AdvertisingTest
@@ -10989,7 +10990,6 @@ HOST,sendfwd.com,AdvertisingTest
 HOST,sendglobe.com,AdvertisingTest
 HOST,sendhack.com,AdvertisingTest
 HOST,sendori.com,AdvertisingTest
-HOST,sendshort.com,AdvertisingTest
 HOST,sendukfile.com,AdvertisingTest
 HOST,seniorshare.net,AdvertisingTest
 HOST,sensa.inq.com,AdvertisingTest
@@ -12337,7 +12337,6 @@ HOST,thegifited.com,AdvertisingTest
 HOST,thegira.net,AdvertisingTest
 HOST,thegratitudeguru.com,AdvertisingTest
 HOST,thegreenshoppingchannel.com,AdvertisingTest
-HOST,thegridsolution.com,AdvertisingTest
 HOST,theguardlan.com,AdvertisingTest
 HOST,thehackonline.com,AdvertisingTest
 HOST,thehackspot.com,AdvertisingTest

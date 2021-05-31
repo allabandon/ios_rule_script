@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-31 03:08:34
-# DOMAIN-SUFFIX: 69751
+# UPDATED: 2021-06-01 03:29:46
+# DOMAIN-SUFFIX: 69756
 # USER-AGENT: 32
-# DOMAIN: 77
+# DOMAIN: 78
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69931
+# TOTAL: 69937
 265.com
 2mdn.net
 adservice.google.com
@@ -53,6 +53,7 @@ images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 imasdk.googleapis.com
 ip.istatmenus.app
+kc.kexinshe.com
 menu-static.gog-statics.com
 moocs.unipus.cn
 mtalk.google.com
@@ -888,6 +889,7 @@ www4-static.gog-statics.com
 .10000tc.com
 .10000yao.com
 .10001wan.com
+.1000360.com
 .10006.info
 .1000ci.net
 .1000eb.net
@@ -3364,7 +3366,6 @@ www4-static.gog-statics.com
 .363322014.com
 .363u.com
 .364000.com
-.365112233.com
 .365128.com
 .36543.com
 .365500.com
@@ -16648,6 +16649,7 @@ www4-static.gog-statics.com
 .click-v.com
 .click369.com
 .clickclaro.xyz
+.clicksdiy.com
 .clicksun.net
 .clickwifi.net
 .client51.com
@@ -17449,6 +17451,7 @@ www4-static.gog-statics.com
 .cnwa.com
 .cnwage.com
 .cnwaking.com
+.cnwangjie.com
 .cnwaternews.com
 .cnwb.net
 .cnwdjj.com
@@ -19160,6 +19163,7 @@ www4-static.gog-statics.com
 .dangcdn.com
 .dangdang.com
 .danghongyun.com
+.danghuan.com
 .dangjian.com
 .dangjianwang.com
 .dangpu.com
@@ -19522,7 +19526,6 @@ www4-static.gog-statics.com
 .dd4.com
 .dd6300.fun
 .dd66778899.com
-.dd7q.com
 .dd8828.com
 .ddbig.com
 .ddbiquge.cc
@@ -22145,7 +22148,6 @@ www4-static.gog-statics.com
 .eduwest.com
 .eduwg.com
 .eduwo.com
-.eduwsw.com
 .eduwx.com
 .eduxiao.com
 .eduyf.com
@@ -25574,7 +25576,6 @@ www4-static.gog-statics.com
 .gequ77.com
 .gequdaquan.net
 .geren-jianli.com
-.geren.site
 .gerenjianli.com
 .gerhard-china.com
 .germany-leica.net
@@ -29294,6 +29295,7 @@ www4-static.gog-statics.com
 .hnh.cc
 .hnhaitian.com
 .hnhaofang.com
+.hnhllv.net
 .hnhnled.com
 .hnhw.org
 .hnhxxk.com
@@ -29320,6 +29322,7 @@ www4-static.gog-statics.com
 .hnleisu.com
 .hnliangku.com
 .hnlungtongzs.com
+.hnlzhd.com
 .hnlzw.net
 .hnmdtv.com
 .hnmgjr.com
@@ -33062,7 +33065,6 @@ www4-static.gog-statics.com
 .ivycoffee.com
 .ivydad.com
 .ivydom.com
-.ivynuts.com
 .ivypub.org
 .ivyschools.com
 .ivysoon.com
@@ -43555,6 +43557,7 @@ www4-static.gog-statics.com
 .nfzhouyi.com
 .nfzmbrand.com
 .ng-alain.com
+.nga.wiki
 .ngabbs.com
 .ngacn.cc
 .ngacn.com
@@ -47506,6 +47509,7 @@ www4-static.gog-statics.com
 .qiuyuewenxue.com
 .qiuyumi.com
 .qiuzhang.com
+.qiuzhijiangtang.com
 .qiuziti.com
 .qiuziyuan.net
 .qivsod.com
@@ -49667,6 +49671,7 @@ www4-static.gog-statics.com
 .sbh15.com
 .sbiquge.com
 .sbk-h5.com
+.sbkh5.com
 .sbkk8.com
 .sbkk88.com
 .sblunwen.com
@@ -52228,6 +52233,7 @@ www4-static.gog-statics.com
 .snjrsks.com
 .snnd.co
 .snobten.com
+.snodehome.com
 .snooda.com
 .snor-china.com
 .snowballsecurities.com
@@ -54406,6 +54412,7 @@ www4-static.gog-statics.com
 .tapdata.net
 .tapdb.com
 .tapdb.net
+.tapechat.net
 .tapenjoy.com
 .tapimg.com
 .tapotiexie.com
@@ -55734,7 +55741,6 @@ www4-static.gog-statics.com
 .topthink.com
 .topthink.net
 .toptourservice.com
-.topu.com
 .topuc.com
 .topwalk.com
 .topwanwan.com
@@ -57936,6 +57942,7 @@ www4-static.gog-statics.com
 .vlightv.com
 .vlinkage.com
 .vlinke.com
+.vlion.mobi
 .vlong.tv
 .vlongbiz.com
 .vlwoo.com
@@ -59632,7 +59639,6 @@ www4-static.gog-statics.com
 .whjclgs.com
 .whjcly.com
 .whjdhy.com
-.whjfyz.com
 .whjhcz.com
 .whjiaoy.com
 .whjjhbj.com
@@ -60962,7 +60968,6 @@ www4-static.gog-statics.com
 .www.htc.com
 .www.htcsense.com
 .www.htcvive.com
-.www.kaspersky.com
 .www.nike.com
 .www.pandora.net
 .www.redhat.com
@@ -64145,6 +64150,8 @@ www4-static.gog-statics.com
 .yaohuiji.com
 .yaohuo.me
 .yaojiao.tv
+.yaojibuyu.com
+.yaojidsfee.com
 .yaojiedianzi.com
 .yaojingtang.com
 .yaokaihui.com
@@ -68553,7 +68560,6 @@ www4-static.gog-statics.com
 .zi.com
 .ziben365.com
 .ziboshishen.com
-.zibosky.com
 .zicaitou.com
 .zichabaogao.com
 .zichanzhihuan.com

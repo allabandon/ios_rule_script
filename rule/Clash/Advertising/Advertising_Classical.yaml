@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-31 03:08:35
+# UPDATED: 2021-06-01 03:29:47
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47160
-# DOMAIN: 20800
+# DOMAIN: 20797
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68300
+# TOTAL: 68297
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2459,7 +2459,6 @@ payload:
   - DOMAIN,affntwklnk.com
   - DOMAIN,affpartners.com
   - DOMAIN,affrh2019.com
-  - DOMAIN,affrh2020.com
   - DOMAIN,affrh2022.com
   - DOMAIN,affsnetwork.com
   - DOMAIN,afftrack001.com
@@ -3343,7 +3342,6 @@ payload:
   - DOMAIN,ascentive.com
   - DOMAIN,asd.arorazphotoworld.com
   - DOMAIN,asd.bbpsldh.org
-  - DOMAIN,asd.ironutensils.com
   - DOMAIN,asd.kisanhealthfoods.com
   - DOMAIN,asd5211.f3322.net
   - DOMAIN,asdegypt.com
@@ -3416,7 +3414,6 @@ payload:
   - DOMAIN,athenscollisionctr.com
   - DOMAIN,ati-host.net
   - DOMAIN,atianqi.com
-  - DOMAIN,ativacaoapp.com
   - DOMAIN,atkins.vo.llnwd.net
   - DOMAIN,atkitchenware.com
   - DOMAIN,atl.xmlsearch.miva.com
@@ -3533,6 +3530,7 @@ payload:
   - DOMAIN,azcentra.app.ur.gcion.com
   - DOMAIN,azcodegenerator.com
   - DOMAIN,azlawassociates.com
+  - DOMAIN,aztbeszelik.com
   - DOMAIN,azz.badazz.org
   - DOMAIN,b-graph.accountkit.com
   - DOMAIN,b-triple-t.com
@@ -3860,6 +3858,7 @@ payload:
   - DOMAIN,beenaenterprises.com
   - DOMAIN,beespace.com.ua
   - DOMAIN,beethoventshirts.com
+  - DOMAIN,befade.com
   - DOMAIN,befenchy.com
   - DOMAIN,begin.tzarmedia.com
   - DOMAIN,behance.vo.llnwd.net
@@ -4312,6 +4311,7 @@ payload:
   - DOMAIN,breezybath.com
   - DOMAIN,brejo.websiteseguro.com
   - DOMAIN,brentnikolaus.com
+  - DOMAIN,bretaverett.com
   - DOMAIN,brevardmusic.com
   - DOMAIN,brian-fitzgerald.com
   - DOMAIN,brianmcivor.com
@@ -10811,7 +10811,6 @@ payload:
   - DOMAIN,jpbrewier.000webhostapp.com
   - DOMAIN,jpdyechem.com
   - DOMAIN,jqueryscript.net
-  - DOMAIN,jrkuzeyfiztvos.com
   - DOMAIN,jrmccain.com
   - DOMAIN,jrpfekf.angelfire.com
   - DOMAIN,js-ad.a.yximgs.com
@@ -10852,6 +10851,7 @@ payload:
   - DOMAIN,jsso.indiatimes.com
   - DOMAIN,jssocdn.indiatimes.com
   - DOMAIN,jstatic.top
+  - DOMAIN,jsth8899.com
   - DOMAIN,jstzpcty.com
   - DOMAIN,jt.india.com
   - DOMAIN,jtoutfitters.com
@@ -12087,6 +12087,7 @@ payload:
   - DOMAIN,max.ad.xiaomi.com
   - DOMAIN,maxads.ruralpress.com
   - DOMAIN,maxcrack.com
+  - DOMAIN,maxdezignz.com
   - DOMAIN,maxdome.inq.com
   - DOMAIN,maxdome.touchcommerce.com
   - DOMAIN,maxforta.com
@@ -12269,6 +12270,7 @@ payload:
   - DOMAIN,megadirtyfiles.com
   - DOMAIN,megadown.net
   - DOMAIN,megadownloder.com
+  - DOMAIN,megaexecutive.com
   - DOMAIN,megafingroup.com
   - DOMAIN,megamakmur.com
   - DOMAIN,megamaxturkiye.com
@@ -13164,7 +13166,6 @@ payload:
   - DOMAIN,networkmedical.com.hk
   - DOMAIN,neuciclaje.com
   - DOMAIN,neumashop.cl
-  - DOMAIN,never2date.com
   - DOMAIN,nevergreen.net
   - DOMAIN,new-ebooks.com
   - DOMAIN,new-wpstage.adelphic.com
@@ -15113,7 +15114,6 @@ payload:
   - DOMAIN,raovat4u.com
   - DOMAIN,rapidgameshacks.com
   - DOMAIN,rapidkittens.com
-  - DOMAIN,rapidoinfotech.com
   - DOMAIN,raquelalves.com
   - DOMAIN,rarbgunblocked.org
   - DOMAIN,rarekeygencentral.com
@@ -16057,7 +16057,6 @@ payload:
   - DOMAIN,sendhack.com
   - DOMAIN,sendmepixel.com
   - DOMAIN,sendori.com
-  - DOMAIN,sendshort.com
   - DOMAIN,sendukfile.com
   - DOMAIN,seniorshare.net
   - DOMAIN,sensa.inq.com
@@ -17916,7 +17915,6 @@ payload:
   - DOMAIN,thegira.net
   - DOMAIN,thegratitudeguru.com
   - DOMAIN,thegreenshoppingchannel.com
-  - DOMAIN,thegridsolution.com
   - DOMAIN,theguardlan.com
   - DOMAIN,thehackonline.com
   - DOMAIN,thehackspot.com
@@ -20164,7 +20162,6 @@ payload:
   - DOMAIN,www3.haberturk.com
   - DOMAIN,www3.macys.com
   - DOMAIN,www3.nationalgeographic.com
-  - DOMAIN,www3.oyunstar.com
   - DOMAIN,www3.webhostingtalk.com
   - DOMAIN,www30.glam.com
   - DOMAIN,www30a1-orig.glam.com

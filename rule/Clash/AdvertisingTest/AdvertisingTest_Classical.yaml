@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-31 10:04:24
+# UPDATED: 2021-06-01 03:29:47
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 76447
-# DOMAIN: 14381
+# DOMAIN: 14380
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 91168
+# TOTAL: 91167
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -1729,7 +1729,6 @@ payload:
   - DOMAIN,ascentive.com
   - DOMAIN,asd.arorazphotoworld.com
   - DOMAIN,asd.bbpsldh.org
-  - DOMAIN,asd.ironutensils.com
   - DOMAIN,asd.kisanhealthfoods.com
   - DOMAIN,asd5211.f3322.net
   - DOMAIN,asdegypt.com
@@ -1776,7 +1775,6 @@ payload:
   - DOMAIN,aterroppop.com
   - DOMAIN,athenscollisionctr.com
   - DOMAIN,atianqi.com
-  - DOMAIN,ativacaoapp.com
   - DOMAIN,atkitchenware.com
   - DOMAIN,atlas-mountain-treks.com
   - DOMAIN,atlasdmt.com
@@ -2412,6 +2410,7 @@ payload:
   - DOMAIN,breezybath.com
   - DOMAIN,brejo.websiteseguro.com
   - DOMAIN,brentnikolaus.com
+  - DOMAIN,bretaverett.com
   - DOMAIN,brevardmusic.com
   - DOMAIN,brian-fitzgerald.com
   - DOMAIN,brianmcivor.com
@@ -7258,6 +7257,7 @@ payload:
   - DOMAIN,jsso.indiatimes.com
   - DOMAIN,jssocdn.indiatimes.com
   - DOMAIN,jstatic.top
+  - DOMAIN,jsth8899.com
   - DOMAIN,jstzpcty.com
   - DOMAIN,jt.india.com
   - DOMAIN,jtoutfitters.com
@@ -8185,6 +8185,7 @@ payload:
   - DOMAIN,maviapartments.com
   - DOMAIN,max.ad.xiaomi.com
   - DOMAIN,maxcrack.com
+  - DOMAIN,maxdezignz.com
   - DOMAIN,maxdome.inq.com
   - DOMAIN,maxdome.touchcommerce.com
   - DOMAIN,maximafitness.com
@@ -8297,6 +8298,7 @@ payload:
   - DOMAIN,megadirtyfiles.com
   - DOMAIN,megadown.net
   - DOMAIN,megadownloder.com
+  - DOMAIN,megaexecutive.com
   - DOMAIN,megamakmur.com
   - DOMAIN,megamaxturkiye.com
   - DOMAIN,meganiusy.com
@@ -10321,7 +10323,6 @@ payload:
   - DOMAIN,ranksonic.org
   - DOMAIN,raovat4u.com
   - DOMAIN,rapidgameshacks.com
-  - DOMAIN,rapidoinfotech.com
   - DOMAIN,raquelalves.com
   - DOMAIN,rarbgunblocked.org
   - DOMAIN,rarekeygencentral.com
@@ -10990,7 +10991,6 @@ payload:
   - DOMAIN,sendglobe.com
   - DOMAIN,sendhack.com
   - DOMAIN,sendori.com
-  - DOMAIN,sendshort.com
   - DOMAIN,sendukfile.com
   - DOMAIN,seniorshare.net
   - DOMAIN,sensa.inq.com
@@ -12338,7 +12338,6 @@ payload:
   - DOMAIN,thegira.net
   - DOMAIN,thegratitudeguru.com
   - DOMAIN,thegreenshoppingchannel.com
-  - DOMAIN,thegridsolution.com
   - DOMAIN,theguardlan.com
   - DOMAIN,thehackonline.com
   - DOMAIN,thehackspot.com
