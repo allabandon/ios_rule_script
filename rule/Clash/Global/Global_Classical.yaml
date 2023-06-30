@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-27 02:12:19
+# UPDATED: 2023-07-01 02:11:57
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19152
+# DOMAIN-SUFFIX: 19153
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19461
+# TOTAL: 19462
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -14431,6 +14431,7 @@ payload:
   - DOMAIN-SUFFIX,clinica-tibet.ru
   - DOMAIN-SUFFIX,clipfish.de
   - DOMAIN-SUFFIX,cloakpoint.com
+  - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare.com
