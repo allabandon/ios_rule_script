@@ -1,20 +1,19 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-01 02:13:20
-# DOMAIN: 176
+# UPDATED: 2023-07-03 02:12:01
+# DOMAIN: 178
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
 # IP-CIDR: 7
 # IP-CIDR6: 2
-# TOTAL: 306
+# TOTAL: 308
 payload:
   - DOMAIN,107.182.30.76.16clouds.com
   - DOMAIN,1337.abcvg.info
   - DOMAIN,1c.premierzal.ru
   - DOMAIN,204.79.238.89.in-addr.arpa.manitu.net
   - DOMAIN,6.pocketnet.app
-  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,aarsen.me
   - DOMAIN,acxx.de
   - DOMAIN,aegir.sexy
@@ -25,10 +24,8 @@ payload:
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt1.archive.org
   - DOMAIN,bt2.archive.org
-  - DOMAIN,c-71-227-163-17.hsd1.wa.comcast.net
   - DOMAIN,canardscitrons.nohost.me
   - DOMAIN,carr.codes
-  - DOMAIN,ch3oh.ru
   - DOMAIN,city21.pk
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
@@ -44,6 +41,7 @@ payload:
   - DOMAIN,globalwave.no-ip.org
   - DOMAIN,htz3.noho.st
   - DOMAIN,hub.bugout.link
+  - DOMAIN,incine.ru
   - DOMAIN,inferno.demonoid.is
   - DOMAIN,ipv6.fuuuuuck.com
   - DOMAIN,isk.richardsw.club
@@ -63,7 +61,6 @@ payload:
   - DOMAIN,open.acgnxtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.publictracker.xyz
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
@@ -77,6 +74,7 @@ payload:
   - DOMAIN,psyco.fr
   - DOMAIN,public-tracker.cf
   - DOMAIN,public.publictracker.xyz
+  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,region.nl1.privex.cc
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
@@ -86,7 +84,6 @@ payload:
   - DOMAIN,ryjer.com
   - DOMAIN,sanincode.com
   - DOMAIN,share.camoe.cn
-  - DOMAIN,shubt.net
   - DOMAIN,soundmovie.ru
   - DOMAIN,ssb14.nohost.me
   - DOMAIN,static.54.161.216.95.clients.your-server.de
@@ -116,6 +113,7 @@ payload:
   - DOMAIN,tracker.auctor.tv
   - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bitsearch.to
+  - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.ccp.ovh
   - DOMAIN,tracker.cloudit.top
@@ -133,6 +131,7 @@ payload:
   - DOMAIN,tracker.gbitt.info
   - DOMAIN,tracker.imgoingto.icu
   - DOMAIN,tracker.ipfsscan.io
+  - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.jiesen.life
   - DOMAIN,tracker.jonaslsa.com
   - DOMAIN,tracker.joybomb.tw
@@ -161,6 +160,7 @@ payload:
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.tryhackx.org
+  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
@@ -168,6 +168,8 @@ payload:
   - DOMAIN,tracker2.ctix.cn
   - DOMAIN,tracker2.dler.com
   - DOMAIN,tracker2.dler.org
+  - DOMAIN,tracker2.itzmx.com
+  - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,trackerb.jonaslsa.com
   - DOMAIN,trackers.mlsub.net
