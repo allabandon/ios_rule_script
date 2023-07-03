@@ -1,24 +1,26 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-03 02:12:01
-# HOST: 178
+# UPDATED: 2023-07-04 02:12:02
+# HOST: 182
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 118
 # IP-CIDR: 7
 # IP6-CIDR: 2
-# TOTAL: 308
+# TOTAL: 312
 HOST,107.182.30.76.16clouds.com,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
 HOST,204.79.238.89.in-addr.arpa.manitu.net,PrivateTracker
 HOST,6.pocketnet.app,PrivateTracker
+HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,aarsen.me,PrivateTracker
 HOST,acxx.de,PrivateTracker
 HOST,aegir.sexy,PrivateTracker
 HOST,astrra.space,PrivateTracker
 HOST,black-bird.ynh.fr,PrivateTracker
 HOST,boysbitte.be,PrivateTracker
+HOST,bt.endpot.com,PrivateTracker
 HOST,bt.ktrackers.com,PrivateTracker
 HOST,bt.okmp3.ru,PrivateTracker
 HOST,bt1.archive.org,PrivateTracker
@@ -60,6 +62,7 @@ HOST,oh.fuuuuuck.com,PrivateTracker
 HOST,open.acgnxtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
+HOST,open.free-tracker.ga,PrivateTracker
 HOST,open.publictracker.xyz,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
@@ -83,6 +86,7 @@ HOST,run.publictracker.xyz,PrivateTracker
 HOST,ryjer.com,PrivateTracker
 HOST,sanincode.com,PrivateTracker
 HOST,share.camoe.cn,PrivateTracker
+HOST,shubt.net,PrivateTracker
 HOST,soundmovie.ru,PrivateTracker
 HOST,ssb14.nohost.me,PrivateTracker
 HOST,static.54.161.216.95.clients.your-server.de,PrivateTracker
@@ -110,6 +114,7 @@ HOST,tracker.4.babico.name.tr,PrivateTracker
 HOST,tracker.army,PrivateTracker
 HOST,tracker.artixlinux.org,PrivateTracker
 HOST,tracker.auctor.tv,PrivateTracker
+HOST,tracker.bangumi.zip,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bitsearch.to,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
@@ -121,7 +126,6 @@ HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.ddunlimited.net,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
-HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.electro-torrent.pl,PrivateTracker
 HOST,tracker.farted.net,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker

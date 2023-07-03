@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-03 02:10:43
+# UPDATED: 2023-07-04 02:10:42
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19154
+# DOMAIN-SUFFIX: 19156
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19463
+# TOTAL: 19465
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -7221,6 +7221,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .k9vidz.com
 .kaamuu.com
 .kaggle.com
+.kaggle.net
 .kaggleusercontent.com
 .kairakudoujin.net
 .kakaocorp.com
@@ -17801,6 +17802,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sis001.us
 .site2unblock.com
 .site90.net
+.sitebro.tw
 .sitekreator.com
 .sitemaps.org
 .six-degrees.io
