@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-04 02:10:42
+# UPDATED: 2023-07-05 02:11:52
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 19156
@@ -2020,7 +2020,6 @@ DOMAIN-SUFFIX,bestfreecams.club
 DOMAIN-SUFFIX,bestfreesexgames.com
 DOMAIN-SUFFIX,bestfreetube.net
 DOMAIN-SUFFIX,bestgames-2022.com
-DOMAIN-SUFFIX,bestgore.com
 DOMAIN-SUFFIX,besthandjobporn.com
 DOMAIN-SUFFIX,besthentaitube.com
 DOMAIN-SUFFIX,bestiality.guru
@@ -13967,6 +13966,7 @@ DOMAIN-SUFFIX,beric.me
 DOMAIN-SUFFIX,berlinerbericht.de
 DOMAIN-SUFFIX,berm.co.nz
 DOMAIN-SUFFIX,bestforchina.org
+DOMAIN-SUFFIX,bestgore.com
 DOMAIN-SUFFIX,bestvpn.com
 DOMAIN-SUFFIX,bestvpnanalysis.com
 DOMAIN-SUFFIX,bestvpnserver.com
