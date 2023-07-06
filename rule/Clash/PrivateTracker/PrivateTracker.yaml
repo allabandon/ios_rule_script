@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-06 02:13:28
-# DOMAIN: 177
+# UPDATED: 2023-07-07 02:14:33
+# DOMAIN: 180
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
 # IP-CIDR: 7
 # IP-CIDR6: 2
-# TOTAL: 307
+# TOTAL: 310
 payload:
   - DOMAIN,107.182.30.76.16clouds.com
   - DOMAIN,1337.abcvg.info
@@ -21,6 +21,7 @@ payload:
   - DOMAIN,astrra.space
   - DOMAIN,black-bird.ynh.fr
   - DOMAIN,boysbitte.be
+  - DOMAIN,bt.endpot.com
   - DOMAIN,bt.ktrackers.com
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt1.archive.org
@@ -29,6 +30,7 @@ payload:
   - DOMAIN,carr.codes
   - DOMAIN,city21.pk
   - DOMAIN,concen.org
+  - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,download.nerocloud.me
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,epider.me
@@ -59,9 +61,9 @@ payload:
   - DOMAIN,odd-hd.fr
   - DOMAIN,oh.fuuuuuck.com
   - DOMAIN,open.acgnxtracker.com
+  - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.u-p.pw
@@ -73,6 +75,7 @@ payload:
   - DOMAIN,private.anonseed.com
   - DOMAIN,psyco.fr
   - DOMAIN,public-tracker.cf
+  - DOMAIN,public.publictracker.xyz
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,region.nl1.privex.cc
   - DOMAIN,retracker.hotplug.ru
@@ -117,7 +120,6 @@ payload:
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.ccp.ovh
-  - DOMAIN,tracker.cloudit.top
   - DOMAIN,tracker.cubonegro.lol
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.ddunlimited.net
@@ -160,6 +162,7 @@ payload:
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.tryhackx.org
+  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com

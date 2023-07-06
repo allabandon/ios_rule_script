@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-06 02:12:37
+# UPDATED: 2023-07-07 02:13:35
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65562
+# DOMAIN-SUFFIX: 65555
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 65751
+# TOTAL: 65744
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -5927,7 +5927,6 @@ payload:
   - '+.265o.com'
   - '+.265ps.com'
   - '+.266.la'
-  - '+.266555c.com'
   - '+.266680.com'
   - '+.266wan.com'
   - '+.2672721.xyz'
@@ -8758,7 +8757,6 @@ payload:
   - '+.68ge.com'
   - '+.68hanchen.com'
   - '+.68hr.com'
-  - '+.68jt.com'
   - '+.68play.com'
   - '+.68team.com'
   - '+.68web.net'
@@ -9956,7 +9954,6 @@ payload:
   - '+.92.net'
   - '+.921.com'
   - '+.9211.com'
-  - '+.921686.com'
   - '+.921716.com'
   - '+.9217web.com'
   - '+.921lu.com'
@@ -10276,7 +10273,6 @@ payload:
   - '+.996.pm'
   - '+.9966.org'
   - '+.9966333.com'
-  - '+.99665.at'
   - '+.9966886699.com'
   - '+.9966w.com'
   - '+.996a.com'
@@ -13784,6 +13780,7 @@ payload:
   - '+.bibibi.net'
   - '+.bibiku.com'
   - '+.bibuzhengxing.com'
+  - '+.bicpaedu.com'
   - '+.bicredit.xin'
   - '+.bid-view.com'
   - '+.biddingos.com'
@@ -29114,7 +29111,6 @@ payload:
   - '+.hkstv.tv'
   - '+.hkszetsair.com'
   - '+.hkt4.com'
-  - '+.hktzschool.com'
   - '+.hkvisen.com'
   - '+.hkwb.net'
   - '+.hkxbjt.com'
@@ -29482,6 +29478,7 @@ payload:
   - '+.hongxiaolong.com'
   - '+.hongxin18.com'
   - '+.hongxingzn.com'
+  - '+.hongxintaji.com'
   - '+.hongxiu.cc'
   - '+.hongyan.info'
   - '+.hongyanjin.com'
@@ -30403,7 +30400,6 @@ payload:
   - '+.hunbohui.info'
   - '+.hunbys.com'
   - '+.hunche.net'
-  - '+.hunchelaila.com'
   - '+.hundredcent.com'
   - '+.hundsun.com'
   - '+.hundun.net'
@@ -33774,7 +33770,6 @@ payload:
   - '+.jingzhunyunting.com'
   - '+.jingzhusz.com'
   - '+.jinhe-energy.com'
-  - '+.jinhengjgj.com'
   - '+.jinher.com'
   - '+.jinheshiye.com'
   - '+.jinhongchina.com'
@@ -37341,6 +37336,7 @@ payload:
   - '+.lezhuan.com'
   - '+.lezhuan168.com'
   - '+.lezhuan365.com'
+  - '+.lezhun.com'
   - '+.lezi.com'
   - '+.lezuan.net'
   - '+.lezuan9.com'
@@ -45070,7 +45066,6 @@ payload:
   - '+.qian-gua.com'
   - '+.qianba.com'
   - '+.qianbao.com'
-  - '+.qianbao666.com'
   - '+.qianbaocard.com'
   - '+.qianbaohr.com'
   - '+.qiancheng.me'
@@ -45569,7 +45564,6 @@ payload:
   - '+.qiyoujiage.com'
   - '+.qiyouwang.com'
   - '+.qiyouworld.com'
-  - '+.qiyouyuan.com'
   - '+.qiyouzy.com'
   - '+.qiyqh.com'
   - '+.qiytech.com'
@@ -46936,7 +46930,6 @@ payload:
   - '+.rongshuxia.com'
   - '+.rongstone.com'
   - '+.rongtai-china.com'
-  - '+.rongxingvr.cc'
   - '+.rongxinzh.com'
   - '+.rongyao666.com'
   - '+.rongyi.com'
@@ -47793,7 +47786,6 @@ payload:
   - '+.sdongpo.com'
   - '+.sdoprofile.com'
   - '+.sdpku.com'
-  - '+.sdqifushebei.com'
   - '+.sdqlkr.com'
   - '+.sdqmy.com'
   - '+.sdqoi2d.com'
@@ -50384,6 +50376,7 @@ payload:
   - '+.ssby.cc'
   - '+.sscity.org'
   - '+.sscmwl.com'
+  - '+.sscom.vip'
   - '+.ssdata.com'
   - '+.ssdax.com'
   - '+.ssdfans.com'
@@ -51221,7 +51214,6 @@ payload:
   - '+.syxwang.com'
   - '+.syxwnet.com'
   - '+.syyqls.com'
-  - '+.syys8.com'
   - '+.syyx.com'
   - '+.syyyking.com'
   - '+.syzlzz.com'
@@ -52197,6 +52189,7 @@ payload:
   - '+.tgah.skin'
   - '+.tgcid.org'
   - '+.tgcook.com'
+  - '+.tgddsads.com'
   - '+.tghello.com'
   - '+.tgjh.com'
   - '+.tgking.net'
@@ -62208,6 +62201,7 @@ payload:
   - '+.ys1688.cc'
   - '+.ys2345.com'
   - '+.ys4fun.com'
+  - '+.ys630.com'
   - '+.ys7.com'
   - '+.ys720.com'
   - '+.ys8.com'
@@ -62431,7 +62425,6 @@ payload:
   - '+.yuelun.com'
   - '+.yueme.tv'
   - '+.yuemei.com'
-  - '+.yuenei.com'
   - '+.yuenshui.com'
   - '+.yuenwooping-truelegend.com'
   - '+.yuepaijia.com'

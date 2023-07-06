@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-06 02:08:21
+# UPDATED: 2023-07-07 02:08:41
 # DOMAIN: 15811
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 91322
+# DOMAIN-SUFFIX: 91352
 # IP-CIDR: 248
-# TOTAL: 107457
+# TOTAL: 107487
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.35
@@ -18518,6 +18518,7 @@ opencloud.wostore.cn
 .abrinchapper.com
 .abrittel.fr
 .abrjsiuuhet.com
+.abrnfctkn.xyz
 .abroad-ad.kingsoft-office-service.com
 .abroniamarkup.com
 .abroodeuripi.com
@@ -18825,6 +18826,7 @@ opencloud.wostore.cn
 .ad-411.com
 .ad-admin.vnay.vn
 .ad-analytics-bootstrap.metaps.com
+.ad-api-log.colopl.jp
 .ad-api.ehawk.com
 .ad-arata.com
 .ad-arrow.com
@@ -21287,6 +21289,7 @@ opencloud.wostore.cn
 .adstatistics.av380.net
 .adsterra.com
 .adsterra.org
+.adsterratech.com
 .adstest.weather.com
 .adstico.io
 .adstime.org
@@ -24896,6 +24899,7 @@ opencloud.wostore.cn
 .avdego.net
 .avdpmeated.uno
 .avellingand.xyz
+.avenaryconcent.com
 .avencio.de
 .avenseo.com
 .avenuea.com
@@ -27070,6 +27074,7 @@ opencloud.wostore.cn
 .blistersuperstition.com
 .blizzardcinnamonappointed.com
 .bljlrl.xyz
+.blkwrjerbklya.top
 .blmetabemj.xyz
 .blnojxqob.top
 .bloblohub.com
@@ -30622,6 +30627,7 @@ opencloud.wostore.cn
 .coalbagbices.website
 .coaphauk.net
 .coaraije.com
+.coarooro.net
 .coastlineahead.com
 .coastlinebravediffers.com
 .coastpreachshrink.com
@@ -36734,6 +36740,7 @@ opencloud.wostore.cn
 .envyindebted.com
 .enwingdondia.com
 .enzagpt.cn
+.enzajjbrrbbvw.top
 .eo62cocntx.com
 .eoaktaposh.com
 .eoapxl.com
@@ -37357,6 +37364,7 @@ opencloud.wostore.cn
 .excellenceads.com
 .excellent-closet.pro
 .excellent-vids.online
+.excellentvids.online
 .excellernod.xyz
 .exceph.com
 .exceptexchange.com
@@ -39436,6 +39444,7 @@ opencloud.wostore.cn
 .funintheuk.com
 .funkerpep.com
 .funklicks.com
+.funkydeplane.com
 .funlife.info
 .funnelchair.com
 .funneld.com
@@ -41642,6 +41651,7 @@ opencloud.wostore.cn
 .habithate.com
 .habitofstic.xyz
 .habitofsticklik.com
+.habitueflasque.com
 .habrasysteleii.xyz
 .habrox.xyz
 .habusima.uno
@@ -41773,6 +41783,7 @@ opencloud.wostore.cn
 .hansaisai.top
 .hansetwangy.com
 .hantana.org
+.hanwdsii.com
 .hanxin.me
 .hanyingmall.cn
 .hao222.com
@@ -42973,6 +42984,7 @@ opencloud.wostore.cn
 .hs-banner.com
 .hs-scripts.com
 .hs89.cn
+.hsadeg.site
 .hsb-canada.com
 .hscta.net
 .hsdn.org
@@ -44714,6 +44726,7 @@ opencloud.wostore.cn
 .ip-label.net
 .ip-route.net
 .ip.goguardian.com
+.ip.lovely-app.com
 .ip.momentummedia.com.au
 .ip.prvtx.net
 .ip.ro
@@ -44950,6 +44963,7 @@ opencloud.wostore.cn
 .itadapi.ithome.com.tw
 .itageli.ru
 .itahandkeight.xyz
+.itaisabirs.com
 .italianadirectory.com
 .italianforesee.com
 .itbeginner.fr
@@ -45807,6 +45821,7 @@ opencloud.wostore.cn
 .jotocyxe.xyz
 .jotpoolwarren.com
 .jounaque.com
+.joupteni.xyz
 .journalismdived.com
 .journera.com
 .journey.unicef.de
@@ -48767,6 +48782,7 @@ opencloud.wostore.cn
 .log.kienthuc.net.vn
 .log.kinhdoanhhoinhap.vn
 .log.kinhtedouong.vn
+.log.klook.com
 .log.krs-ix.ru
 .log.ma-jin.jp
 .log.make50.com
@@ -48789,6 +48805,7 @@ opencloud.wostore.cn
 .log.pvpgang.com
 .log.qvb.qcloud.com
 .log.radiko.jp
+.log.recommend.nicovideo.jp
 .log.rmp.rakuten.co.jp
 .log.saigondautu.com.vn
 .log.sggp.org.vn
@@ -50433,6 +50450,7 @@ opencloud.wostore.cn
 .medtronicsolutions.com
 .medusasglance.com
 .medya.e-kolay.net
+.medyanative.com
 .medyanetads.com
 .meebeeps.com
 .meebo.com
@@ -50522,6 +50540,7 @@ opencloud.wostore.cn
 .mellow-game.pro
 .mellowads.com
 .mellowbike.com
+.mellsrecta.com
 .meloads.com
 .melongetplume.com
 .melredirnxt.top
@@ -55405,6 +55424,7 @@ opencloud.wostore.cn
 .ourtherss.top
 .ourtoolbar.com
 .ourzitemu.com
+.ousinouk.xyz
 .ouslayer.co
 .oussaute.net
 .ousseghu.net
@@ -55713,6 +55733,7 @@ opencloud.wostore.cn
 .p7ivj09f.xyz
 .p7lvj09f.shop
 .p7m1rc80jdum.com
+.p97387hj.xyz
 .pa-oa.com
 .pa-voyance.fr
 .pa.5.p2l.info
@@ -57262,6 +57283,7 @@ opencloud.wostore.cn
 .playukinternet.com
 .playwrightgrant.com
 .playzee.fr
+.plbs9k.icu
 .pleagaietyparalysis.com
 .pleasantlyrevenge.com
 .pleasantpump.com
@@ -57809,6 +57831,7 @@ opencloud.wostore.cn
 .povbdf.cn
 .povoarge.com
 .powdermealfilth.com
+.powedw.com
 .power.adhacker.online
 .powerad.ai
 .poweradblocker.com
@@ -62367,6 +62390,7 @@ opencloud.wostore.cn
 .sandcomemunicat.info
 .sandelf.com
 .sandensi.ru
+.sandflyligules.com
 .sange20221226.xyz
 .sanggilregard.com
 .sanglah.com
@@ -63327,7 +63351,6 @@ opencloud.wostore.cn
 .seyatosan.iaigiri.com
 .sezuleg.cn
 .sf14g.com
-.sf16-scmcdn-sg.ibytedtos.com
 .sfads.osdn.com
 .sffsdvc.com
 .sfilm.com
@@ -63606,6 +63629,7 @@ opencloud.wostore.cn
 .shoogloonetwork.com
 .shooinghelibus.com
 .shookahi.xyz
+.shookssuluan.com
 .shoop4.com
 .shoopusahealth.com
 .shooterconsultationcart.com
@@ -64792,6 +64816,7 @@ opencloud.wostore.cn
 .sordeexa.net
 .sordidstation.com
 .sordorcourtin.com
+.sorelyafric.com
 .sorrilytoon.com
 .sorroaconcupy.com
 .sorrowfulchemical.com
@@ -65156,6 +65181,7 @@ opencloud.wostore.cn
 .spywords.com
 .sq.requestads.com
 .sq2trk2.com
+.sq59.cn
 .sq7.co.uk
 .sqate.io
 .sqfg002.xyz
@@ -67258,6 +67284,7 @@ opencloud.wostore.cn
 .tedxffemqblmk.xyz
 .teefuthe.com
 .teeglimu.com
+.teelconch.com
 .teemingaymoro.com
 .teemooge.net
 .teenrevenue.com
@@ -68686,6 +68713,7 @@ opencloud.wostore.cn
 .tpycithabalj.com
 .tpyshaaxps.com
 .tpyxplkcap.top
+.tqdctl.xyz
 .tqdpqq.com
 .tqkfrdcwht.xyz
 .tqlkg.com
@@ -70015,6 +70043,7 @@ opencloud.wostore.cn
 .tuzaanotto.com
 .tv1s4d6klh4n.com
 .tvbxrr4ym3.click
+.tvc.biphim.club
 .tveta.naver.net
 .tvnewtop.pro
 .tvnotice.kg.garena.vn
@@ -72916,6 +72945,7 @@ opencloud.wostore.cn
 .wbidder3.com
 .wbidr.com
 .wbilvnmool.com
+.wbjjkdofo.xyz
 .wbn.su
 .wbnhqq.com
 .wboptim.online
@@ -75780,7 +75810,6 @@ opencloud.wostore.cn
 .y8lsyibocd.ru
 .y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 .ya-counter.ru
-.ya.domain-vip.net
 .ya.vteplom.ru
 .yab-adimages.s3.amazonaws.com
 .yaba.org.cn
@@ -77042,6 +77071,7 @@ opencloud.wostore.cn
 .zipeyrp.cn
 .ziphoumt.net
 .zipmonster.biz
+.zippingcare.com
 .zippyswacken.com
 .zipstat.dk
 .zircongalanas.com

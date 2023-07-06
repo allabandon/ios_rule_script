@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-06 02:09:22
+# UPDATED: 2023-07-07 02:09:49
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 11460
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 126385
+# DOMAIN-SUFFIX: 126419
 # IP-CIDR: 251
 # URL-REGEX: 285
-# TOTAL: 138644
+# TOTAL: 138678
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -12330,6 +12330,7 @@ zzxosget.com
 .1cdhf.top
 .1ce86868bf.com
 .1ckbfk08k.de
+.1crlbh48b.ru
 .1cros.net
 .1ctc.sfr.fr
 .1d1a.com
@@ -18332,6 +18333,7 @@ zzxosget.com
 .ad-admin.vnay.vn
 .ad-analysis.pconline.com.cn
 .ad-android.51wnl.com
+.ad-api-log.colopl.jp
 .ad-api.cnblogs.com
 .ad-api.ehawk.com
 .ad-arata.com
@@ -28478,6 +28480,7 @@ zzxosget.com
 .aveark.com
 .avellingand.xyz
 .avemariaas.vmrcommunications.com
+.avenaryconcent.com
 .avencio.de
 .avengeradblocker.com
 .avenseo.com
@@ -30470,7 +30473,6 @@ zzxosget.com
 .be-go.experian.com
 .be-mine.ru
 .be.consciouscartco.com
-.be.habitueflasque.com
 .be.ourhdc.com
 .be.slowmographer.co
 .be47f5d7a4.com
@@ -32084,6 +32086,7 @@ zzxosget.com
 .blazeobservancebough.com
 .blazingswatstated.com
 .blb2s77r.cn
+.blbazybajvzvw.top
 .blbppxychx.xyz
 .blddnwt.cn
 .bldr.mkt.samsung.com
@@ -32719,6 +32722,7 @@ zzxosget.com
 .bookbannershop.com
 .bookbudd.com
 .bookerstudent.com
+.bookeryboutre.com
 .booking.getwaitnot.com
 .bookingdragon.com
 .bookljlihooli.com
@@ -36372,6 +36376,7 @@ zzxosget.com
 .cghouuqqgd.com
 .cgi.tbs.co.jp
 .cgiale.com
+.cgicol.amap.com
 .cgicounter.oneandone.co.uk
 .cgicounter.onlinehome.de
 .cgicounter.puretec.de
@@ -36532,6 +36537,7 @@ zzxosget.com
 .charmingplate.com
 .charms.pugster.com
 .charmstroy.info
+.charrewuzzer.com
 .chart.dk
 .chartaca.com
 .chartaca.com.s3.amazonaws.com
@@ -38663,6 +38669,7 @@ zzxosget.com
 .coalkxfqcv.com
 .coaphauk.net
 .coaraije.com
+.coarooro.net
 .coarsewary.com
 .coastlineahead.com
 .coastlinebravediffers.com
@@ -39895,6 +39902,7 @@ zzxosget.com
 .content.zbporn.com
 .content.zeronaught.com
 .content2.nrc.nl
+.content22.bmo.com
 .content22.bmoharris.com
 .content22.citi.eu
 .content22.citibank.com.au
@@ -49526,6 +49534,7 @@ zzxosget.com
 .dualeotruyen.net
 .dualizefriskin.com
 .dualmarket.info
+.dualstack-cgicol.amap.com
 .dualstack-logs.amap.com
 .duamilsyr.com
 .duanat.com
@@ -53864,6 +53873,7 @@ zzxosget.com
 .excellenceads.com
 .excellent-closet.pro
 .excellent-vids.online
+.excellentvids.online
 .excellernod.xyz
 .exceph.com
 .exceptexchange.com
@@ -55899,6 +55909,7 @@ zzxosget.com
 .fjsetmdfmxvhjp.com
 .fjshxzyyxgs.cn
 .fjsjsj.com
+.fjsytjs.cn
 .fjttbkoxer.xyz
 .fjtzjy.com
 .fjxiicojaciiqap.xyz
@@ -57409,6 +57420,7 @@ zzxosget.com
 .funkerpep.com
 .funklicks.com
 .funkydaters.com
+.funkydeplane.com
 .funlife.info
 .funmatrix.net
 .funn.graphiq.com
@@ -61942,6 +61954,7 @@ zzxosget.com
 .habitofstic.xyz
 .habitofsticklik.com
 .habitualhumor.com
+.habitueflasque.com
 .habkjav.cn
 .habrasysteleii.xyz
 .habrox.xyz
@@ -68891,6 +68904,7 @@ zzxosget.com
 .itadapi.ithome.com.tw
 .itageli.ru
 .itahandkeight.xyz
+.itaisabirs.com
 .italianadirectory.com
 .italianforesee.com
 .italy-lottery.com
@@ -70484,6 +70498,7 @@ zzxosget.com
 .jotpoolwarren.com
 .jotrening.com
 .jounaque.com
+.joupteni.xyz
 .journalforum.org
 .journalismdived.com
 .journalismthreshold.com
@@ -71396,6 +71411,7 @@ zzxosget.com
 .kagortus.ru
 .kagrooxa.net
 .kaharmonie.nl
+.kahgjjd.com
 .kahrpinvritz.com
 .kaicaica.com
 .kaidee.info
@@ -71894,6 +71910,7 @@ zzxosget.com
 .kgcjgsa8.net
 .kgcyvd.com
 .kgdvs9ov3l2aasw4nuts.com
+.kgeesh.site
 .kgelugaz.com
 .kgeshe.site
 .kgfjrb711.com
@@ -81338,6 +81355,7 @@ zzxosget.com
 .mellowads.com
 .mellowbike.com
 .mellowpresence.com
+.mellsrecta.com
 .melo.space
 .meloads.com
 .melodicminute.com
@@ -82866,6 +82884,7 @@ zzxosget.com
 .miarroba.info
 .miastina.pw
 .miatip.cn
+.miayarus.com
 .mibafara.com
 .mibebu.com
 .mibknb.com
@@ -83720,6 +83739,7 @@ zzxosget.com
 .mobcrummymow.com
 .mobday.com
 .mobdel2.com
+.mobdrom.ru
 .mobee.xyz
 .mobee2.jp
 .mobevo.fr
@@ -85674,6 +85694,7 @@ zzxosget.com
 .nabeghlavi.com.cn
 .nablabee.com
 .nableemblems.com
+.nableriptide.com
 .nabobketupa.com
 .nabucuo.com
 .nacfuns.com
@@ -95539,6 +95560,7 @@ zzxosget.com
 .prfct.co
 .prfctmney.com
 .prfqcdfws.com
+.prft1pub.com
 .prfuxl.xyz
 .prgvhola.com
 .prgznhukaoggg.com
@@ -96300,6 +96322,7 @@ zzxosget.com
 .psdn.xyz
 .pseekree.com
 .pseekseecm.com
+.pseemsee.com
 .pseepsie.com
 .pseepsoo.com
 .psekesheva.pro
@@ -98971,6 +98994,7 @@ zzxosget.com
 .rbbbdj.xyz
 .rbcdn.com
 .rbck.st3pst3p.com
+.rbfour.bid
 .rbfvtiqnd.com
 .rbgfxxt.cn
 .rbign.cn
@@ -103316,6 +103340,7 @@ zzxosget.com
 .sandcomemunicat.info
 .sandelf.com
 .sandensi.ru
+.sandflyligules.com
 .sange20221226.xyz
 .sanggilregard.com
 .sanglah.com
@@ -105431,7 +105456,6 @@ zzxosget.com
 .sf.groc.press
 .sf.zestfulpize.com
 .sf14g.com
-.sf16-scmcdn-sg.ibytedtos.com
 .sf6-ttcdn-tos.pstatp.com
 .sfads.osdn.com
 .sfajfu.boulanger.com
@@ -105999,6 +106023,7 @@ zzxosget.com
 .shookahi.xyz
 .shookcooperassociate.com
 .shooksap.net
+.shookssuluan.com
 .shoop4.com
 .shoopusahealth.com
 .shooter.m.jd.com
@@ -106631,6 +106656,7 @@ zzxosget.com
 .site2.emarketer.com
 .site24x7rum.com
 .site24x7rum.eu
+.site24x7rum.in
 .siteadvisor.com-br.site
 .sitealyse.de
 .siteapps.com
@@ -110056,6 +110082,7 @@ zzxosget.com
 .smoggystation.com
 .smokebookcase.com
 .smokersopinionpoll.com
+.smokerythrow.com
 .smokesplical.com
 .smokiercliches.com
 .smokilycasette.store
@@ -112756,6 +112783,7 @@ zzxosget.com
 .startd0wnload22x.com
 .startede.com
 .starterplaicebrow.com
+.starti.pl
 .startmarket.su
 .startpagea.com
 .startrekk.flaconi.at
@@ -117691,6 +117719,7 @@ zzxosget.com
 .tawdryson.com
 .tawk.to
 .tawmbg.tower-london.com
+.tawniessmoot.com
 .tawpykheda.com
 .tawrzic.com
 .tax-canada2023.co
@@ -118094,6 +118123,7 @@ zzxosget.com
 .tedxffemqblmk.xyz
 .teefuthe.com
 .teeglimu.com
+.teelconch.com
 .teelikeableaspirant.com
 .teemingaymoro.com
 .teemooge.net
@@ -125320,6 +125350,7 @@ zzxosget.com
 .umedadelempanyi.info
 .umekana.ru
 .umentrandings.xyz
+.umexalim.com
 .umfsyvnufa.com
 .umgangrubbler.com
 .umhfrtu.cn
@@ -130370,6 +130401,7 @@ zzxosget.com
 .wheroi.com
 .whertinu.com
 .whethermondos.digital
+.whethobs.xyz
 .whethy.com
 .whetic.com
 .whezogrewha.com
@@ -130914,6 +130946,7 @@ zzxosget.com
 .wish.securedtouch.com
 .wishdownget.com
 .wishesantennarightfully.com
+.wishesen.com
 .wishesobtrusivefastest.com
 .wishfulinsecurereplace.com
 .wishjus.com
@@ -134686,7 +134719,6 @@ zzxosget.com
 .y900.greenwichtime.com
 .y9062t.cn
 .ya-counter.ru
-.ya.domain-vip.net
 .ya.vteplom.ru
 .yab-adimages.s3.amazonaws.com
 .yaba.org.cn
@@ -135153,6 +135185,7 @@ zzxosget.com
 .ygyzx.cn
 .ygzkedoxwhqlzp.com
 .yh.coursgrimace.com
+.yh18h8s.com
 .yh20230625tu.com
 .yh21kk.com
 .yh300.vip
@@ -137116,6 +137149,7 @@ zzxosget.com
 .zipmonster.biz
 .zipovoma.com
 .zipperxray.com
+.zippingcare.com
 .zippyfrog.co
 .zippyswacken.com
 .zippywind.com
