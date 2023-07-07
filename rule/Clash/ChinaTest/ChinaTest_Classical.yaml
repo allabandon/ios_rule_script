@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-07 02:13:35
+# UPDATED: 2023-07-08 02:13:51
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65555
+# DOMAIN-SUFFIX: 65554
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 65744
+# TOTAL: 65743
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -10868,6 +10868,7 @@ payload:
   - DOMAIN-SUFFIX,adxqd.com
   - DOMAIN-SUFFIX,adxwork.com
   - DOMAIN-SUFFIX,adyounger.com
+  - DOMAIN-SUFFIX,adysimg.com
   - DOMAIN-SUFFIX,adyun.com
   - DOMAIN-SUFFIX,adzar-energy.com
   - DOMAIN-SUFFIX,adzh.com
@@ -12256,7 +12257,6 @@ payload:
   - DOMAIN-SUFFIX,arkread.com
   - DOMAIN-SUFFIX,arkteam.net
   - DOMAIN-SUFFIX,arliki.com
-  - DOMAIN-SUFFIX,arm001.com
   - DOMAIN-SUFFIX,arm9.net
   - DOMAIN-SUFFIX,arm9home.net
   - DOMAIN-SUFFIX,armbbs.net
@@ -20842,7 +20842,6 @@ payload:
   - DOMAIN-SUFFIX,dgwtrl.com
   - DOMAIN-SUFFIX,dgxbjg.com
   - DOMAIN-SUFFIX,dgxinde.net
-  - DOMAIN-SUFFIX,dgxinyuds.com
   - DOMAIN-SUFFIX,dgxue.com
   - DOMAIN-SUFFIX,dgyejia.com
   - DOMAIN-SUFFIX,dgygpx.com
@@ -28936,7 +28935,6 @@ payload:
   - DOMAIN-SUFFIX,hijoys.com
   - DOMAIN-SUFFIX,hikailink.com
   - DOMAIN-SUFFIX,hikcreate.com
-  - DOMAIN-SUFFIX,hikedj.com
   - DOMAIN-SUFFIX,hiklife.com
   - DOMAIN-SUFFIX,hikoon.com
   - DOMAIN-SUFFIX,hikops.com
@@ -50380,6 +50378,7 @@ payload:
   - DOMAIN-SUFFIX,ssdata.com
   - DOMAIN-SUFFIX,ssdax.com
   - DOMAIN-SUFFIX,ssdfans.com
+  - DOMAIN-SUFFIX,ssdzg.com
   - DOMAIN-SUFFIX,ssf.cc
   - DOMAIN-SUFFIX,ssfiction.com
   - DOMAIN-SUFFIX,ssgabc.com
@@ -58532,6 +58531,7 @@ payload:
   - DOMAIN-SUFFIX,xiaohulu.com
   - DOMAIN-SUFFIX,xiaohuochai.cc
   - DOMAIN-SUFFIX,xiaohuochai.site
+  - DOMAIN-SUFFIX,xiaohus.com
   - DOMAIN-SUFFIX,xiaohuwl.com
   - DOMAIN-SUFFIX,xiaoice.com
   - DOMAIN-SUFFIX,xiaoj.com
@@ -60417,7 +60417,6 @@ payload:
   - DOMAIN-SUFFIX,yanglong.pro
   - DOMAIN-SUFFIX,yangluojob.com
   - DOMAIN-SUFFIX,yangmao.info
-  - DOMAIN-SUFFIX,yangmaodang.org
   - DOMAIN-SUFFIX,yangmaohao.net
   - DOMAIN-SUFFIX,yangner.com
   - DOMAIN-SUFFIX,yangqianguan.com

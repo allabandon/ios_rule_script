@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-07 02:13:35
+# UPDATED: 2023-07-08 02:13:51
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 65555
+# DOMAIN-SUFFIX: 65554
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 65744
+# TOTAL: 65743
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -10867,6 +10867,7 @@ xn--flw351e.com
 .adxqd.com
 .adxwork.com
 .adyounger.com
+.adysimg.com
 .adyun.com
 .adzar-energy.com
 .adzh.com
@@ -12255,7 +12256,6 @@ xn--flw351e.com
 .arkread.com
 .arkteam.net
 .arliki.com
-.arm001.com
 .arm9.net
 .arm9home.net
 .armbbs.net
@@ -20841,7 +20841,6 @@ xn--flw351e.com
 .dgwtrl.com
 .dgxbjg.com
 .dgxinde.net
-.dgxinyuds.com
 .dgxue.com
 .dgyejia.com
 .dgygpx.com
@@ -28935,7 +28934,6 @@ xn--flw351e.com
 .hijoys.com
 .hikailink.com
 .hikcreate.com
-.hikedj.com
 .hiklife.com
 .hikoon.com
 .hikops.com
@@ -50379,6 +50377,7 @@ xn--flw351e.com
 .ssdata.com
 .ssdax.com
 .ssdfans.com
+.ssdzg.com
 .ssf.cc
 .ssfiction.com
 .ssgabc.com
@@ -58531,6 +58530,7 @@ xn--flw351e.com
 .xiaohulu.com
 .xiaohuochai.cc
 .xiaohuochai.site
+.xiaohus.com
 .xiaohuwl.com
 .xiaoice.com
 .xiaoj.com
@@ -60416,7 +60416,6 @@ xn--flw351e.com
 .yanglong.pro
 .yangluojob.com
 .yangmao.info
-.yangmaodang.org
 .yangmaohao.net
 .yangner.com
 .yangqianguan.com

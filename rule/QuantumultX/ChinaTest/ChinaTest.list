@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-07 02:13:33
+# UPDATED: 2023-07-08 02:13:50
 # HOST: 165
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 65555
+# HOST-SUFFIX: 65554
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 65776
+# TOTAL: 65775
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -10869,6 +10869,7 @@ HOST-SUFFIX,adxpand.com,ChinaTest
 HOST-SUFFIX,adxqd.com,ChinaTest
 HOST-SUFFIX,adxwork.com,ChinaTest
 HOST-SUFFIX,adyounger.com,ChinaTest
+HOST-SUFFIX,adysimg.com,ChinaTest
 HOST-SUFFIX,adyun.com,ChinaTest
 HOST-SUFFIX,adzar-energy.com,ChinaTest
 HOST-SUFFIX,adzh.com,ChinaTest
@@ -12257,7 +12258,6 @@ HOST-SUFFIX,arkrdigital.com,ChinaTest
 HOST-SUFFIX,arkread.com,ChinaTest
 HOST-SUFFIX,arkteam.net,ChinaTest
 HOST-SUFFIX,arliki.com,ChinaTest
-HOST-SUFFIX,arm001.com,ChinaTest
 HOST-SUFFIX,arm9.net,ChinaTest
 HOST-SUFFIX,arm9home.net,ChinaTest
 HOST-SUFFIX,armbbs.net,ChinaTest
@@ -20843,7 +20843,6 @@ HOST-SUFFIX,dgwap.com,ChinaTest
 HOST-SUFFIX,dgwtrl.com,ChinaTest
 HOST-SUFFIX,dgxbjg.com,ChinaTest
 HOST-SUFFIX,dgxinde.net,ChinaTest
-HOST-SUFFIX,dgxinyuds.com,ChinaTest
 HOST-SUFFIX,dgxue.com,ChinaTest
 HOST-SUFFIX,dgyejia.com,ChinaTest
 HOST-SUFFIX,dgygpx.com,ChinaTest
@@ -28937,7 +28936,6 @@ HOST-SUFFIX,hijiaoshi.com,ChinaTest
 HOST-SUFFIX,hijoys.com,ChinaTest
 HOST-SUFFIX,hikailink.com,ChinaTest
 HOST-SUFFIX,hikcreate.com,ChinaTest
-HOST-SUFFIX,hikedj.com,ChinaTest
 HOST-SUFFIX,hiklife.com,ChinaTest
 HOST-SUFFIX,hikoon.com,ChinaTest
 HOST-SUFFIX,hikops.com,ChinaTest
@@ -50381,6 +50379,7 @@ HOST-SUFFIX,sscom.vip,ChinaTest
 HOST-SUFFIX,ssdata.com,ChinaTest
 HOST-SUFFIX,ssdax.com,ChinaTest
 HOST-SUFFIX,ssdfans.com,ChinaTest
+HOST-SUFFIX,ssdzg.com,ChinaTest
 HOST-SUFFIX,ssf.cc,ChinaTest
 HOST-SUFFIX,ssfiction.com,ChinaTest
 HOST-SUFFIX,ssgabc.com,ChinaTest
@@ -58533,6 +58532,7 @@ HOST-SUFFIX,xiaohuangji.com,ChinaTest
 HOST-SUFFIX,xiaohulu.com,ChinaTest
 HOST-SUFFIX,xiaohuochai.cc,ChinaTest
 HOST-SUFFIX,xiaohuochai.site,ChinaTest
+HOST-SUFFIX,xiaohus.com,ChinaTest
 HOST-SUFFIX,xiaohuwl.com,ChinaTest
 HOST-SUFFIX,xiaoice.com,ChinaTest
 HOST-SUFFIX,xiaoj.com,ChinaTest
@@ -60418,7 +60418,6 @@ HOST-SUFFIX,yangli.com,ChinaTest
 HOST-SUFFIX,yanglong.pro,ChinaTest
 HOST-SUFFIX,yangluojob.com,ChinaTest
 HOST-SUFFIX,yangmao.info,ChinaTest
-HOST-SUFFIX,yangmaodang.org,ChinaTest
 HOST-SUFFIX,yangmaohao.net,ChinaTest
 HOST-SUFFIX,yangner.com,ChinaTest
 HOST-SUFFIX,yangqianguan.com,ChinaTest
