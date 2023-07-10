@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-10 02:08:27
-# DOMAIN: 12231
+# UPDATED: 2023-07-11 02:09:36
+# DOMAIN: 12269
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 115295
-# IP-CIDR: 251
-# TOTAL: 128040
+# DOMAIN-SUFFIX: 115322
+# IP-CIDR: 249
+# TOTAL: 128103
 payload:
   - DOMAIN-KEYWORD,112wan
   - DOMAIN-KEYWORD,789htbet
@@ -273,8 +273,6 @@ payload:
   - DOMAIN-KEYWORD,ynuf.alipay.com
   - IP-CIDR,0.0.0.1/32
   - IP-CIDR,1.3.0.10/32
-  - IP-CIDR,10.10.34.35/32
-  - IP-CIDR,10.10.34.36/32
   - IP-CIDR,10.72.25.0/24
   - IP-CIDR,101.124.19.122/32
   - IP-CIDR,101.201.29.182/32
