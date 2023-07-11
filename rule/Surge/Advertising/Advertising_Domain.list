@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-11 02:08:18
+# UPDATED: 2023-07-12 02:08:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 17157
+# DOMAIN: 17156
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 91817
+# DOMAIN-SUFFIX: 91858
 # IP-CIDR: 248
 # URL-REGEX: 285
-# TOTAL: 109584
+# TOTAL: 109624
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -13858,7 +13858,6 @@ trace.m1905.cn
 trace.ynet.com
 traceadmanager.com
 traceybell.co.uk
-tracing-collector.strava.com
 track.absoluteclickscom.com
 track.adxwork.com
 track.afcpatrk.com
@@ -18937,6 +18936,7 @@ zzxosget.com
 .441a8a5527.com
 .44288fa514.com
 .445c1f5df9.com
+.445d1bd01a.com
 .445d4cf110.com
 .44629.com
 .4480.org
@@ -22256,6 +22256,7 @@ zzxosget.com
 .abtrcking.com
 .abtshield.com
 .abtyroguer.com
+.abuleiasafflow.com
 .abundanceforfeit.com
 .abundantshells.com
 .abundled.club
@@ -27200,6 +27201,7 @@ zzxosget.com
 .akamaihd.site
 .akanoo.com
 .akavita.com
+.akazginhapping.com
 .akbpwhdbdgtlilq.com
 .akdashang.vip
 .akdbr.com
@@ -27267,6 +27269,7 @@ zzxosget.com
 .alapita.openapp.link
 .alappropolylibe.site
 .alargeredrubygsw.com
+.alargeredrubygsw.info
 .alas4kanmfa6a4mubte.com
 .alaskan4kleeskai.com
 .alasvow.com
@@ -28799,6 +28802,7 @@ zzxosget.com
 .aniqgsz.cc
 .aniruyt.ru
 .aniview.com
+.aniyae.net
 .anjlkkyhpp.com
 .ankhspreses.space
 .ankieta-online.pl
@@ -28984,6 +28988,7 @@ zzxosget.com
 .anydeskchina.cn
 .anyfiles.ovh
 .anyfiles.ru
+.anyhowunplat.uno
 .anyideaho.fun
 .anymad.com
 .anymautey.xyz
@@ -32145,6 +32150,7 @@ zzxosget.com
 .baidutm999.xyz
 .baidutv.baidu.com
 .baiduvip.life
+.baiduvjsbvjknlsvsv.com
 .baiduwudi929.xyz
 .baiduyoukualiyun.com
 .baiduyubaidu.com
@@ -32206,6 +32212,7 @@ zzxosget.com
 .baklajansss.site
 .bakongojotted.com
 .bakquka.com
+.bakrfugarbi.com
 .bakteso.ru
 .balabass.peerserver.com
 .balaganpgnttrp.com
@@ -33388,6 +33395,7 @@ zzxosget.com
 .bentliarpomposity.com
 .bento.agoda.com
 .bentonow.com
+.bentonuncage.com
 .benumbagcy.com
 .benumelan.com
 .benureko.xyz
@@ -43784,6 +43792,7 @@ zzxosget.com
 .deepdelver.top
 .deepdive.zum.com
 .deepermagnes.com
+.deephicy.net
 .deepintent.com
 .deepknow.egoid.me
 .deeplearning.red
@@ -44081,6 +44090,7 @@ zzxosget.com
 .desa.fkapi.net
 .desabrator.com
 .desadu.com
+.desalthuns.com
 .desb.fkapi.net
 .desb.mspaceads.com
 .descendantmystery.com
@@ -48038,6 +48048,7 @@ zzxosget.com
 .emptyescort.com
 .emptz.cyou
 .emqomxdwrhol.com
+.emqrjjveqnjab.top
 .emqrjjveqnjjq.top
 .emqvwujfjknkbg.com
 .emraudpeptone.com
@@ -48545,6 +48556,7 @@ zzxosget.com
 .ereportz.com
 .eresmas.net
 .ereuwqhc.com
+.erfskhnpter.xyz
 .erg.ihclam.cn
 .ergadx.com
 .ergatesgurjun.com
@@ -50393,6 +50405,7 @@ zzxosget.com
 .feltermopish.com
 .feltlonelyand.xyz
 .feltmanarietid.com
+.feluccahoit.com
 .felzfr.xyz
 .femald.com
 .female-v.1.p2l.info
@@ -51965,6 +51978,7 @@ zzxosget.com
 .fuelx.com
 .fuffscreigh.website
 .fufoatch.com
+.fugcgfilma.com
 .fugetech.com
 .fugles.net
 .fugufeimaotui.cn
@@ -52826,6 +52840,7 @@ zzxosget.com
 .ge.cn
 .ge95.com
 .geakr.com
+.gearedftnerr.com
 .gearsora.com
 .gearwom.de
 .geasefloria.com
@@ -56768,6 +56783,7 @@ zzxosget.com
 .hogei.info
 .hoggeepilies.digital
 .hoggersundue.com
+.hoglinsu.com
 .hognaivee.com
 .hogqmd.com
 .hogtiesnosh.guru
@@ -60023,6 +60039,7 @@ zzxosget.com
 .ionrefreshotsev.info
 .ionseleaukses.autos
 .iooecb.bergzeit.de
+.iopiopiop.net
 .iopiopiop.org
 .ioredi.com
 .iorlsblj.cyou
@@ -63437,6 +63454,7 @@ zzxosget.com
 .kudifish.com
 .kudrunoptime.com
 .kudzuphloemgunk.tech
+.kueezrtb.com
 .kueofwt.cn
 .kufhcyqryh.com
 .kufmbwm.cn
@@ -70654,6 +70672,7 @@ zzxosget.com
 .moolasghazism.guru
 .mooleyshatful.com
 .moomoopop.com
+.moon.ibytecdn.cn
 .moonads.net
 .mooncklick.com
 .moonicorn.network
@@ -72330,6 +72349,7 @@ zzxosget.com
 .netzwerk-ad.de
 .neudesicmediagroup.com
 .neumanns-installation.de
+.neurinacyesis.com
 .neurotrack.neurolake.io
 .neutralityrecommendstretched.com
 .neutralpages.com
@@ -73943,6 +73963,7 @@ zzxosget.com
 .oboistbasify.com
 .oboletcart.com
 .obolic.com
+.obolxietnquosyr.com
 .obouckie.com
 .obovoidfidgets.com
 .obovsemonline.ru
@@ -76765,6 +76786,7 @@ zzxosget.com
 .peakcounter.dk
 .peakluckily.com
 .pealia.com
+.peanutsfuscin.com
 .peanutsurrogatesurrogate.com
 .pear.ca-eko-globetrotter.fr
 .pear.youzful-by-ca.fr
@@ -76980,6 +77002,7 @@ zzxosget.com
 .perk0mean.com
 .perkas.pw
 .perkcanada.com
+.perksthawers.com
 .perljs.com
 .permalinking.com
 .permanentlyreefwool.com
@@ -78319,6 +78342,7 @@ zzxosget.com
 .poacawhe.net
 .poae2klya.icu
 .poalauza.net
+.poapustu.net
 .poaships.com
 .poasotha.com
 .poastoaz.com
@@ -80407,6 +80431,7 @@ zzxosget.com
 .pw.gigazine.net
 .pw321.com
 .pwa.telephoneannuaire.fr
+.pwbmdalngizhz.com
 .pwcuu.cn
 .pwdplz.com
 .pweocgzutri.com
@@ -81580,6 +81605,7 @@ zzxosget.com
 .radxcomm.com
 .raenfh9tkuka.com
 .raeqqe.cn
+.raferu.com
 .raftybuts.com
 .rafvertizing.crazygames.com
 .rag3ca7t5amubr8eedffin.com
@@ -94207,6 +94233,7 @@ zzxosget.com
 .thaudray.com
 .thauftoa.net
 .thautsie.net
+.thauzauw.xyz
 .thaveksi.net
 .thawbootsamplitude.com
 .thawheek.com
@@ -95584,6 +95611,7 @@ zzxosget.com
 .tour.cineble.com
 .tour.sweetdiscreet.com
 .touracopilaf.com
+.touracostephe.com
 .tourism.visitorlando.com
 .tourismelenslievin.fr
 .tourn.co
@@ -96475,6 +96503,7 @@ zzxosget.com
 .tracer.perezhilton.com
 .traces.sr.roku.com
 .traceworks.com
+.tracing-collector.strava.com
 .tracing.roblox.com
 .track-dark-bz.b-cdn.net
 .track-e.infineon.com
@@ -96908,9 +96937,11 @@ zzxosget.com
 .tracker.farsnews.ir
 .tracker.financialcontent.com
 .tracker.gamedock.io
+.tracker.gamemonkey.org
 .tracker.giftd.ru
 .tracker.gigaphim.com
 .tracker.gleanview.com
+.tracker.gpcdn.pl
 .tracker.hdtvcloud.com
 .tracker.icerocket.com
 .tracker.idocdn.com
@@ -96941,6 +96972,7 @@ zzxosget.com
 .tracker.phunusuckhoe.vn
 .tracker.phunuvagiadinh.vn
 .tracker.pinnaclesports.com
+.tracker.pracuj.pl
 .tracker.prom.ua
 .tracker.providence.org
 .tracker.publico.pt
@@ -98728,6 +98760,7 @@ zzxosget.com
 .twch.20min.ch
 .twcount.com
 .twcouponcenter.com
+.twdjklxt.com
 .tweenydone.website
 .tweeseconable.website
 .tweetbuzz.jp
@@ -99606,6 +99639,7 @@ zzxosget.com
 .unfinishedheir.com
 .unflamewandoo.com
 .unforgivablegrowl.com
+.ungloomnisnas.com
 .ungolbator.com
 .ungoutylensmen.website
 .ungracebaited.com
@@ -100447,6 +100481,7 @@ zzxosget.com
 .uym11.xyz
 .uymjbn.com
 .uyojnhqeipyb.xyz
+.uyq3ruf.icu
 .uysdxmo.com
 .uyt79.top
 .uyueread.com
@@ -104439,6 +104474,7 @@ zzxosget.com
 .wsuqzu.armani.com
 .wsuxjqr.cn
 .wsvay.com
+.wsvibiysludyfwp.xyz
 .wsxxu.com
 .wszzb.top
 .wt-eu02.net
@@ -106060,6 +106096,7 @@ zzxosget.com
 .xmrminingproxy.com
 .xmrpool.net
 .xmrts.com
+.xms.lol
 .xmseaside.com
 .xmsflzmygw.com
 .xmshqh.com
@@ -106853,6 +106890,7 @@ zzxosget.com
 .yestorrents.org
 .yesuphost.com
 .yetaiguang.cn
+.yeteso.uno
 .yetterslave.com
 .yettyz.com
 .yeuropertsp.site
@@ -107495,6 +107533,7 @@ zzxosget.com
 .yqgpic.xyz
 .yqgytx.com
 .yqiavtoy.com
+.yqiyazkddb.com
 .yqjxzw.com
 .yqmxfz.com
 .yqpzcf.thekoinclub.com
@@ -108814,6 +108853,7 @@ zzxosget.com
 .zupee.cim
 .zuphaims.com
 .zuppelzockt.com
+.zuqito.uno
 .zuqiuju.com
 .zurakjapbq.com
 .zurgerya.ru
