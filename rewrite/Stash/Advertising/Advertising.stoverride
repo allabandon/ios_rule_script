@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-07-03 02:14:08
+desc: 最后更新时间 2023-07-13 02:16:43
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 556
-# mitm: 516
+# reject: 557
+# mitm: 517
 # force-http-engine-hosts: 6
-# total: 1078
+# total: 1080
 
 
 
@@ -326,6 +326,7 @@ http:
     - ^https?:\/\/ib-soft\.net\/icleaner\/txt\/ad_priority\.txt$ - reject
     - ^https?:\/\/icc\.one\/iFreeTime\/xid32uxaoecnfv2\/ - reject
     - ^https?:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo - reject
+    - ^https?:\/\/igetcool-gateway\.igetcool\.com\/app-api-other-server\/white\/open\/ads.json - reject
     - ^https?:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/ - reject
     - ^https?:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad - reject
     - ^https?:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/ - reject
@@ -866,6 +867,7 @@ http:
     - "ib-soft.net"
     - "icc.one"
     - "iface.iqiyi.com"
+    - "igetcool-gateway.igetcool.com"
     - "ih2.ireader.com"
     - "image.suning.cn"
     - "images.client.vip.xunlei.com"

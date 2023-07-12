@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-11 02:12:55
+# UPDATED: 2023-07-13 02:12:07
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19157
+# DOMAIN-SUFFIX: 19159
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19466
+# TOTAL: 19468
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -7862,6 +7862,8 @@ payload:
   - DOMAIN-SUFFIX,mdn.dev
   - DOMAIN-SUFFIX,mdn.mozit.cloud
   - DOMAIN-SUFFIX,mdnkids.com
+  - DOMAIN-SUFFIX,mdnplay.dev
+  - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,meadjohnson.com

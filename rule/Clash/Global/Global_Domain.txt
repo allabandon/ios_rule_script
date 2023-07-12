@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-10 02:10:37
+# UPDATED: 2023-07-13 02:12:07
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19157
+# DOMAIN-SUFFIX: 19159
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19466
+# TOTAL: 19468
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -7861,6 +7861,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .mdn.dev
 .mdn.mozit.cloud
 .mdnkids.com
+.mdnplay.dev
+.mdnyalp.dev
 .mdpi.com
 .me-gay.com
 .meadjohnson.com
