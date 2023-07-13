@@ -21,7 +21,7 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-07-13 02:12:07
+最后更新时间：2023-07-14 02:11:38
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -29,9 +29,9 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 159  | 
 | DOMAIN-KEYWORD | 39  | 
 | DOMAIN-SUFFIX | 19159  | 
-| IP-CIDR | 110  | 
+| IP-CIDR | 109  | 
 | USER-AGENT | 46  | 
-| TOTAL | 19513  | 
+| TOTAL | 19512  | 
 
 
 ## Shadowrocket 

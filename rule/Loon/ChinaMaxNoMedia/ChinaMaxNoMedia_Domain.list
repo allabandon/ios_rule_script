@@ -1,15 +1,15 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-13 02:15:28
+# UPDATED: 2023-07-14 02:14:35
 # DOMAIN: 162
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 66670
+# DOMAIN-SUFFIX: 66682
 # IP-ASN: 1216
-# IP-CIDR: 5132
-# IP-CIDR6: 4925
+# IP-CIDR: 5140
+# IP-CIDR6: 4979
 # USER-AGENT: 65
-# TOTAL: 78181
+# TOTAL: 78255
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -2220,6 +2220,7 @@ xn--flw351e.com
 .21shhr.com
 .21shipin.com
 .21shte.net
+.21skcy.com
 .21smov.com
 .21so.com
 .21softs.com
@@ -3168,7 +3169,6 @@ xn--flw351e.com
 .37.com
 .37088924.cc
 .370fd.com
-.370fd.net
 .371.com
 .371.net
 .3710167.com
@@ -3792,6 +3792,7 @@ xn--flw351e.com
 .5119.net
 .511mv.com
 .511wan.com
+.511wx.com
 .511yj.com
 .5120.com
 .5120bb.com
@@ -5207,7 +5208,6 @@ xn--flw351e.com
 .61.com
 .610115.com
 .610213.net
-.6111.fyi
 .6120aa.com
 .612345.com
 .612459.com
@@ -7279,6 +7279,7 @@ xn--flw351e.com
 .a67dy.com
 .a6shi.com
 .a7.com
+.a745.xyz
 .a8.com
 .a8f947.com
 .a8tg.com
@@ -7967,6 +7968,7 @@ xn--flw351e.com
 .ailete.com
 .ailewan.com
 .ailinglei.com
+.ailingmao.com
 .ailinux.net
 .ailinzhou.com
 .ailiyun.com
@@ -10726,6 +10728,7 @@ xn--flw351e.com
 .biduo.cc
 .biduobao.com
 .biduoxs.com
+.biduwenxue.com
 .bidwhy.com
 .biede.com
 .biedoul.com
@@ -10897,6 +10900,7 @@ xn--flw351e.com
 .biqu6.com
 .biqubao.com
 .biqubu.com
+.biqudao.cc
 .biqudu.com
 .biqudu.net
 .biqudu.tv
@@ -14168,7 +14172,6 @@ xn--flw351e.com
 .chinacleanexpo.com
 .chinacma.org
 .chinacmo.com
-.chinacnr.com
 .chinacoal.com
 .chinacomix.com
 .chinaconch.com
@@ -14700,6 +14703,7 @@ xn--flw351e.com
 .chixuyun.com
 .chiyekeji.com
 .chiyuekj.com
+.chizao.com
 .chizhouchacha.com
 .chizhoujob.com
 .chizhouren.com
@@ -18850,6 +18854,7 @@ xn--flw351e.com
 .div.io
 .divcss5.com
 .divetgallery.com
+.diving-fish.com
 .diwork.com
 .dixintong.com
 .diyamh.com
@@ -19045,6 +19050,7 @@ xn--flw351e.com
 .dmvideo.mobi
 .dmvideo.net
 .dmvideo.org
+.dmwx.org
 .dmyouxi.com
 .dmyz.org
 .dmyzw.com
@@ -20357,6 +20363,7 @@ xn--flw351e.com
 .ebigear.com
 .ebiobuy.com
 .ebioe.com
+.ebiotrade.com
 .ebioweb.com
 .ebjfinance.com
 .ebkj.net
@@ -21803,6 +21810,7 @@ xn--flw351e.com
 .fanqie.im
 .fanqienovel.com
 .fanqier.com
+.fanqiesdkpic.com
 .fanqiesoq.com
 .fanqietuan.com
 .fanqievv.com
@@ -25878,7 +25886,6 @@ xn--flw351e.com
 .hanzify.org
 .hao-sheng-yi.com
 .hao.ac
-.hao007.net
 .hao0202.com
 .hao120.cc
 .hao123-hao123.com
@@ -26310,7 +26317,6 @@ xn--flw351e.com
 .hblccy.com
 .hbldwx.com
 .hbliti.com
-.hblsj.com
 .hblszq.com
 .hbltzb.com
 .hblykj.com
@@ -37306,6 +37312,7 @@ xn--flw351e.com
 .longjcun.com
 .longjiazuo.com
 .longjisz.com
+.longjunjiayuan.com
 .longk.com
 .longkui.site
 .longlinjiaoyu.com
@@ -44954,6 +44961,7 @@ xn--flw351e.com
 .qingclasscdn.com
 .qingcloud.com
 .qingcongxiaoyuan.com
+.qingdan.com
 .qingdaochina.org
 .qingdaograndtheatre.com
 .qingdaogxt.com
@@ -45548,6 +45556,7 @@ xn--flw351e.com
 .qstbg.com
 .qstkizve.com
 .qstsking.com
+.qsw.la
 .qsw521.com
 .qswhcb.com
 .qswzayy.com
@@ -45627,7 +45636,6 @@ xn--flw351e.com
 .quanlaodaonline.com
 .quanlego.com
 .quanmaihuyu.com
-.quanmama.com
 .quanmamaimg.com
 .quanmeipai.com
 .quanmin-game.com
@@ -59569,6 +59577,7 @@ xn--flw351e.com
 .xilinsi.org
 .xilish.com
 .xilu.com
+.xiluoxuan.com
 .xilvlaw.com
 .xima.org
 .xima.tv
@@ -60290,6 +60299,7 @@ xn--flw351e.com
 .xmylhy.com
 .xmzangao.com
 .xmzdls.com
+.xmzmmr.com
 .xmzsyg.com
 .xmzylh.com
 .xn--1qqw23a
@@ -60580,7 +60590,6 @@ xn--flw351e.com
 .xuanxuangame.com
 .xuanxuantemai.com
 .xuanxue.com
-.xuanxueyuan.com
 .xuanyangxl.com
 .xuanyaodang.com
 .xuanyaodang.net
@@ -62480,6 +62489,7 @@ xn--flw351e.com
 .ymq.com
 .ymraaa.com
 .ymrcw.vip
+.yms.cool
 .ymsteam.com
 .ymt.com
 .ymt360.com
@@ -62716,7 +62726,6 @@ xn--flw351e.com
 .youdiancms.com
 .youdianyisi.com
 .youdingte.com
-.youdu.im
 .youdubook.com
 .youduzw.com
 .youdwh.com
@@ -63851,6 +63860,7 @@ xn--flw351e.com
 .yxbuluo.com
 .yxcax.com
 .yxcc.net
+.yxchg.com
 .yxcity.com
 .yxcshui.com
 .yxdaily.com
@@ -64845,6 +64855,7 @@ xn--flw351e.com
 .zhe.com
 .zhe2.com
 .zhe800.com
+.zhe97.com
 .zhebei.com
 .zheerhui.com
 .zhefengle.com
@@ -66026,7 +66037,6 @@ xn--flw351e.com
 .zltianhen.com
 .zluren.com
 .zlvod.com
-.zlw.so
 .zlxiang.com
 .zlygu.com
 .zm-assemble.com
@@ -66236,10 +66246,12 @@ xn--flw351e.com
 .zqbzs.cc
 .zqcloudgame.com
 .zqcyzg.com
+.zqdns37.vip
 .zqfxj.com
 .zqgame.com
 .zqgreen.com
 .zqic.net
+.zqids.com
 .zqjjr.com
 .zqlian.com
 .zqlx.com
