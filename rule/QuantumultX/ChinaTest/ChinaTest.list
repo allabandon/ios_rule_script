@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-15 02:12:15
+# UPDATED: 2023-07-16 02:12:18
 # HOST: 165
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 65466
@@ -9692,7 +9692,6 @@ HOST-SUFFIX,8ttt8.com,ChinaTest
 HOST-SUFFIX,8tupian.com,ChinaTest
 HOST-SUFFIX,8twan.com,ChinaTest
 HOST-SUFFIX,8u58.com,ChinaTest
-HOST-SUFFIX,8uka.com,ChinaTest
 HOST-SUFFIX,8uyx.com,ChinaTest
 HOST-SUFFIX,8wan.com,ChinaTest
 HOST-SUFFIX,8win.net,ChinaTest
@@ -11953,6 +11952,7 @@ HOST-SUFFIX,aobosoft.com,ChinaTest
 HOST-SUFFIX,aocde.com,ChinaTest
 HOST-SUFFIX,aocdn.com,ChinaTest
 HOST-SUFFIX,aoch.com,ChinaTest
+HOST-SUFFIX,aochengcdn.com,ChinaTest
 HOST-SUFFIX,aoclia.com,ChinaTest
 HOST-SUFFIX,aocslb.com,ChinaTest
 HOST-SUFFIX,aodabo.tech,ChinaTest
@@ -43402,7 +43402,6 @@ HOST-SUFFIX,panabit.com,ChinaTest
 HOST-SUFFIX,panasonicmall.com,ChinaTest
 HOST-SUFFIX,panchuang.net,ChinaTest
 HOST-SUFFIX,panda-home.com,ChinaTest
-HOST-SUFFIX,panda321.com,ChinaTest
 HOST-SUFFIX,panda98.com,ChinaTest
 HOST-SUFFIX,pandadastudio.com,ChinaTest
 HOST-SUFFIX,pandafoundation.org,ChinaTest
@@ -62317,6 +62316,7 @@ HOST-SUFFIX,yuebagu.com,ChinaTest
 HOST-SUFFIX,yuebei.vip,ChinaTest
 HOST-SUFFIX,yuebingcheng.com,ChinaTest
 HOST-SUFFIX,yuebooemt.com,ChinaTest
+HOST-SUFFIX,yuecdn.net,ChinaTest
 HOST-SUFFIX,yuecheng.com,ChinaTest
 HOST-SUFFIX,yuedaoec.com,ChinaTest
 HOST-SUFFIX,yuedisk.com,ChinaTest
@@ -62357,6 +62357,7 @@ HOST-SUFFIX,yueru.com,ChinaTest
 HOST-SUFFIX,yuesuoping.com,ChinaTest
 HOST-SUFFIX,yuetu.tech,ChinaTest
 HOST-SUFFIX,yuetutu.com,ChinaTest
+HOST-SUFFIX,yuetuvip.com,ChinaTest
 HOST-SUFFIX,yuetuvip.net,ChinaTest
 HOST-SUFFIX,yuetx.cc,ChinaTest
 HOST-SUFFIX,yueweimusic.com,ChinaTest
@@ -62751,7 +62752,6 @@ HOST-SUFFIX,yuzhuan.com,ChinaTest
 HOST-SUFFIX,yuzhulin.com,ChinaTest
 HOST-SUFFIX,yuzi.net,ChinaTest
 HOST-SUFFIX,yuzvf.com,ChinaTest
-HOST-SUFFIX,yveqi.com,ChinaTest
 HOST-SUFFIX,yvv.in,ChinaTest
 HOST-SUFFIX,yvzfgigpiwmofux.com,ChinaTest
 HOST-SUFFIX,yw11.com,ChinaTest

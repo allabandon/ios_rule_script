@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-15 02:12:16
+# UPDATED: 2023-07-16 02:12:20
 # DOMAIN: 165
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 65466
@@ -9691,7 +9691,6 @@ payload:
   - '+.8tupian.com'
   - '+.8twan.com'
   - '+.8u58.com'
-  - '+.8uka.com'
   - '+.8uyx.com'
   - '+.8wan.com'
   - '+.8win.net'
@@ -11952,6 +11951,7 @@ payload:
   - '+.aocde.com'
   - '+.aocdn.com'
   - '+.aoch.com'
+  - '+.aochengcdn.com'
   - '+.aoclia.com'
   - '+.aocslb.com'
   - '+.aodabo.tech'
@@ -43401,7 +43401,6 @@ payload:
   - '+.panasonicmall.com'
   - '+.panchuang.net'
   - '+.panda-home.com'
-  - '+.panda321.com'
   - '+.panda98.com'
   - '+.pandadastudio.com'
   - '+.pandafoundation.org'
@@ -62316,6 +62315,7 @@ payload:
   - '+.yuebei.vip'
   - '+.yuebingcheng.com'
   - '+.yuebooemt.com'
+  - '+.yuecdn.net'
   - '+.yuecheng.com'
   - '+.yuedaoec.com'
   - '+.yuedisk.com'
@@ -62356,6 +62356,7 @@ payload:
   - '+.yuesuoping.com'
   - '+.yuetu.tech'
   - '+.yuetutu.com'
+  - '+.yuetuvip.com'
   - '+.yuetuvip.net'
   - '+.yuetx.cc'
   - '+.yueweimusic.com'
@@ -62750,7 +62751,6 @@ payload:
   - '+.yuzhulin.com'
   - '+.yuzi.net'
   - '+.yuzvf.com'
-  - '+.yveqi.com'
   - '+.yvv.in'
   - '+.yvzfgigpiwmofux.com'
   - '+.yw11.com'

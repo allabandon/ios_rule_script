@@ -1,7 +1,7 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-15 02:14:33
+# UPDATED: 2023-07-16 02:14:47
 # DOMAIN: 162
 # DOMAIN-KEYWORD: 11
 # DOMAIN-SUFFIX: 66674
@@ -6433,7 +6433,6 @@ xn--flw351e.com
 .8twan.com
 .8u58.com
 .8u7q5l9gox.com
-.8uka.com
 .8uyx.com
 .8wan.com
 .8win.net
@@ -8758,6 +8757,7 @@ xn--flw351e.com
 .aocde.com
 .aocdn.com
 .aoch.com
+.aochengcdn.com
 .aoclia.com
 .aocslb.com
 .aodabo.tech
@@ -42894,7 +42894,6 @@ xn--flw351e.com
 .panasonicmall.com
 .panchuang.net
 .panda-home.com
-.panda321.com
 .panda98.com
 .pandadastudio.com
 .pandafoundation.org
@@ -63313,6 +63312,7 @@ xn--flw351e.com
 .yuebei.vip
 .yuebingcheng.com
 .yuebooemt.com
+.yuecdn.net
 .yuecheng.com
 .yuedaoec.com
 .yuedisk.com
@@ -63354,6 +63354,7 @@ xn--flw351e.com
 .yuesuoping.com
 .yuetu.tech
 .yuetutu.com
+.yuetuvip.com
 .yuetuvip.net
 .yueweimusic.com
 .yuewen.com
@@ -63795,7 +63796,6 @@ xn--flw351e.com
 .yuzi.net
 .yuzua.com
 .yuzvf.com
-.yveqi.com
 .yvv.in
 .yvzfgigpiwmofux.com
 .yw11.com
