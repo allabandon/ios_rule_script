@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-16 02:08:58
+# UPDATED: 2023-07-17 02:08:32
 # DOMAIN: 12360
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 115519
+# DOMAIN-SUFFIX: 115613
 # IP-CIDR: 294
-# TOTAL: 128436
+# TOTAL: 128530
 10.10.34.35
 10.10.34.36
 103.21.91.144
@@ -570,7 +570,6 @@ gtssl-aia.geotrust.com
 guangyukeji.com
 guanjia.qq.com
 guowaidiaocha.com
-gvod.aiseejapp.atianqi.com
 h1.xysibu.cn
 h163e.com
 h5.7vyou.com
@@ -9870,7 +9869,6 @@ tapffdskgjr.com
 targetctracker.com
 targeterra.info
 tarteaucitron.ml
-tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tattomedia.com
@@ -12301,6 +12299,8 @@ zzwajufm.com
 zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
+gvod.aiseejapp.atianqi.com
+tat.pandora.xiaomi.com
 39d83s.com
 aboard.apilocate.amap.com
 access.open.uc.cn
@@ -12869,6 +12869,7 @@ xg.tjwmtrw.cn
 .206solutions.com
 .2085145ac8.com
 .20a840a14a0ef7d6.com
+.20asvjdhasd20.monster
 .20dollars2surf.com
 .20tracks.com
 .21.cizhibaogao.org
@@ -12976,6 +12977,7 @@ xg.tjwmtrw.cn
 .2ajhsduasd22.monster
 .2am0yc33wt2e.ru
 .2aqr.net
+.2askjbdjkasd22.monster
 .2aus34sie6po5m.com
 .2b037d5d4d.com
 .2b26a9e96e.com
@@ -13321,6 +13323,7 @@ xg.tjwmtrw.cn
 .4a956e69ff.com
 .4adtf.com
 .4affiliate.net
+.4ahgvhsdas14.monster
 .4allclick.ru
 .4b05b6a5e7.com
 .4b31707500.com
@@ -13355,6 +13358,7 @@ xg.tjwmtrw.cn
 .4iuyw.xyz
 .4jffu.cn
 .4jfggh.com
+.4jhdfvhjsdf4.monster
 .4jiqzr.ru
 .4jnzhl0d0.com
 .4kmovies.online
@@ -13430,6 +13434,7 @@ xg.tjwmtrw.cn
 .54ec30c53d.com
 .54ha.cn
 .54kefu.net
+.54y3eh34y3wh34y3h.com
 .550b3ikb9j.com
 .550c970411.com
 .552aaa.us
@@ -13472,6 +13477,7 @@ xg.tjwmtrw.cn
 .59987d951d.com
 .5999218ccc.com
 .59a3e34c69.com
+.59e5e13578.com
 .59e6ea7248001c.com
 .59eb44884d.com
 .5afc8f3239.com
@@ -13509,6 +13515,7 @@ xg.tjwmtrw.cn
 .5hagsvgdas56.monster
 .5hte21mz.com
 .5htftu.com
+.5hvsdhgvahsd15.monster
 .5icim50.de
 .5ilss.top
 .5jahbsjdasd15.monster
@@ -13669,6 +13676,7 @@ xg.tjwmtrw.cn
 .6iwoif.com
 .6jfvnf69jx.ru
 .6jhsbjdfsdf66.monster
+.6jshvdfhjsdf66.monster
 .6kportot.com
 .6l1twlw9fy.com
 .6ldu6qa.com
@@ -13785,6 +13793,7 @@ xg.tjwmtrw.cn
 .7hu8e1u001.com
 .7insight.com
 .7ix.ru
+.7jahvsjdasd17.monster
 .7jrahgc.de
 .7jzic2hylf.ru
 .7lyonline.com
@@ -13925,12 +13934,14 @@ xg.tjwmtrw.cn
 .8f74e1229c.com
 .8fc511071c.com
 .8feichai.com
+.8gs4unh05aq6.com
 .8hpay.cn
 .8jay04c4q7te.com
 .8jkx.com
 .8jrc564wtf.cn
 .8jxxai.com
 .8kj1ldt1.de
+.8kjdbfkgdfgdd88.monster
 .8o9m.cn
 .8po6fdwjsym3.com
 .8q2g560ynxlkz9rm.in.net
@@ -14379,6 +14390,7 @@ xg.tjwmtrw.cn
 .abattoirpleatsprinkle.com
 .abazelfan.com
 .abbagh.com
+.abberantdoggie.com
 .abbeyintervalfetched.com
 .abbeyoverdue.com
 .abbgrysbok.store
@@ -14520,6 +14532,7 @@ xg.tjwmtrw.cn
 .absorbinginject.com
 .absorbingprison.com
 .absors.com
+.abstaininquisitive.com
 .abstractedamount.com
 .abstractedauthority.com
 .absump.com
@@ -14563,6 +14576,7 @@ xg.tjwmtrw.cn
 .accaii.com
 .accanalyze.com
 .accdab.net
+.accedeethnic.com
 .accedenonre.club
 .accedenonre.xyz
 .acceleratedrummer.com
@@ -14598,6 +14612,8 @@ xg.tjwmtrw.cn
 .accommodatingremindauntie.com
 .accompanimentcouldsurprisingly.com
 .accompanycollapse.com
+.accompanyingjean.com
+.accomplicepeach.com
 .accomplishedgradual.com
 .accomplishmentailmentinsane.com
 .accomplishmentformation.com
@@ -14606,6 +14622,7 @@ xg.tjwmtrw.cn
 .accomplishobserved.com
 .accordaudienceeducational.com
 .accordinglyvenisonelse.com
+.accountdolphinframe.com
 .accountsadultssane.com
 .accountsdead.com
 .accruefierceheartache.com
@@ -14692,6 +14709,7 @@ xg.tjwmtrw.cn
 .acronym.com
 .acrossbrittle.com
 .acrosscrash.com
+.acrossgigantic.com
 .acrossheadquartersanchovy.com
 .acrosspf.com
 .acrote.com
@@ -14914,7 +14932,6 @@ xg.tjwmtrw.cn
 .ad.onliner.by
 .ad.orange-park.jp
 .ad.org.vn
-.ad.outsidehub.com
 .ad.outstream.today
 .ad.owlair.net
 .ad.oyy.ru
@@ -15626,6 +15643,7 @@ xg.tjwmtrw.cn
 .adoperator.com
 .adoperatorx.com
 .adopexchange.com
+.adoptdischarged.com
 .adoptim.com
 .adoptum.net
 .adorableanger.com
@@ -16401,6 +16419,7 @@ xg.tjwmtrw.cn
 .adventori.com
 .adventory.com
 .adventurefeeds.com
+.adventureprojectiononly.com
 .adventurercraft.com
 .adventureurgently.com
 .adventurouscomprehendhold.com
@@ -16834,6 +16853,7 @@ xg.tjwmtrw.cn
 .afterclick.co
 .afterdownload.com
 .afterdownloads.com
+.afterpastimebottled.com
 .afterview.ru
 .afterwardcounsel.com
 .afterwardspenal.com
@@ -17182,7 +17202,6 @@ xg.tjwmtrw.cn
 .ajx130.online
 .ajxx98.online
 .ak-tracker.com
-.ak.imgaft.com
 .ak0gsh40.com
 .ak9.6895588.com
 .akabo.ru
@@ -17229,6 +17248,7 @@ xg.tjwmtrw.cn
 .akzvponimot.com
 .al.newxue.com
 .ala.durasite.net
+.alacrityimitation.com
 .alanibelen.com
 .alanticgecking.uno
 .alargeredrubygsw.com
@@ -17293,6 +17313,7 @@ xg.tjwmtrw.cn
 .alfkiel.com
 .alfonsino.top
 .alfpair.com
+.alfredpoleshipwreck.com
 .alfurtembe.com
 .algalileac.com
 .algat.intergoles.me
@@ -17367,8 +17388,10 @@ xg.tjwmtrw.cn
 .allayravage.com
 .allbn.net
 .allcommonblog.com
+.allcommonstories.com
 .allcoolnewz.com
 .allcoolposts.com
+.allcp.xyz
 .allcuteboys.com
 .allegationhamperexit.com
 .allegationsurgeryblotch.com
@@ -17438,6 +17461,7 @@ xg.tjwmtrw.cn
 .alltopnewz.com
 .alltopposts.com
 .alltracked.com
+.alludedapexdepression.com
 .alludedgrinbanquet.com
 .allure-ng.net
 .allureencourage.com
@@ -17476,6 +17500,7 @@ xg.tjwmtrw.cn
 .alpha-news.org
 .alpha.tracedock.com
 .alpha1trk.com
+.alphabetlayout.com
 .alphabird.com
 .alphagodaddy.com
 .alphonso.tv
@@ -17555,6 +17580,7 @@ xg.tjwmtrw.cn
 .amaroid.net
 .amassesvoteen.website
 .amasssentimentaldamaging.com
+.amassweightpun.com
 .amateurcouplewebcam.com
 .amativeunnoble.com
 .amattepush.com
@@ -17659,6 +17685,7 @@ xg.tjwmtrw.cn
 .ampclicks.com
 .ampcr.io
 .amplefeed.pro
+.amplitudesheriff.com
 .amplitudewassnap.com
 .ampltd.top.gg
 .ampltd2.medal.tv
@@ -17860,6 +17887,7 @@ xg.tjwmtrw.cn
 .animikii-ana.com
 .animits.com
 .animosityknockedgorgeous.com
+.animositysofa.com
 .animusmisform.com
 .aninter.net
 .anioz3b.cc
@@ -17934,10 +17962,12 @@ xg.tjwmtrw.cn
 .antelintere.xyz
 .antennarollcellar.com
 .anteroomcrap.com
+.antetestingstooped.com
 .antevenio.com
 .anthe-vsf.com
 .antheaceliacd.com
 .antheladixy.com
+.anthembroadcastingbitty.com
 .anthemspeg.space
 .anthill.vn
 .anti-adblock.herokuapp.com
@@ -17955,6 +17985,8 @@ xg.tjwmtrw.cn
 .antijamburet.com
 .antiliajizzen.com
 .antillephone.com
+.antipathymenudeduce.com
+.antiquariancapricorn.com
 .antiquariangerm.com
 .antiquitytissuepod.com
 .antiredgarbel.website
@@ -17994,6 +18026,7 @@ xg.tjwmtrw.cn
 .anytimeoutstandingcharges.com
 .anytimesuggestion.com
 .anytrack.io
+.anywaybreeches.com
 .anyxp.com
 .anyysz.com
 .anzeigen-vor-ort.de
@@ -18185,6 +18218,7 @@ xg.tjwmtrw.cn
 .appalspowters.com
 .apparatuslip.com
 .apparelchildplash.com
+.apparentlyhandbook.com
 .apparest.com
 .appbetnewapp.top
 .appboy-images.com
@@ -18226,6 +18260,7 @@ xg.tjwmtrw.cn
 .applicationsattaindevastated.com
 .applicationscombine.com
 .applicationsluck.com
+.applicationsrapacity.com
 .applifier.com
 .applog.ucdns.uc.cn
 .applog.zaycev.net
@@ -18254,6 +18289,7 @@ xg.tjwmtrw.cn
 .approachproperachieve.com
 .appropriateloathefewer.com
 .appropriatepurse.com
+.approximatelyseats.com
 .apprupt.com
 .apps.media-lab.ai
 .apps.poln.co
@@ -18411,6 +18447,7 @@ xg.tjwmtrw.cn
 .ariadnethreadmin.com
 .aribut.com
 .aricianvrocht.com
+.aridplaincol.com
 .arielpri2nce8ss09.com
 .arikhwglvc.xyz
 .ariotgribble.com
@@ -18435,6 +18472,7 @@ xg.tjwmtrw.cn
 .armedgroin.com
 .armetsremoved.guru
 .armi.media
+.armiesinvolve.com
 .arminius.io
 .armisticedesigning.com
 .armisticeexpress.com
@@ -18495,6 +18533,7 @@ xg.tjwmtrw.cn
 .artemisaffiliates.com
 .arterybasin.com
 .artespipe.com
+.artfulparrotnobody.com
 .artfut.com
 .arthwhilearthu.com
 .arthyadtrack.online
@@ -18679,6 +18718,7 @@ xg.tjwmtrw.cn
 .assistedsquall.com
 .assisteggs.com
 .assisthollowted.com
+.assistspell.com
 .assithdisseat.com
 .assoc-amazon.ca
 .assoc-amazon.co.uk
@@ -19100,6 +19140,7 @@ xg.tjwmtrw.cn
 .avhtaapxml.com
 .avhxnasqeo.com
 .avickcarob.com
+.avidheroismgelatine.com
 .aviesanct.website
 .aviewrodlet.com
 .aviewtoolmen.com
@@ -19136,6 +19177,7 @@ xg.tjwmtrw.cn
 .awaitdetestableitem.com
 .awaitifregularly.com
 .awaitingharshlyweakness.com
+.awaitingutilize.com
 .awakebird.com
 .awakeexterior.com
 .awaltundo.com
@@ -19511,6 +19553,7 @@ xg.tjwmtrw.cn
 .badgeboat.com
 .badgegirdle.com
 .badgemagnificentblubber.com
+.badgreenssucceed.com
 .badjocks.com
 .badlymaggot.com
 .badsabs.com
@@ -20690,6 +20733,7 @@ xg.tjwmtrw.cn
 .biemedia.com
 .bienlyclatchy.website
 .biforinslogs.life
+.bifyeldv.top
 .big-hunter.com
 .big-loads.com
 .big6q4y2oy.ru
@@ -21727,6 +21771,7 @@ xg.tjwmtrw.cn
 .btcnews.one
 .btdirectnav.com
 .btdnav.com
+.btescs.fun
 .btez8.xyz
 .btg360.com.br
 .btilxdpcco.com
@@ -21750,6 +21795,7 @@ xg.tjwmtrw.cn
 .btserve.com
 .btstatic.com
 .btstats.devtribu.fr
+.bttazsyk.icu
 .bttrack.com
 .btttag.com
 .btvhdscr.com
@@ -22826,6 +22872,7 @@ xg.tjwmtrw.cn
 .cematuran.com
 .cementadodunk.com
 .cementencourage.com
+.cemeterylayoutbeastly.com
 .cemukentha.xyz
 .cenaclesuccoth.com
 .cenceevent.club
@@ -22853,6 +22900,7 @@ xg.tjwmtrw.cn
 .centraltag.com
 .centrexmeteor.com
 .centureunornly.com
+.centurylandscapeface.com
 .centwrite.com
 .ceodk.xyz
 .ceoqq.xyz
@@ -22950,6 +22998,7 @@ xg.tjwmtrw.cn
 .chainwalladsy.com
 .chaiptut.xyz
 .chairgaubsy.com
+.chairmanfreelancetravelling.com
 .chairscrack.com
 .chairwaydenew.site
 .chaishid.net
@@ -25160,6 +25209,7 @@ xg.tjwmtrw.cn
 .cteripre.com
 .ctewd2qad.xyz
 .ctiavxtakmw.com
+.ctiotjobkfu.com
 .ctl.mobitrack.co.kr
 .ctm-media.com
 .ctmdtrvikipjfv.xyz
@@ -26835,6 +26885,7 @@ xg.tjwmtrw.cn
 .degaswassail.website
 .degeronium.com
 .deggerfletton.com
+.deghooda.net
 .degjciidgieiaeigecb.ru
 .degmfmog.xyz
 .degrainbro.website
@@ -26953,6 +27004,7 @@ xg.tjwmtrw.cn
 .denknowled.xyz
 .denlorian.com
 .denoughtanot.info
+.denounceburialbrow.com
 .denpvh.xyz
 .densityprideincentive.com
 .densouls.com
@@ -27774,6 +27826,7 @@ xg.tjwmtrw.cn
 .dojomojo.com
 .dojomojo.ninja
 .dojx47ab4dyxi.cloudfront.net
+.dojyiu8.com
 .dokaboka.com
 .dokauzob.top
 .dokhmacoining.com
@@ -28415,6 +28468,7 @@ xg.tjwmtrw.cn
 .dydab.com
 .dydujb.xyz
 .dyeingjaun.com
+.dyeperd.icu
 .dyetqkaxmlnqlqe.xyz
 .dyh1wzegu1j6z.cloudfront.net
 .dyhnbgtsl.xyz
@@ -29463,6 +29517,7 @@ xg.tjwmtrw.cn
 .eqpzy.cyou
 .eqqi.cn
 .eqtaxag.ru
+.equabilityassortshrubs.com
 .equabilitythereupon.com
 .equablekettle.com
 .equesk.com
@@ -29935,6 +29990,7 @@ xg.tjwmtrw.cn
 .ewebcounter.com
 .ewerhodub.com
 .ewesmedia.com
+.ewfsef.com
 .ewjakayndd.com
 .ewkjfwwld.xyz
 .ewmvim.xyz
@@ -29971,6 +30027,7 @@ xg.tjwmtrw.cn
 .excellent-closet.pro
 .excellent-vids.online
 .excellentvids.online
+.excellentvids.space
 .excellernod.xyz
 .exceph.com
 .exceptinggapslightest.com
@@ -31164,6 +31221,7 @@ xg.tjwmtrw.cn
 .foldupbriningjeanne.com
 .folgam.com
 .folgsl.xyz
+.foliosedunlin.guru
 .foliumumu.com
 .folkscombine.com
 .follow.vnay.vn
@@ -31569,6 +31627,7 @@ xg.tjwmtrw.cn
 .frtya.com
 .frtyd.com
 .frtyo.com
+.frugalityabruptly.com
 .frugalrushcap.com
 .fruins.com
 .fruitflan.com
@@ -32252,8 +32311,6 @@ xg.tjwmtrw.cn
 .get.davincisgold.com
 .get.paradise8.com
 .get.promofor.me
-.get.rubyroyal.com
-.get.slotocash.com
 .get.thisisvegas.com
 .get2m5sgstohne.com
 .get2nesoft1.ru
@@ -33445,6 +33502,7 @@ xg.tjwmtrw.cn
 .gvqrclx.cn
 .gvt2.com
 .gw1jvhs.com
+.gwa8i3rrf9mwozpi.pro
 .gwaaz.cn
 .gwallet.com
 .gwbgqrxlelrjsi.com
@@ -33892,6 +33950,7 @@ xg.tjwmtrw.cn
 .heartacheeasellikeness.com
 .heartbeat.pmd.444.hu
 .heartbeats.prd.data.s.joyn.de
+.heartbiddotnet2022.monster
 .heartbiddotnet22.monster
 .heartbreakingmind.com
 .heartbrokendilapidation.com
@@ -34906,6 +34965,7 @@ xg.tjwmtrw.cn
 .hypogeeinial.com
 .hypogynbalker.com
 .hypoot.com
+.hypots.com
 .hypozoabytes.life
 .hypwbv.xyz
 .hyrankhit.meldingcloud.com
@@ -35491,6 +35551,7 @@ xg.tjwmtrw.cn
 .impruads.com
 .impulsehands.com
 .impulsejewel.com
+.impunekotoite.com
 .imrk.net
 .imrtrack.com
 .imselutejzgd.com
@@ -35725,6 +35786,7 @@ xg.tjwmtrw.cn
 .inklestutted.com
 .inklinkor.com
 .inkornesto.com
+.inkstorylikeness.com
 .inktad.com
 .inkuae.com
 .inlandpiereel.com
@@ -35848,6 +35910,7 @@ xg.tjwmtrw.cn
 .instinctcringe.com
 .instinctiveads.com
 .instinctivetheeexemplify.com
+.institutehopelessbeck.com
 .institutepigeonsfinger.com
 .instituteplump.com
 .institutionenrapturebags.com
@@ -36714,6 +36777,7 @@ xg.tjwmtrw.cn
 .jheelsplotch.com
 .jhgtf.com
 .jhgwe.gettingcoolprizes.info
+.jhlazsot.icu
 .jhlxfw.cn
 .jhoncj.com
 .jhoolbiaxial.com
@@ -37743,6 +37807,7 @@ xg.tjwmtrw.cn
 .kmlxlkz.cn
 .kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 .kmmsfoqbhc.xyz
+.kmodukuleqasfo.info
 .kmp.twbymc.cn
 .kmpjrjz.cn
 .kmqkdhqaqt.com
@@ -37770,6 +37835,7 @@ xg.tjwmtrw.cn
 .knigna.com
 .knitstamp.com
 .knittedcourthouse.com
+.knittingupidiotic.com
 .knivesprincessbitterness.com
 .knk95.cn
 .knkqjmjyxzev.info
@@ -39638,7 +39704,6 @@ xg.tjwmtrw.cn
 .loxtk.com
 .lozengevandalismexaminer.com
 .lp-preview.net
-.lp.ncdownloader.com
 .lp247p.com
 .lp3tdqle.com
 .lp4.io
@@ -40560,6 +40625,7 @@ xg.tjwmtrw.cn
 .meagerdrawing.pro
 .meagplin.com
 .meakam.com
+.mealplanningideas.com
 .meanspowersmotives.com
 .meantscarlet.com
 .meapk.com
@@ -41513,6 +41579,7 @@ xg.tjwmtrw.cn
 .moddersithen.com
 .modeidsoanadthenb.xyz
 .modelatos.com
+.moderategermmaria.com
 .moderg.com
 .modern-passenger.pro
 .modernus.is
@@ -41839,6 +41906,7 @@ xg.tjwmtrw.cn
 .mpstat.us
 .mpsuadv.ru
 .mptentry.com
+.mptgate.com
 .mpuls.ru
 .mpununmrsiur.com
 .mpwe.net
@@ -43208,6 +43276,7 @@ xg.tjwmtrw.cn
 .nostalgia.onego.ru
 .nostalgicknot.com
 .nostalgicneed.com
+.nostormidentification.com
 .nostrilquarryprecursor.com
 .nostromedia.com
 .not-only.info
@@ -43318,6 +43387,7 @@ xg.tjwmtrw.cn
 .npvos.com
 .npytbfqwamyxkdp.xyz
 .nqcacox.cn
+.nqdufv.xyz
 .nqezlls.cn
 .nqfrhd.xyz
 .nqmanxtemqvlne.com
@@ -44548,6 +44618,7 @@ xg.tjwmtrw.cn
 .orricesoxhlet.com
 .orrisesdepute.com
 .orrsuxapg.com
+.orrtweqfaa.com
 .orsrmrx.cn
 .ortermodown.ru
 .ortetse.ru
@@ -46286,6 +46357,7 @@ xg.tjwmtrw.cn
 .plaittest.com
 .plandappsb.com
 .planesforce.website
+.planesglensituated.com
 .planesknob.com
 .planesorder.com
 .planet-news.ru
@@ -47334,6 +47406,7 @@ xg.tjwmtrw.cn
 .providence.voxmedia.com
 .provider-direct.com
 .providingcrechepartnership.com
+.providingforbidassure.com
 .providingstallionemployee.com
 .provify.io
 .provincebarely.com
@@ -47378,6 +47451,7 @@ xg.tjwmtrw.cn
 .ps123.online
 .ps7894.com
 .psaighid.com
+.psaiglursurvey.space
 .psaiksou.xyz
 .psaiptoh.net
 .psairees.net
@@ -48518,6 +48592,7 @@ xg.tjwmtrw.cn
 .rabfakfolksey.digital
 .rabidamoral.com
 .rablinhiphape.com
+.rabuagc.cn
 .rac.ruutu.fi
 .raccourir.xyz
 .racesundermine.com
@@ -49499,6 +49574,7 @@ xg.tjwmtrw.cn
 .retireblotch.com
 .retiremely.com
 .retiringmartialaunt.com
+.retiringspamformed.com
 .retiringvarieties.com
 .retoldcocama.com
 .retono42.us
@@ -49906,6 +49982,7 @@ xg.tjwmtrw.cn
 .robustbelieve.com
 .robustcutlery.com
 .rocept.com
+.rochesterbranchessniffing.com
 .rock.cheerfulhunter.com
 .rockdriller.top
 .rockeringformsweden.com
@@ -50706,6 +50783,7 @@ xg.tjwmtrw.cn
 .sandelf.com
 .sandensi.ru
 .sandflyligules.com
+.sandyconference.com
 .sange20221226.xyz
 .sanggilregard.com
 .sanglah.com
@@ -51424,6 +51502,7 @@ xg.tjwmtrw.cn
 .server4ads.com
 .serverbest.xyz
 .serverbid.com
+.serverdownload.space
 .servereplacementcycle.com
 .serversmatrixaggregation.com
 .servestats.com
@@ -51817,6 +51896,7 @@ xg.tjwmtrw.cn
 .shpovaw8wu.ru.com
 .shpultiki.ru
 .shqbsdjatunl.com
+.shredassortmentmood.com
 .shredvealdone.com
 .shrekis.life
 .shrewdoscular.com
@@ -53866,6 +53946,7 @@ xg.tjwmtrw.cn
 .stcvhf.com
 .stdirection.com
 .stdst.cn
+.ste23allas5ri6va.com
 .steadfastseat.com
 .steadfastsound.com
 .steadfastsystem.com
@@ -53911,6 +53992,7 @@ xg.tjwmtrw.cn
 .steppesshirvan.com
 .stepplane.com
 .stereoproxy.com
+.stereosuspension.com
 .stereotypedclub.com
 .stereotypedsugar.com
 .sterilecute.com
@@ -54087,6 +54169,7 @@ xg.tjwmtrw.cn
 .stressfulproperlyrestrain.com
 .stressfulsplash.com
 .stressfulsurroundingcomeback.com
+.stretchearomission.com
 .stretchedcreepy.com
 .stretchingcognitioncommission.com
 .stretchingfervid.com
@@ -54402,6 +54485,7 @@ xg.tjwmtrw.cn
 .surfertracker.com
 .surfierunreel.com
 .surfmdia.com
+.surfturbanillegible.com
 .surge.systems
 .surgeprice.com
 .surgermystem.xyz
@@ -56190,6 +56274,7 @@ xg.tjwmtrw.cn
 .tools.ranker.com
 .toolsthwartgrim.com
 .toolsyjejune.com
+.toolsyjejunen.com
 .toomeepi.xyz
 .toonoost.net
 .toorebutheh.xyz
@@ -60671,6 +60756,7 @@ xg.tjwmtrw.cn
 .wmober.com
 .wmolgnjo.xyz
 .wmptctl.com
+.wmpuem.com
 .wmrok.com
 .wmrok.net
 .wmzona.com
@@ -61387,6 +61473,7 @@ xg.tjwmtrw.cn
 .xjrwxfdphc.com
 .xjs.lol
 .xjwrq.com
+.xjzyhp.xyz
 .xk3b.top
 .xkbinj.xyz
 .xkcgjkwjbmki.xyz
@@ -61616,6 +61703,7 @@ xg.tjwmtrw.cn
 .xwdsp.com
 .xwell.ru
 .xwewwgk.cn
+.xwjexukpdkvoflb.xyz
 .xwktyiydn.com
 .xwlketvkzf.com
 .xwmxdrnl.com
@@ -63057,6 +63145,7 @@ xg.tjwmtrw.cn
 .121media.com
 .12291.com
 .123-tracker.com
+.123.manga1001.top
 .12322app.com
 .123564.com
 .123counter.mycomputer.com
@@ -65060,6 +65149,7 @@ xg.tjwmtrw.cn
 .ajplugins.com
 .ak.5.p2l.info
 .ak.buyservices.com
+.ak.imgaft.com
 .aka.ms-ads.co
 .ako.cc
 .aktiv-blog.com
@@ -66980,6 +67070,7 @@ xg.tjwmtrw.cn
 .cw.nu
 .cwchmb.com
 .cxad.cn
+.cxense.com
 .cyad456.com
 .cyberbounty.com
 .cyberduck.fr
@@ -68323,6 +68414,8 @@ xg.tjwmtrw.cn
 .get-answers-fast.com
 .get-downloads.com
 .get-express-vpn.com
+.get.rubyroyal.com
+.get.slotocash.com
 .get.x-link.pl
 .get24update.link4all.info
 .getagiftonline.com
@@ -69454,6 +69547,7 @@ xg.tjwmtrw.cn
 .js.fengwu
 .js.hscollectedforms.net
 .js.iterable.com
+.js.mangajp.top
 .js.softreklam.com
 .jsccnn.com
 .jsfactory.net
@@ -70176,6 +70270,7 @@ xg.tjwmtrw.cn
 .loytec.fr
 .lp.cleanmymac.online
 .lp.empire.goodgamestudios.com
+.lp.ncdownloader.com
 .lp.sexyadults.eu
 .lp4.onlinecasinoreports.com
 .lpa.myzen.co.uk
@@ -77316,6 +77411,7 @@ xg.tjwmtrw.cn
 .ad.newegg.com
 .ad.obuy.tw
 .ad.openmultimedia.biz
+.ad.outsidehub.com
 .ad.pandora.tv
 .ad.pchome.com.tw
 .ad.pickple.net
@@ -78906,6 +79002,7 @@ xg.tjwmtrw.cn
 .cloudad.asia
 .cloudmobi.net
 .cloudpush.iqiyi.com
+.cm.bilibili.com
 .cm.jd.com
 .cm.passport.iqiyi.com
 .cm8.lycos.com
@@ -79938,6 +80035,7 @@ xg.tjwmtrw.cn
 .enlightenment.secureshoppingbasket.com
 .enohb.com
 .enormitteen.pro
+.ens.nzz.ch
 .enseptedsome.info
 .entry.baidu.cn
 .entry.baidu.com
@@ -81298,6 +81396,7 @@ xg.tjwmtrw.cn
 .imgcache.sythe.org
 .imgcdn.de92.com
 .imgp.cymzc.com
+.imgstat.baidu.com
 .imgtrack.domainmarket.com
 .imiek.com
 .immassets.s3.amazonaws.com
@@ -81321,6 +81420,7 @@ xg.tjwmtrw.cn
 .impservice.youdao.com
 .impservice2.youdao.com
 .impservicetest.dictapp.youdao.com
+.imrworldwide.com
 .imx.comedycentral.com
 .imykgs.com
 .in.qqhpg.com
@@ -83250,6 +83350,7 @@ xg.tjwmtrw.cn
 .omnikool.discovery.com
 .omoaxaus.net
 .oms.expedia.com
+.omtrdc.net
 .omztf.cn
 .on.maxspeedcdn.com
 .on68xf.cn
@@ -83786,6 +83887,7 @@ xg.tjwmtrw.cn
 .pvsite.zol.com.cn
 .pvstat.china.cn
 .pvstat.html5.qq.com
+.pvtag.yahoo.co.jp
 .pvtest.zol.com.cn
 .pvx.autohome.com.cn
 .pwa.telephoneannuaire.fr
@@ -84792,6 +84894,7 @@ xg.tjwmtrw.cn
 .staticxx.facebook.com
 .statis.mobile.youku.com
 .statis.push.netease.com
+.statistic.qzone.qq.com
 .statistic.takungpao.com
 .statistics.raiffeisen.ch
 .statisticsv2.yinyuetai.com
@@ -84995,6 +85098,7 @@ xg.tjwmtrw.cn
 .taat00889.com
 .tabwl.com
 .tactics.bainv.net
+.tag.aticdn.net
 .tag.sonymusic.com
 .taglocker.target.com
 .tags.msnbc.com
@@ -86999,7 +87103,6 @@ xg.tjwmtrw.cn
 .11x11.com
 .12.notify.bizonads-ssp.com
 .123.biome.page
-.123.manga1001.top
 .123.ydylwang.net
 .1234.zgxue.com
 .123vidz.com
@@ -93886,7 +93989,6 @@ xg.tjwmtrw.cn
 .defas.site
 .defre.net
 .defundium.com
-.deghooda.net
 .dekovacka.hezkres.cz
 .delamer.ltd
 .delete.atea.fi
@@ -98274,7 +98376,6 @@ xg.tjwmtrw.cn
 .js.idgdmgroup.com.cn
 .js.lmggdka.cn
 .js.manga1000.top
-.js.mangajp.top
 .js.mangapro.top
 .js.mobojoy.baidu.com
 .js.mzxxiend.com
@@ -112191,6 +112292,254 @@ xg.tjwmtrw.cn
 .zzsdtzb.com
 .zzsqqx.shopjapan.co.jp
 .zzyanhushi.com
+.a8clk.mapple-tour.com
+.a8cv.members.race.sanspo.com
+.ad.kddi-fs.com
+.app.accelerate.zoominfo.com
+.app.sephora.com
+.app.update.lenovo.com
+.cfsaze.retailmenot.com
+.click.tv.repubblica.it
+.clicks.tunein.com
+.cmp.telerama.fr
+.cstm.baidu.com
+.cyber-pages.att.com
+.data.securemetrics-apple.com
+.dbzpek.nike.com
+.dlswbr.baidu.com
+.ds.haaretz.co.il
+.elink.serasaexperian.com.br
+.email.everyonesocial.indeed.com
+.explore.att.com
+.forms-emea.lenovo.com
+.forms.lenovo.com
+.gotie.tunein.com
+.images.mkt.zoominfo.com
+.images.reldirect.lenovo.com
+.images.smbdirect.lenovo.com
+.insights.att.com
+.iob.imgur.com
+.iwa.iplsc.com
+.knapia.weightwatchers.com
+.listen.tunein.com
+.metrics.apple.com
+.metrics.cvs.com
+.miao.baidu.com
+.microlearning.att.com
+.networkingexchange.att.com
+.pages.att.com
+.plenty.vidio.com
+.pm.redbull.com
+.pulse.delta.com
+.pxl.indeed.com
+.qljiop.allabout.co.jp
+.qm.redbull.com
+.ras.yahoo.com
+.reports.tunein.com
+.resources.att.com
+.retcode.taobao.com
+.sats.spiegel.de
+.securefamilylink.wireless.att.com
+.securemvt.apple.com
+.site.att.com
+.smetrics.cvs.com
+.smetrics.sephora.com
+.smetrics.startribune.com
+.smetrics.tokbox.com
+.smetrics.toyota.com
+.smodus.nike.com
+.t.nypost.com
+.tgt.maep.ibm.com
+.tmx.bestbuy.com
+.trk.s.sephora.com
+.uglwov.logic-immo.com
+.uim.tifbs.net
+.v.ctrl.blog
+.ww8.kohls.com
+.ww9.kohls.com
+.x.allabout.co.jp
+.17gouwuba.com
+.186078.com
+.189key.com
+.189zj.cn
+.285680.com
+.3721zh.com
+.4009997658.com
+.4336wang.cn
+.51chumoping.com
+.51mld.cn
+.51mypc.cn
+.58mingri.cn
+.58mingtian.cn
+.5vl58stm.com
+.6d63d3.com
+.7gg.cc
+.91veg.com
+.9s6q.cn
+.abbyychina.com
+.akuai.top
+.alienskins.cn
+.anydeskchina.cn
+.atplay.cn
+.baiwanchuangyi.com
+.bartender.cc
+.beerto.cn
+.beilamusi.com
+.benshiw.net
+.betterzip.net
+.betterzipcn.com
+.beyondcompare.cc
+.bianxianmao.com
+.bingdianhuanyuan.cn
+.bkyhq.cn
+.bryonypie.com
+.chemdraw.com.cn
+.cishantao.com
+.cjmakeding.com
+.cjmkt.com
+.codesoftchina.com
+.coreldrawchina.com
+.crossoverchina.com
+.cszlks.com
+.cudaojia.com
+.dafapromo.com
+.daitdai.com
+.dongmansoft.com
+.dsaeerf.com
+.dugesheying.com
+.dv8c1t.cn
+.earmasterchina.cn
+.easyrecoverychina.com
+.echatu.com
+.ediuschina.com
+.erdoscs.com
+.fan-yong.com
+.feih.com.cn
+.fjlqqc.com
+.fkku194.com
+.flash.cn
+.flstudiochina.com
+.folxchina.cn
+.formysql.com
+.freedrive.cn
+.gclick.cn
+.goufanli100.com
+.goupaoerdai.com
+.gouwubang.com
+.gscxs.cn
+.guitarpro.cc
+.gzxnlk.com
+.haoshengtoys.com
+.hbssjd.cn
+.huishenghuiying.com.cn
+.hypeapp.cn
+.hypersnap.net
+.hyunke.com
+.ichaosheng.com
+.iconworkshop.cn
+.idmchina.net
+.imazingchina.com
+.imindmap.cc
+.ishop789.com
+.jdkic.com
+.jihehuaban.com.cn
+.jiubuhua.com
+.jsncke.com
+.jwg365.cn
+.kawo77.com
+.keyshot.cc
+.kingdeecn.cn
+.kuaizip.com
+.kualianyingxiao.cn
+.kumihua.com
+.logoshejishi.com
+.ltheanine.cn
+.luping.net.cn
+.lvehaisen.com
+.mackeeper.com
+.maipinshangmao.com
+.mairuan.cn
+.mairuan.com
+.mairuan.com.cn
+.mairuan.net
+.mairuanwang.com
+.makeding.com
+.mathtype.cn
+.mindmanager.cc
+.mindmanager.cn
+.mindmapper.cc
+.minisplat.cn
+.mkitgfs.com
+.mlnbike.com
+.mobjump.com
+.mycleanmymac.com
+.nbkbgd.cn
+.newapi.com
+.nicelabel.cc
+.ntfsformac.cc
+.ntfsformac.cn
+.officesoftcn.com
+.overturechina.com
+.passwordrecovery.cn
+.pdfexpert.cc
+.photozoomchina.com
+.pinzhitmall.com
+.poppyta.com
+.qianchuanghr.com
+.qichexin.com
+.qinchugudao.com
+.quanliyouxi.cn
+.qutaobi.com
+.ry51w.cn
+.sg536.cn
+.shankejingling.com
+.sifubo.cn
+.sifuce.cn
+.sifuda.cn
+.sifufu.cn
+.sifuge.cn
+.sifugu.cn
+.sifuhe.cn
+.sifuhu.cn
+.sifuji.cn
+.sifuka.cn
+.smgru.net
+.taoggou.com
+.tcxshop.com
+.tjqonline.cn
+.topitme.com
+.tt114.net
+.tt3sm4.cn
+.tuia.cn
+.tuipenguin.com
+.tuitiger.com
+.ultraiso.net
+.urlaw.cn
+.urlet.cn
+.vegaschina.cn
+.websd8.com
+.wx16999.com
+.xchmai.com
+.xiaohuau.xyz
+.xitongqingli.com
+.xmindchina.net
+.xshellcn.com
+.ygyzx.cn
+.yihuifu.cn
+.yinmong.com
+.yitaopt.com
+.yjqiqi.com
+.yuanchengxiezuo.com
+.yukhj.com
+.zbrushcn.com
+.zhaozecheng.cn
+.zhenxinet.com
+.zhzzx.com
+.zlne800.com
+.zmlled.cn
+.zryydi.com
+.zunmi.cn
+.zzd6.com
 .0d8is908gby1.www.terraform.com.ar
 .0sbm.consobaby.co.uk
 .1.ftb.al
@@ -112869,7 +113218,6 @@ xg.tjwmtrw.cn
 .a8clk.macpaw.com
 .a8clk.manabiz.jp
 .a8clk.manage.conoha.jp
-.a8clk.mapple-tour.com
 .a8clk.marche.onward.co.jp
 .a8clk.mat.duskin-hozumi.co.jp
 .a8clk.meister-coating.com
@@ -113228,7 +113576,6 @@ xg.tjwmtrw.cn
 .a8cv.mashumaro-bra.com
 .a8cv.mcc-lazer-hr.com
 .a8cv.meetsmore.com
-.a8cv.members.race.sanspo.com
 .a8cv.menina-joue.jp
 .a8cv.mens-life-clinic.com
 .a8cv.mentors-lwc.com
@@ -113666,7 +114013,6 @@ xg.tjwmtrw.cn
 .ad.ichiru.net
 .ad.inhaabit.com
 .ad.jibunde-esute.com
-.ad.kddi-fs.com
 .ad.kirara-support.jp
 .ad.magokoro-care-shoku.com
 .ad.ordersuit.info
@@ -113958,8 +114304,8 @@ xg.tjwmtrw.cn
 .app-test.planstr.com
 .app-test.playtally.com
 .app-test.thestaxapp.com
+.app-uat.latrobehealth.com.aupredirect.snapdeal.com
 .app.aaas-science.org
-.app.accelerate.zoominfo.com
 .app.am.tiaa-cref.org
 .app.brain.ly
 .app.budweisergardens.com
@@ -114140,7 +114486,6 @@ xg.tjwmtrw.cn
 .app.sbas.sage.com
 .app.scarletknights.com
 .app.selectyourtickets.com
-.app.sephora.com
 .app.siemensplmevents.com
 .app.sjsuspartans.com
 .app.smart.vivint.com
@@ -114159,7 +114504,6 @@ xg.tjwmtrw.cn
 .app.uclabruins.com
 .app.uk.partner.equifax.com
 .app.und.com
-.app.update.lenovo.com
 .app.update.vodafone.co.uk
 .app.wine.tweglobal.com
 .app.wsucougars.com
@@ -114796,7 +115140,6 @@ xg.tjwmtrw.cn
 .cfa.fidelity.com
 .cfb.8it.me
 .cfcpee.lascana.ch
-.cfsaze.retailmenot.com
 .cfxsss.deerberg.de
 .cfyhym.weightwatchers.fr
 .cgqkhc.trendyol.com
@@ -114868,7 +115211,6 @@ xg.tjwmtrw.cn
 .click.totallymoney.com
 .click.transactional.carousell.com
 .click.trycobble.com
-.click.tv.repubblica.it
 .click.uol.com.br
 .click.vocus.com
 .click.zoominformation.com
@@ -114893,7 +115235,6 @@ xg.tjwmtrw.cn
 .clicks.staging.worldremit.com
 .clicks.tableau.com
 .clicks.thehive.hqo.co
-.clicks.tunein.com
 .clicks.variis.com
 .clicks2.hqo.co
 .clickserver.libero.it
@@ -114923,7 +115264,6 @@ xg.tjwmtrw.cn
 .cm-jp.americanexpress.com
 .cm-mms.coachmag.co.uk
 .cm-sg.americanexpress.com
-.cm.bilibili.com
 .cm.informaengage.com
 .cm.nordvpn.com
 .cmass.massmedian.co.jp
@@ -114939,8 +115279,8 @@ xg.tjwmtrw.cn
 .cmp.nouvelobs.com
 .cmp.tech426.com
 .cmp.tek.no
-.cmp.telerama.fr
 .cmp2.channelpartner.de
+.cmpassport.com
 .cms.hardloopaanbiedingen.nl
 .cmttvv.bonprix.se
 .cn-go.experian.com
@@ -115186,6 +115526,7 @@ xg.tjwmtrw.cn
 .cp.deltadentalwa.com
 .cp.phiilu.com
 .cp.rootielearning.com
+.cpatrk.net
 .cpgo.avatacar.com
 .cph.credit-pret-hypothecaire.com
 .cpt.itv.com
@@ -115222,7 +115563,6 @@ xg.tjwmtrw.cn
 .csm.magnetintell.com
 .csr11-i.net.anwalt.de
 .csr12stats.net.anwalt.de
-.cstm.baidu.com
 .csv4.ebs-paris.fr
 .csvt002.harrisbank.com
 .csvt005.heretakethewheel.com
@@ -115296,10 +115636,8 @@ xg.tjwmtrw.cn
 .cvzvun.vidaxl.de
 .cwcdmm.zennioptical.com
 .cxasci.sprzedajemy.pl
-.cxense.com
 .cxrfns.gu-global.com
 .cy98g9wuwn0n.angularjs.poc.glenigan.com
-.cyber-pages.att.com
 .cyber.boozallen.com
 .cyf9.destinia.cl
 .cyohmj.catawiki.com
@@ -115441,7 +115779,6 @@ xg.tjwmtrw.cn
 .data.rewards.riteaid.com
 .data.ricaud.com
 .data.rmsocio.realmadrid.com
-.data.securemetrics-apple.com
 .data.segugio.it
 .data.seguridad.ficohsa.com.gt
 .data.service.aware.com.au
@@ -115476,7 +115813,6 @@ xg.tjwmtrw.cn
 .dbhsejcg-meetup-com.cdnjs.network
 .dbj.quebecregion.com
 .dbpbyh.americanas.com.br
-.dbzpek.nike.com
 .dc.bluecoat.com
 .dc.madridistas.com
 .dc.realmadrid.com
@@ -115717,7 +116053,6 @@ xg.tjwmtrw.cn
 .dlp.egghead.link
 .dlqxtm.sssports.com
 .dls.guidrr.com
-.dlswbr.baidu.com
 .dluat.pokerbros.net
 .dluat.supremapoker.net
 .dlziqh9bo7.boring.fm
@@ -115770,7 +116105,6 @@ xg.tjwmtrw.cn
 .drive.seagate.com
 .drive.waitrapp.com
 .driver.jugnoo.in
-.ds.haaretz.co.il
 .ds.webprojectslab.com
 .ds2.independer.nl
 .dsoxjxin5jji.controlconceptsusa.com
@@ -116038,7 +116372,6 @@ xg.tjwmtrw.cn
 .ek8.voyage-prive.com
 .electronics.edm.globalsources.com
 .elia.thermofisher.com
-.elink.serasaexperian.com.br
 .elinks.dice.com
 .eliteclng.ericksonbuilt.com
 .eloqua.53.com
@@ -116168,7 +116501,6 @@ xg.tjwmtrw.cn
 .email.everyonesocial.colt.net
 .email.everyonesocial.coupa.com
 .email.everyonesocial.frontier.com
-.email.everyonesocial.indeed.com
 .email.everyonesocial.infoblox.com
 .email.everyonesocial.integritystaffing.com
 .email.everyonesocial.jbhunt.com
@@ -116253,7 +116585,6 @@ xg.tjwmtrw.cn
 .engine.traceparts.com
 .enquiry.marketingcube.com.au
 .ens.luzernerzeitung.ch
-.ens.nzz.ch
 .ens.tagblatt.ch
 .enterprise.dnb.ca
 .enterpriseintegration.aspiresys.com
@@ -116391,7 +116722,6 @@ xg.tjwmtrw.cn
 .experiences.cibc.com
 .expertdecking.inthere.link
 .explore.agilent.com
-.explore.att.com
 .explore.broncos.com.au
 .explore.bytelab.uk
 .explore.firstnet.com
@@ -116493,7 +116823,6 @@ xg.tjwmtrw.cn
 .foodsafetyandhygiene.inthere.link
 .form.fusesource.com
 .form.heroes.jobs
-.forms-emea.lenovo.com
 .forms.b.oncourselearning.com
 .forms.bankersalmanac.com
 .forms.bradyid.com
@@ -116507,7 +116836,6 @@ xg.tjwmtrw.cn
 .forms.fitchratings.com
 .forms.flightglobal.com
 .forms.icis.com
-.forms.lenovo.com
 .forms.nexsan.com
 .forms.pentonmarketingservices.com
 .forms.personneltoday.com
@@ -117037,7 +117365,6 @@ xg.tjwmtrw.cn
 .gotest.bouncie.com
 .gotest.real.co
 .gotest.taillight.com
-.gotie.tunein.com
 .goto.dresslily.com
 .goto.heartlandpaymentsystems.com
 .goto.kiwiinsure.co
@@ -117050,6 +117377,7 @@ xg.tjwmtrw.cn
 .gotoexp.dresslily.com
 .government.informaengage.com
 .governmentcloud.avaya.com
+.gozendata.com
 .gpplus-app.hotdoc.com.au
 .gpsqnl.delsey.com
 .gr-business.vodafone.com
@@ -117085,6 +117413,8 @@ xg.tjwmtrw.cn
 .gyvcwd.cdiscount.com
 .gyydua.dakine.com
 .gyzwcl.sconto.cz
+.gz-data.com
+.gzads.com
 .gzjroa.bradsdeals.com
 .h00c.sfr.fr
 .h5log.zongheng.com
@@ -117233,6 +117563,7 @@ xg.tjwmtrw.cn
 .ibtmla.discovery-expedition.com
 .icaubf.casamundo.de
 .icmakp.united-arrows.tw
+.id6.me
 .idbkfy.kango-roo.com
 .idg1.idgarages.com
 .idianw.warmteservice.nl
@@ -117445,7 +117776,6 @@ xg.tjwmtrw.cn
 .images.mdtinternal.com
 .images.medlem.naf.no
 .images.medtronicdiabetes.com
-.images.mkt.zoominfo.com
 .images.mkt.zte.com.cn
 .images.mktg.dynabook.com
 .images.mktgassets.symantec.com
@@ -117483,7 +117813,6 @@ xg.tjwmtrw.cn
 .images.purl.mercedes-benz.com
 .images.query.adelaide.edu.au
 .images.register.lighthouse-media.com
-.images.reldirect.lenovo.com
 .images.respond.macktrucks.com
 .images.respond.overheaddoor.com
 .images.respons.schibsted.no
@@ -117512,7 +117841,6 @@ xg.tjwmtrw.cn
 .images.seniorlifestyles.amica.ca
 .images.service.freo.nl
 .images.smartpay.changehealthcare.com
-.images.smbdirect.lenovo.com
 .images.solutions.cigna.com
 .images.solutions.halliburton.com
 .images.srs.sfgmembers.com
@@ -117561,10 +117889,8 @@ xg.tjwmtrw.cn
 .img.newsletter.mazda.co.jp
 .img.service.belboon.com
 .imgict.dwtcmarketing.com
-.imgstat.baidu.com
 .immunocap.thermofisher.com
 .impact.go.economist.com
-.imrworldwide.com
 .in-business.vodafone.com
 .in.invitd.us
 .in.upipr.co
@@ -117717,7 +118043,6 @@ xg.tjwmtrw.cn
 .insightreporting.net.easyjet.com
 .insights.53.com
 .insights.academy.com
-.insights.att.com
 .insights.biallo.de
 .insights.cdt.ch
 .insights.decathlon.net
@@ -117767,7 +118092,6 @@ xg.tjwmtrw.cn
 .invite.urbancompany.com
 .invite.youmail.com
 .io.pitchplay.link
-.iob.imgur.com
 .ioeczq.juno.co.uk
 .ioedpk.oneill.com
 .ioovrf.coen.co.jp
@@ -117804,7 +118128,6 @@ xg.tjwmtrw.cn
 .ivbxao.roastmarket.de
 .ivrnfvlcgubm.www.cefirates.com
 .ivx.lacompagnie.com
-.iwa.iplsc.com
 .iwgfdj.iko-yo.net
 .iwl2d7pa4yx1.www.logology.co
 .iwlnpw.claudiepierlot.com
@@ -117981,7 +118304,6 @@ xg.tjwmtrw.cn
 .kjmaoi.babor.com
 .kkzpde.aboutyou.lt
 .kn81kivjwwc7.www.logology.co
-.knapia.weightwatchers.com
 .knorzj.wearfigs.com
 .know.wolterskluwerlr.com
 .knowledge.verdantis.com
@@ -118689,7 +119011,6 @@ xg.tjwmtrw.cn
 .linkvet.insights.md
 .lio8.destinia.com.pa
 .listen.trakks.com
-.listen.tunein.com
 .listing-a8-itp.hello-storage.com
 .live.onamp.com
 .livestats.la7.tv
@@ -119714,7 +120035,6 @@ xg.tjwmtrw.cn
 .metrics.aeo.com
 .metrics.allaboutyou.com
 .metrics.allegisgroup.com
-.metrics.apple.com
 .metrics.assurances-bnc.ca
 .metrics.asumag.com
 .metrics.audius.co
@@ -119749,7 +120069,6 @@ xg.tjwmtrw.cn
 .metrics.cosmeticsdesign.com
 .metrics.creit.tech
 .metrics.ctv.ca
-.metrics.cvs.com
 .metrics.dairyreporter.com
 .metrics.dertour-reisebuero.de
 .metrics.diynetwork.com
@@ -120009,12 +120328,10 @@ xg.tjwmtrw.cn
 .mi.miliboo.es
 .mi.miliboo.it
 .mi.miliboo.lu
-.miao.baidu.com
 .michat.indonesiya.com
 .micpn.com
 .micro.workplaceinvesting.fidelity.com
 .microfocus.qm-g.com
-.microlearning.att.com
 .midas.chase.com
 .mil.millsproducts.com
 .minerva.healthcentral.com
@@ -120238,7 +120555,6 @@ xg.tjwmtrw.cn
 .network.armycadets.com
 .network.cogentco.com
 .network.conterra.com
-.networkingexchange.att.com
 .networkprotection.mcafee.com
 .networks.balluff.com
 .newjersey-content.cresa.com
@@ -120434,7 +120750,6 @@ xg.tjwmtrw.cn
 .oms.lonelyplanetimages.com
 .oms.usnews.com
 .omsc.kpn.com
-.omtrdc.net
 .omtrns.sstats.q8.dk
 .on.allposters.com
 .on.art.com
@@ -120615,7 +120930,6 @@ xg.tjwmtrw.cn
 .page.terguspharma.com
 .page.thalesgroup.com
 .pages.applatix.com
-.pages.att.com
 .pages.batteryworld.com.au
 .pages.bayer.com
 .pages.cobweb.com
@@ -120640,6 +120954,7 @@ xg.tjwmtrw.cn
 .paqqlk.motatos.de
 .paramedicexam.quantresear.ch
 .pardko.pricerunner.com
+.pardot.com
 .parentapp.byjus.com
 .partenaireslld.temsys.fr
 .partner.bestbrokers.de
@@ -120905,7 +121220,6 @@ xg.tjwmtrw.cn
 .plv.geocomply.com
 .pm.dailykos.com
 .pm.pmu.fr
-.pm.redbull.com
 .pnhesw.jtb.co.jp
 .poczta.happ.social
 .pod.spoti.fi
@@ -120931,6 +121245,7 @@ xg.tjwmtrw.cn
 .prassas.openapp.link
 .pre-employmentservices.adp.com
 .prealpha.go.levelbank.com
+.predic.io
 .preference.nuance.com
 .preferencecenter.fticonsulting.com
 .preferences.acspubs.org
@@ -121017,7 +121332,6 @@ xg.tjwmtrw.cn
 .puiwrs.misterspex.de
 .pulsar.ebay.com
 .pulsarback.mail.ru
-.pulse.delta.com
 .pumlmb.netcologne.de
 .purple.mongodb.com
 .purpose.fressnapf.at
@@ -121032,7 +121346,6 @@ xg.tjwmtrw.cn
 .pv.xcar.com.cn
 .pvoheg.bubbleroom.se
 .pvrugd.nieruchomosci-online.pl
-.pvtag.yahoo.co.jp
 .pvx.xcar.com.cn
 .px-intl.ucweb.com
 .px.derstandard.at
@@ -121040,7 +121353,6 @@ xg.tjwmtrw.cn
 .px.srvcs.tumblr.com
 .pxbnou.ig.com.br
 .pxc.otto.de
-.pxl.indeed.com
 .pxsg.pandora.com
 .pymbay.kinguin.net
 .pywiia.lfmall.co.kr
@@ -121067,10 +121379,8 @@ xg.tjwmtrw.cn
 .qjjgra.vendome.jp
 .qkhhjm.autoscout24.nl
 .qksbin.nocturne.com.tr
-.qljiop.allabout.co.jp
 .qllxvh.shopstyle.com
 .qlp.egghead.link
-.qm.redbull.com
 .qmiiln.tower.jp
 .qmlzcm.petshop.ru
 .qmoyfh.xcite.com.sa
@@ -121130,7 +121440,6 @@ xg.tjwmtrw.cn
 .randstadtest.epoise.com
 .rank.xn--cosme-5c4djcw662edgyc.com
 .rankhit.china.com
-.ras.yahoo.com
 .rasabenito.indonesiya.com
 .rba-screen.healthsafe-id.com
 .rbis-solutions.averydennison.com
@@ -121195,7 +121504,6 @@ xg.tjwmtrw.cn
 .reply.osv.com
 .report.novinky.cz
 .reporting.autographapp.me
-.reports.tunein.com
 .reportsk.web.sdo.com
 .request.idangels.org
 .request.verisign.com
@@ -121214,7 +121522,6 @@ xg.tjwmtrw.cn
 .resources.acarasolutions.in
 .resources.activatems.com
 .resources.aldec.com
-.resources.att.com
 .resources.broadleafresults.com
 .resources.davey.com
 .resources.digitcom.ca
@@ -121265,7 +121572,6 @@ xg.tjwmtrw.cn
 .ressources.promoneuve.fr
 .ressources.usine-digitale.com
 .ressources.usine-nouvelle.com
-.retcode.taobao.com
 .retention.ankidecks.com
 .rethink.adp.com
 .retirementliving.actsretirement.org
@@ -121319,6 +121625,7 @@ xg.tjwmtrw.cn
 .rt.newswire.ca
 .rt.prnewswire.com
 .rta2.inews.co.uk
+.rtbasia.com
 .rtgdispatcher-test.inthere.link
 .ru-ru.siemensplmevents.com
 .rum.api.intuit.com
@@ -121541,7 +121848,6 @@ xg.tjwmtrw.cn
 .satgt.grafana.com
 .sats.mailbrew.com
 .sats.manager-magazin.de
-.sats.spiegel.de
 .save.salary.com.au
 .save.smartsalary.com.au
 .say.hello.tripactions.com
@@ -121582,6 +121888,7 @@ xg.tjwmtrw.cn
 .sconnectstats.mckesson.com
 .scontent-atl3-2.xx.fbcdn.net.iberostar.com
 .scontent.xx.fbcdn.net.iberostar.com
+.scorecardresearch.com
 .scout.alpinetrek.co.uk
 .scout.alpiniste.fr
 .scout.berg-freunde.at
@@ -121788,7 +122095,6 @@ xg.tjwmtrw.cn
 .securedata.cru.be
 .securedata.dats24.be
 .securedata.retailpartnerscolruytgroup.be
-.securefamilylink.wireless.att.com
 .secureflashplayerfeedback.adobe.com
 .secureforms.bankersalmanac.com
 .secureforms.fircosoft.com
@@ -121801,7 +122107,6 @@ xg.tjwmtrw.cn
 .securemetrics.dailycandy.com
 .securemetrics.gpsuniforms.com
 .securemetrics.marthastewart.com
-.securemvt.apple.com
 .securestats.cafepress.com
 .securetags.esri-portugal.pt
 .securetags.esri.ro
@@ -121883,6 +122188,7 @@ xg.tjwmtrw.cn
 .seniorliving.whitneycenter.com
 .seniorliving.wyndemerelcs.com
 .sensors.balluff.com
+.sentiance.com
 .sentiment.icis.com
 .seo.tkc110.jp
 .sep02.hinagiku-life.jp
@@ -122038,7 +122344,6 @@ xg.tjwmtrw.cn
 .sinceregarden.sincere-garden.jp
 .sis8.premieremoisson.com
 .site-stats.supernotes.app
-.site.att.com
 .site.firstnet.com
 .site.infosysbpm.com
 .site.johnlewis-insurance.com
@@ -122341,7 +122646,6 @@ xg.tjwmtrw.cn
 .smetrics.cultura.com
 .smetrics.cunacouncils.org
 .smetrics.customersvc.com
-.smetrics.cvs.com
 .smetrics.cvty.com
 .smetrics.cytivalifesciences.co.jp
 .smetrics.daiwatv.jp
@@ -123425,7 +123729,6 @@ xg.tjwmtrw.cn
 .smetrics.selectquote.com
 .smetrics.seloger.com
 .smetrics.sensai-cosmetics.com
-.smetrics.sephora.com
 .smetrics.seriesplus.com
 .smetrics.sfchronicle.com
 .smetrics.sfr.fr
@@ -123519,7 +123822,6 @@ xg.tjwmtrw.cn
 .smetrics.staplesadvantage.com
 .smetrics.starhub.com
 .smetrics.stark.dk
-.smetrics.startribune.com
 .smetrics.statefarm.com
 .smetrics.statnews.com
 .smetrics.stgeorge.com.au
@@ -123564,6 +123866,7 @@ xg.tjwmtrw.cn
 .smetrics.tdworld.com
 .smetrics.te.com
 .smetrics.teachforamerica.org
+.smetrics.teambeachbody.com.com
 .smetrics.tecentriq-hcp.com
 .smetrics.tecoloco.co.cr
 .smetrics.tedbaker.com
@@ -123610,14 +123913,12 @@ xg.tjwmtrw.cn
 .smetrics.tirebusiness.com
 .smetrics.tmz.com
 .smetrics.tnkase.com
-.smetrics.tokbox.com
 .smetrics.tomjoule.de
 .smetrics.tommy.com
 .smetrics.tommybahama.com
 .smetrics.toofab.com
 .smetrics.toolbox.inter-ikea.com
 .smetrics.totalwine.com
-.smetrics.toyota.com
 .smetrics.tractorsupply.com
 .smetrics.traderonline.com
 .smetrics.traegergrills.com
@@ -123758,7 +124059,6 @@ xg.tjwmtrw.cn
 .smjydg.cartersoshkosh.ca
 .smkt.edm.globalsources.com
 .smobile.wotif.com
-.smodus.nike.com
 .smon.activate.cz
 .smon.congress.gov
 .smon.loc.gov
@@ -123805,6 +124105,8 @@ xg.tjwmtrw.cn
 .so8.hyatt.com
 .social.eduthrill.com
 .social.tinyview.com
+.socialannex.com
+.socialbakers.com
 .sofa.bankofamerica.com
 .sojjtp.e-wheels.no
 .solar.sunpowercorp.com
@@ -124242,7 +124544,6 @@ xg.tjwmtrw.cn
 .stategg.cdngeek.com
 .static.osalta.eu
 .statistic.jac-systeme.de
-.statistic.qzone.qq.com
 .statistic2.reichelt.de
 .statistics.csob.cz
 .statistics.heatbeat.de
@@ -124250,6 +124551,7 @@ xg.tjwmtrw.cn
 .statistics.tuv.com
 .statistik.apartments-tirolerhaus.at
 .statistik.mitmischen.de
+.stats-locations.com
 .stats-ssl.mdanderson.org
 .stats-xavie.mirmon.co.uk
 .stats.45rpm.ch
@@ -125209,7 +125511,6 @@ xg.tjwmtrw.cn
 .t.nexity.fr
 .t.nhra.com
 .t.nusports.com
-.t.nypost.com
 .t.ohiobobcats.com
 .t.okcciviccenter.com
 .t.okstate.com
@@ -125290,7 +125591,6 @@ xg.tjwmtrw.cn
 .ta.sanook.com
 .ta.taxslayer.com
 .tacsc.net.anwalt.de
-.tag.aticdn.net
 .tag.boulanger.fr
 .tagcommander.laredoute.be
 .tagcommander.laredoute.ch
@@ -125452,7 +125752,6 @@ xg.tjwmtrw.cn
 .tfdtpa.dot-st.com
 .tfpeev.chanluu.com
 .tgirgs.flinders.nl
-.tgt.maep.ibm.com
 .tgw.gmx.ch
 .tgw.gmx.net
 .tgw.web.de
@@ -125611,7 +125910,6 @@ xg.tjwmtrw.cn
 .tms.hft.factor75.com
 .tms.hft.greenchef.com
 .tms.hft.hellofresh.com
-.tmx.bestbuy.com
 .tmx.td.com
 .tmy8.madeindesign.ch
 .tnegqr.bohme.com
@@ -126903,7 +127201,6 @@ xg.tjwmtrw.cn
 .trk.powderandbulksolids.com
 .trk.pro-activ.com
 .trk.quantumbusinessnews.com
-.trk.s.sephora.com
 .trk.seepex.com
 .trk.solo.be
 .trk.solution.desjardins.com
@@ -127010,6 +127307,7 @@ xg.tjwmtrw.cn
 .ucmetrics.unicreditbanca.it
 .udmmdl.dudalina.com.br
 .udr9.livera.nl
+.udrig.com
 .udrvvx.kabum.com.br
 .udsgty.alkosto.com
 .udxsuy.helline.fr
@@ -127027,14 +127325,12 @@ xg.tjwmtrw.cn
 .ugdcxl.timeout.com
 .ugdcxl.timeout.jp
 .ugkray.theloom.in
-.uglwov.logic-immo.com
 .ugmarketing.smu.edu.sg
 .ugzbsu.klimaworld.com
 .uhd5nn09mgml.fort-shop.kiev.ua
 .uhm26jyr11zv.www.freecodecamp.org
 .uhn9.up-france.fr
 .ui.service.belboon.com
-.uim.tifbs.net
 .uinpmz.iichi.com
 .uiwock.epantofi.ro
 .ujq1.destinia.is
@@ -127534,8 +127830,6 @@ xg.tjwmtrw.cn
 .wvvw.infomigrants.net
 .wvvw.mc-doualiya.com
 .wvvw.rfi.fr
-.ww8.kohls.com
-.ww9.kohls.com
 .wwbsll.nissen.co.jp
 .wwnscv.myspringfield.com
 .www-171.aig.com
@@ -127590,7 +127884,6 @@ xg.tjwmtrw.cn
 .wz.allianz.fr
 .wzbwps.racechip.de
 .wzyjup.patch.com
-.x.allabout.co.jp
 .x.gldn.io
 .x2l5lsn8rvsq.li.finance
 .x88s.pandasuite.io
@@ -127687,202 +127980,3 @@ xg.tjwmtrw.cn
 .zum7cc.oui.sncf
 .zxrnfc.drinco.jp
 .zyq2.destinia.sk
-.17gouwuba.com
-.186078.com
-.189key.com
-.189zj.cn
-.285680.com
-.3721zh.com
-.4009997658.com
-.4336wang.cn
-.51chumoping.com
-.51mld.cn
-.51mypc.cn
-.58mingri.cn
-.58mingtian.cn
-.5vl58stm.com
-.6d63d3.com
-.7gg.cc
-.91veg.com
-.9s6q.cn
-.abbyychina.com
-.akuai.top
-.alienskins.cn
-.anydeskchina.cn
-.atplay.cn
-.baiwanchuangyi.com
-.bartender.cc
-.beerto.cn
-.beilamusi.com
-.benshiw.net
-.betterzip.net
-.betterzipcn.com
-.beyondcompare.cc
-.bianxianmao.com
-.bingdianhuanyuan.cn
-.bkyhq.cn
-.bryonypie.com
-.chemdraw.com.cn
-.cishantao.com
-.cjmakeding.com
-.cjmkt.com
-.codesoftchina.com
-.coreldrawchina.com
-.crossoverchina.com
-.cszlks.com
-.cudaojia.com
-.dafapromo.com
-.daitdai.com
-.dongmansoft.com
-.dsaeerf.com
-.dugesheying.com
-.dv8c1t.cn
-.earmasterchina.cn
-.easyrecoverychina.com
-.echatu.com
-.ediuschina.com
-.erdoscs.com
-.fan-yong.com
-.feih.com.cn
-.fjlqqc.com
-.fkku194.com
-.flash.cn
-.flstudiochina.com
-.folxchina.cn
-.formysql.com
-.freedrive.cn
-.gclick.cn
-.goufanli100.com
-.goupaoerdai.com
-.gouwubang.com
-.gscxs.cn
-.guitarpro.cc
-.gzxnlk.com
-.haoshengtoys.com
-.hbssjd.cn
-.huishenghuiying.com.cn
-.hypeapp.cn
-.hypersnap.net
-.hyunke.com
-.ichaosheng.com
-.iconworkshop.cn
-.idmchina.net
-.imazingchina.com
-.imindmap.cc
-.ishop789.com
-.jdkic.com
-.jihehuaban.com.cn
-.jiubuhua.com
-.jsncke.com
-.jwg365.cn
-.kawo77.com
-.keyshot.cc
-.kingdeecn.cn
-.kuaizip.com
-.kualianyingxiao.cn
-.kumihua.com
-.logoshejishi.com
-.ltheanine.cn
-.luping.net.cn
-.lvehaisen.com
-.mackeeper.com
-.maipinshangmao.com
-.mairuan.cn
-.mairuan.com
-.mairuan.com.cn
-.mairuan.net
-.mairuanwang.com
-.makeding.com
-.mathtype.cn
-.mindmanager.cc
-.mindmanager.cn
-.mindmapper.cc
-.minisplat.cn
-.mkitgfs.com
-.mlnbike.com
-.mobjump.com
-.mycleanmymac.com
-.nbkbgd.cn
-.newapi.com
-.nicelabel.cc
-.ntfsformac.cc
-.ntfsformac.cn
-.officesoftcn.com
-.overturechina.com
-.passwordrecovery.cn
-.pdfexpert.cc
-.photozoomchina.com
-.pinzhitmall.com
-.poppyta.com
-.qianchuanghr.com
-.qichexin.com
-.qinchugudao.com
-.quanliyouxi.cn
-.qutaobi.com
-.ry51w.cn
-.sg536.cn
-.shankejingling.com
-.sifubo.cn
-.sifuce.cn
-.sifuda.cn
-.sifufu.cn
-.sifuge.cn
-.sifugu.cn
-.sifuhe.cn
-.sifuhu.cn
-.sifuji.cn
-.sifuka.cn
-.smgru.net
-.taoggou.com
-.tcxshop.com
-.tjqonline.cn
-.topitme.com
-.tt114.net
-.tt3sm4.cn
-.tuia.cn
-.tuipenguin.com
-.tuitiger.com
-.ultraiso.net
-.urlaw.cn
-.urlet.cn
-.vegaschina.cn
-.websd8.com
-.wx16999.com
-.xchmai.com
-.xiaohuau.xyz
-.xitongqingli.com
-.xmindchina.net
-.xshellcn.com
-.ygyzx.cn
-.yihuifu.cn
-.yinmong.com
-.yitaopt.com
-.yjqiqi.com
-.yuanchengxiezuo.com
-.yukhj.com
-.zbrushcn.com
-.zhaozecheng.cn
-.zhenxinet.com
-.zhzzx.com
-.zlne800.com
-.zmlled.cn
-.zryydi.com
-.zunmi.cn
-.zzd6.com
-.app-uat.latrobehealth.com.aupredirect.snapdeal.com
-.cmpassport.com
-.cpatrk.net
-.gozendata.com
-.gz-data.com
-.gzads.com
-.id6.me
-.pardot.com
-.predic.io
-.rtbasia.com
-.scorecardresearch.com
-.sentiance.com
-.smetrics.teambeachbody.com.com
-.socialannex.com
-.socialbakers.com
-.stats-locations.com
-.udrig.com

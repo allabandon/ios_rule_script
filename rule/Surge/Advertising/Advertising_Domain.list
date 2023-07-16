@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-16 02:07:50
+# UPDATED: 2023-07-17 02:07:33
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 15965
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 92319
+# DOMAIN-SUFFIX: 92334
 # IP-CIDR: 293
 # URL-REGEX: 285
-# TOTAL: 108939
+# TOTAL: 108954
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -16477,6 +16477,7 @@ zzxosget.com
 .123-counter.de
 .123-movies.bz
 .123-tracker.com
+.123.manga1001.top
 .123.sogou.com
 .123.sogoucdn.com
 .12306media.com
@@ -26345,6 +26346,7 @@ zzxosget.com
 .allayravage.com
 .allbn.net
 .allcommonblog.com
+.allcommonstories.com
 .allcoolnewz.com
 .allcoolposts.com
 .allcuteboys.com
@@ -32071,6 +32073,7 @@ zzxosget.com
 .bierlanz-test.till-koppers.de
 .bierlanz.till-koppers.de
 .biforinslogs.life
+.bifyeldv.top
 .big-bang-ads.com
 .big-hunter.com
 .big-loads.com
@@ -33771,6 +33774,7 @@ zzxosget.com
 .btstatic.com
 .btstats.benakt.com
 .btstats.devtribu.fr
+.bttazsyk.icu
 .bttmkj.diesel.com
 .bttrack.com
 .btttag.com
@@ -41917,6 +41921,7 @@ zzxosget.com
 .degeronium.com
 .deggerfletton.com
 .degh48.fnac.com
+.deghooda.net
 .degjciidgieiaeigecb.ru
 .degmfmog.xyz
 .degrainbro.website
@@ -46366,6 +46371,7 @@ zzxosget.com
 .eqqi.cn
 .eqtaxag.ru
 .eqtrack.americashomeplace.com
+.equabilityassortshrubs.com
 .equabilitythereupon.com
 .equablekettle.com
 .equesk.com
@@ -54082,6 +54088,7 @@ zzxosget.com
 .hightopnews.com
 .hightopnewstoday.com
 .hightrafficads.com
+.highwaycpmrevenue.com
 .highwaydizzy.com
 .higoo4.com
 .higseres.com
@@ -55246,6 +55253,7 @@ zzxosget.com
 .hypogeeinial.com
 .hypogynbalker.com
 .hypoot.com
+.hypots.com
 .hypozoabytes.life
 .hyprmx.com
 .hypwbv.xyz
@@ -59267,6 +59275,7 @@ zzxosget.com
 .js.jianbihuadq.com
 .js.kabutocho-dsp.net
 .js.kt250.com
+.js.mangajp.top
 .js.mbaidu.top
 .js.medi-8.net
 .js.mscto.com
@@ -60493,6 +60502,7 @@ zzxosget.com
 .kmlxlkz.cn
 .kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 .kmmsfoqbhc.xyz
+.kmodukuleqasfo.info
 .kmp.twbymc.cn
 .kmpiframe.keepmeposted.com.mt
 .kmpjrjz.cn
@@ -68883,6 +68893,7 @@ zzxosget.com
 .mpsuadv.ru
 .mptedcazdep.info
 .mptentry.com
+.mptgate.com
 .mptri.net
 .mpuls.ru
 .mpununmrsiur.com
@@ -71128,6 +71139,7 @@ zzxosget.com
 .nostalgia.onego.ru
 .nostalgicknot.com
 .nostalgicneed.com
+.nostormidentification.com
 .nostrilquarryprecursor.com
 .nostromedia.com
 .not-only.info
@@ -82880,6 +82892,7 @@ zzxosget.com
 .sandelf.com
 .sandensi.ru
 .sandflyligules.com
+.sandyconference.com
 .sange20221226.xyz
 .sanggilregard.com
 .sanglah.com
@@ -94804,6 +94817,7 @@ zzxosget.com
 .tools.ricoh.de
 .toolsthwartgrim.com
 .toolsyjejune.com
+.toolsyjejunen.com
 .toomeepi.xyz
 .toonoost.net
 .toorebutheh.xyz
@@ -103720,6 +103734,7 @@ zzxosget.com
 .wmober.com
 .wmolgnjo.xyz
 .wmptctl.com
+.wmpuem.com
 .wmrmb.cn
 .wmrok.com
 .wmrok.net
