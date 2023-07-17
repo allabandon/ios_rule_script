@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-17 02:12:08
-# DOMAIN: 179
+# UPDATED: 2023-07-18 02:14:32
+# DOMAIN: 176
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
 # IP-CIDR: 7
 # IP-CIDR6: 2
-# TOTAL: 309
+# TOTAL: 306
 payload:
   - DOMAIN,107.182.30.76.16clouds.com
   - DOMAIN,1337.abcvg.info
@@ -19,14 +19,12 @@ payload:
   - DOMAIN,aegir.sexy
   - DOMAIN,black-bird.ynh.fr
   - DOMAIN,boysbitte.be
-  - DOMAIN,bt.endpot.com
   - DOMAIN,bt.ktrackers.com
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt1.archive.org
   - DOMAIN,bt2.archive.org
   - DOMAIN,canardscitrons.nohost.me
   - DOMAIN,carr.codes
-  - DOMAIN,ch3oh.ru
   - DOMAIN,city21.pk
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
@@ -45,8 +43,10 @@ payload:
   - DOMAIN,incine.ru
   - DOMAIN,inferno.demonoid.is
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,ipv6.1337.cx
   - DOMAIN,ipv6.fuuuuuck.com
   - DOMAIN,ipv6.govt.hu
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,li2021-95.members.linode.com
   - DOMAIN,mail.artixlinux.org
   - DOMAIN,mail.segso.net
@@ -65,7 +65,7 @@ payload:
   - DOMAIN,open.dstud.io
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
-  - DOMAIN,open.tracker.cl
+  - DOMAIN,open.tracker.ink
   - DOMAIN,open.u-p.pw
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.i2p.rocks
@@ -76,7 +76,6 @@ payload:
   - DOMAIN,psyco.fr
   - DOMAIN,public-tracker.cf
   - DOMAIN,public.publictracker.xyz
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,region.nl1.privex.cc
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
@@ -86,7 +85,6 @@ payload:
   - DOMAIN,ryjer.com
   - DOMAIN,sanincode.com
   - DOMAIN,share.camoe.cn
-  - DOMAIN,shubt.net
   - DOMAIN,soundmovie.ru
   - DOMAIN,ssb14.nohost.me
   - DOMAIN,static.54.161.216.95.clients.your-server.de
@@ -94,6 +92,7 @@ payload:
   - DOMAIN,t.133335.xyz
   - DOMAIN,t.acg.rip
   - DOMAIN,t.nyaatracker.com
+  - DOMAIN,t.publictracker.xyz
   - DOMAIN,t.zerg.pw
   - DOMAIN,t1.hloli.org
   - DOMAIN,tamas3.ynh.fr
@@ -105,7 +104,6 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.bangumi.moe
   - DOMAIN,tr.burnabyhighstar.com
-  - DOMAIN,tr.cili001.com
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.4.babico.name.tr
@@ -114,7 +112,6 @@ payload:
   - DOMAIN,tracker.auctor.tv
   - DOMAIN,tracker.bangumi.zip
   - DOMAIN,tracker.birkenwald.de
-  - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.ccp.ovh
   - DOMAIN,tracker.cloudit.top
@@ -123,7 +120,6 @@ payload:
   - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
-  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.electro-torrent.pl
   - DOMAIN,tracker.farted.net
   - DOMAIN,tracker.filemail.com
@@ -149,7 +145,6 @@ payload:
   - DOMAIN,tracker.openbittorrent.com
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
-  - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,tracker.publictracker.xyz
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
@@ -162,6 +157,7 @@ payload:
   - DOMAIN,tracker.therarbg.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
@@ -179,6 +175,7 @@ payload:
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,uploads.gamecoast.net
   - DOMAIN,v1046920.hosted-by-vdsina.ru
+  - DOMAIN,v2.iperson.xyz
   - DOMAIN,v6-tracker.0g.cx
   - DOMAIN,vm3268418.24ssd.had.wf
   - DOMAIN,wepzone.net
