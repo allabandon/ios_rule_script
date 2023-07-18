@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-18 02:14:32
+# UPDATED: 2023-07-19 02:12:31
 # DOMAIN: 176
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
@@ -19,12 +19,14 @@ payload:
   - DOMAIN,aegir.sexy
   - DOMAIN,black-bird.ynh.fr
   - DOMAIN,boysbitte.be
+  - DOMAIN,bt.endpot.com
   - DOMAIN,bt.ktrackers.com
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt1.archive.org
   - DOMAIN,bt2.archive.org
   - DOMAIN,canardscitrons.nohost.me
   - DOMAIN,carr.codes
+  - DOMAIN,ch3oh.ru
   - DOMAIN,city21.pk
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
@@ -42,7 +44,6 @@ payload:
   - DOMAIN,hub.bugout.link
   - DOMAIN,incine.ru
   - DOMAIN,inferno.demonoid.is
-  - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.1337.cx
   - DOMAIN,ipv6.fuuuuuck.com
   - DOMAIN,ipv6.govt.hu
@@ -61,9 +62,9 @@ payload:
   - DOMAIN,oh.fuuuuuck.com
   - DOMAIN,open-v6.demonoid.ch
   - DOMAIN,open.acgnxtracker.com
+  - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.u-p.pw
@@ -76,7 +77,6 @@ payload:
   - DOMAIN,psyco.fr
   - DOMAIN,public-tracker.cf
   - DOMAIN,public.publictracker.xyz
-  - DOMAIN,region.nl1.privex.cc
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
   - DOMAIN,retracker01-msk-virt.corbina.net
@@ -104,6 +104,8 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.bangumi.moe
   - DOMAIN,tr.burnabyhighstar.com
+  - DOMAIN,tr.cili001.com
+  - DOMAIN,tr.ready4.icu
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.4.babico.name.tr
@@ -112,6 +114,7 @@ payload:
   - DOMAIN,tracker.auctor.tv
   - DOMAIN,tracker.bangumi.zip
   - DOMAIN,tracker.birkenwald.de
+  - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.ccp.ovh
   - DOMAIN,tracker.cloudit.top
@@ -157,7 +160,6 @@ payload:
   - DOMAIN,tracker.therarbg.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
@@ -172,10 +174,8 @@ payload:
   - DOMAIN,trackers.mlsub.net
   - DOMAIN,ts.populargamers.co.za
   - DOMAIN,ttk2.nbaonlineservice.com
-  - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,uploads.gamecoast.net
   - DOMAIN,v1046920.hosted-by-vdsina.ru
-  - DOMAIN,v2.iperson.xyz
   - DOMAIN,v6-tracker.0g.cx
   - DOMAIN,vm3268418.24ssd.had.wf
   - DOMAIN,wepzone.net
