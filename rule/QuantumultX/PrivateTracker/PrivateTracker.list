@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-19 02:12:31
-# HOST: 176
+# UPDATED: 2023-07-20 02:13:10
+# HOST: 175
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 118
 # IP-CIDR: 7
 # IP6-CIDR: 2
-# TOTAL: 306
+# TOTAL: 305
 HOST,107.182.30.76.16clouds.com,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -18,7 +18,6 @@ HOST,acxx.de,PrivateTracker
 HOST,aegir.sexy,PrivateTracker
 HOST,black-bird.ynh.fr,PrivateTracker
 HOST,boysbitte.be,PrivateTracker
-HOST,bt.endpot.com,PrivateTracker
 HOST,bt.ktrackers.com,PrivateTracker
 HOST,bt.okmp3.ru,PrivateTracker
 HOST,bt1.archive.org,PrivateTracker
@@ -29,7 +28,6 @@ HOST,ch3oh.ru,PrivateTracker
 HOST,city21.pk,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
-HOST,download.nerocloud.me,PrivateTracker
 HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
 HOST,epider.me,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
@@ -61,7 +59,6 @@ HOST,odd-hd.fr,PrivateTracker
 HOST,oh.fuuuuuck.com,PrivateTracker
 HOST,open-v6.demonoid.ch,PrivateTracker
 HOST,open.acgnxtracker.com,PrivateTracker
-HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
@@ -76,6 +73,7 @@ HOST,private.anonseed.com,PrivateTracker
 HOST,psyco.fr,PrivateTracker
 HOST,public-tracker.cf,PrivateTracker
 HOST,public.publictracker.xyz,PrivateTracker
+HOST,public.tracker.vraphim.com,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta-net.ru,PrivateTracker
 HOST,retracker01-msk-virt.corbina.net,PrivateTracker
@@ -104,7 +102,6 @@ HOST,torrentsmd.com,PrivateTracker
 HOST,tr.bangumi.moe,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.cili001.com,PrivateTracker
-HOST,tr.ready4.icu,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker.0x7c0.com,PrivateTracker
 HOST,tracker.4.babico.name.tr,PrivateTracker
@@ -173,8 +170,10 @@ HOST,trackerb.jonaslsa.com,PrivateTracker
 HOST,trackers.mlsub.net,PrivateTracker
 HOST,ts.populargamers.co.za,PrivateTracker
 HOST,ttk2.nbaonlineservice.com,PrivateTracker
+HOST,u4.trakx.crim.ist,PrivateTracker
 HOST,uploads.gamecoast.net,PrivateTracker
 HOST,v1046920.hosted-by-vdsina.ru,PrivateTracker
+HOST,v2.iperson.xyz,PrivateTracker
 HOST,v6-tracker.0g.cx,PrivateTracker
 HOST,vm3268418.24ssd.had.wf,PrivateTracker
 HOST,wepzone.net,PrivateTracker

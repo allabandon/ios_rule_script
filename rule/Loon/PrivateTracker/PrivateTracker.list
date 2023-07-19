@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-19 02:12:31
-# DOMAIN: 176
+# UPDATED: 2023-07-20 02:13:10
+# DOMAIN: 175
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 118
 # IP-CIDR: 7
 # IP-CIDR6: 2
-# TOTAL: 306
+# TOTAL: 305
 DOMAIN,107.182.30.76.16clouds.com
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -18,7 +18,6 @@ DOMAIN,acxx.de
 DOMAIN,aegir.sexy
 DOMAIN,black-bird.ynh.fr
 DOMAIN,boysbitte.be
-DOMAIN,bt.endpot.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt1.archive.org
@@ -29,7 +28,6 @@ DOMAIN,ch3oh.ru
 DOMAIN,city21.pk
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,download.nerocloud.me
 DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,epider.me
 DOMAIN,exodus.desync.com
@@ -61,7 +59,6 @@ DOMAIN,odd-hd.fr
 DOMAIN,oh.fuuuuuck.com
 DOMAIN,open-v6.demonoid.ch
 DOMAIN,open.acgnxtracker.com
-DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
@@ -76,6 +73,7 @@ DOMAIN,private.anonseed.com
 DOMAIN,psyco.fr
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta-net.ru
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -104,7 +102,6 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.bangumi.moe
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.cili001.com
-DOMAIN,tr.ready4.icu
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.4.babico.name.tr
@@ -173,8 +170,10 @@ DOMAIN,trackerb.jonaslsa.com
 DOMAIN,trackers.mlsub.net
 DOMAIN,ts.populargamers.co.za
 DOMAIN,ttk2.nbaonlineservice.com
+DOMAIN,u4.trakx.crim.ist
 DOMAIN,uploads.gamecoast.net
 DOMAIN,v1046920.hosted-by-vdsina.ru
+DOMAIN,v2.iperson.xyz
 DOMAIN,v6-tracker.0g.cx
 DOMAIN,vm3268418.24ssd.had.wf
 DOMAIN,wepzone.net

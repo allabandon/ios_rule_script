@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-07-14 02:11:38
+# UPDATED: 2023-07-20 02:11:40
 # DOMAIN: 159
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19159
+# DOMAIN-SUFFIX: 19160
 # IP-CIDR: 105
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19467
+# TOTAL: 19468
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -13344,6 +13344,7 @@ payload:
   - DOMAIN-SUFFIX,yunlaopo.cc
   - DOMAIN-SUFFIX,yunlaopo.com
   - DOMAIN-SUFFIX,yunlaopo.net
+  - DOMAIN-SUFFIX,yusercontent.com
   - DOMAIN-SUFFIX,yusjb.com
   - DOMAIN-SUFFIX,ywbclx.top
   - DOMAIN-SUFFIX,ywoos.com
